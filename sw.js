@@ -1,4 +1,4 @@
-const CACHE_NAME = 'quick-recap-v4';
+const CACHE_NAME = 'quick-recap-v5';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
