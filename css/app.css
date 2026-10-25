@@ -570,6 +570,30 @@ body {
 .mt-4 { margin-top: 1rem; }
 .w-full { width: 100%; }
 
+/* Pill button */
+.pill-btn {
+  background-color: var(--bg-card-hover);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.45rem 0.9rem;
+  border-radius: 9999px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  user-select: none;
+}
+
+.pill-btn:hover {
+  border-color: var(--accent);
+}
+
+.pill-btn.active {
+  background-color: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
 /* Icon button */
 .icon-btn {
   background: transparent;

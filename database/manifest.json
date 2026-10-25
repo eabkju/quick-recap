@@ -23,15 +23,15 @@
     "title": "Respiratory Rapid Recall All 70 Explained",
     "count": 70,
     "topics": [
-      "Respiratory Failure",
-      "Approach to Dyspnea",
       "Pneumonia",
-      "Tuberculosis (TB)",
-      "Asthma and COPD",
-      "Lung Cancer",
       "Pleural Diseases",
+      "Respiratory Failure",
+      "Lung Cancer",
+      "Approach to Dyspnea",
       "Upper Respiratory Tract Infection (URTI)",
-      "Bronchiectasis"
+      "Bronchiectasis",
+      "Tuberculosis (TB)",
+      "Asthma and COPD"
     ]
   }
 ]

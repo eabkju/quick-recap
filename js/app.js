@@ -403,7 +403,7 @@ class RapidRecallApp {
     const ch = this.chapters.find(c => c.id === chapterId);
     if (!ch) return;
     const questions = await this.fetchChapterQuestions(ch);
-    this.initiateExam(questions, ch.title, ch.id);
+    this.promptExamConfig(questions, ch.title, ch.id);
   }
 
   async startGrandExam() {
@@ -412,17 +412,125 @@ class RapidRecallApp {
       alert('No questions loaded for Grand Exam.');
       return;
     }
-    this.initiateExam(allQuestions, 'Grand Exam (All Topics)', 'grand_exam');
+    this.promptExamConfig(allQuestions, 'Grand Exam (All Topics)', 'grand_exam');
   }
 
-  initiateExam(questionPool, examTitle, examId) {
+  promptExamConfig(questionPool, examTitle, examId) {
+    if (!questionPool || questionPool.length === 0) {
+      alert('No questions available for this exam.');
+      return;
+    }
+
+    const totalAvailable = questionPool.length;
+    let selectedCount = Math.min(20, totalAvailable);
+
+    // Preset size options
+    const presets = [10, 20, 30, 50].filter(n => n < totalAvailable);
+    if (!presets.includes(totalAvailable)) {
+      presets.push(totalAvailable); // "All"
+    }
+
+    const modal = document.createElement('div');
+    modal.className = 'modal-overlay';
+    modal.id = 'exam-config-modal';
+
+    const pillsHtml = presets.map(count => {
+      const isAll = count === totalAvailable;
+      const label = isAll ? `All (${count})` : `${count}`;
+      const isActive = count === selectedCount;
+      return `<button type="button" class="pill-btn ${isActive ? 'active' : ''}" data-count="${count}">${label}</button>`;
+    }).join('');
+
+    modal.innerHTML = `
+      <div class="modal-content">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
+          <h3 style="font-size: 1.2rem; font-weight: 800;">⚙️ Exam Configuration</h3>
+          <button class="icon-btn" id="btn-close-exam-config">✕</button>
+        </div>
+
+        <div style="font-size: 0.95rem; font-weight: 700; color: var(--accent); margin-bottom: 0.25rem;">
+          ${examTitle}
+        </div>
+        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.25rem;">
+          Available question pool: <strong>${totalAvailable}</strong> questions
+        </div>
+
+        <label style="font-size: 0.88rem; font-weight: 700; display: block; margin-bottom: 0.5rem;">
+          Set Number of Questions for this Exam:
+        </label>
+
+        <div class="exam-size-pills" style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem;">
+          ${pillsHtml}
+        </div>
+
+        <div style="margin-bottom: 1.25rem;">
+          <label style="font-size: 0.8rem; color: var(--text-muted); display: block; margin-bottom: 0.35rem;">
+            Or enter custom question count (1 to ${totalAvailable}):
+          </label>
+          <input type="number" id="input-exam-size" min="1" max="${totalAvailable}" value="${selectedCount}"
+            style="width: 100%; padding: 0.65rem 0.85rem; border-radius: var(--radius-md); border: 2px solid var(--border-color); background: var(--bg-card); color: var(--text-primary); font-size: 1rem; outline: none;">
+        </div>
+
+        <div style="display: flex; gap: 0.5rem;">
+          <button class="btn btn-secondary" id="btn-cancel-exam-config" style="flex: 1;">Cancel</button>
+          <button class="btn btn-primary" id="btn-start-shuffled-exam" style="flex: 2;">
+            🔀 Start Shuffled Exam (<span id="config-btn-count">${selectedCount}</span>)
+          </button>
+        </div>
+      </div>
+    `;
+
+    document.body.appendChild(modal);
+
+    const input = modal.querySelector('#input-exam-size');
+    const badge = modal.querySelector('#config-btn-count');
+
+    const updateCount = (newCount) => {
+      selectedCount = Math.max(1, Math.min(totalAvailable, parseInt(newCount, 10) || 1));
+      input.value = selectedCount;
+      badge.textContent = selectedCount;
+
+      modal.querySelectorAll('.pill-btn').forEach(pill => {
+        const c = parseInt(pill.getAttribute('data-count'), 10);
+        pill.classList.toggle('active', c === selectedCount);
+      });
+    };
+
+    modal.querySelectorAll('.pill-btn').forEach(pill => {
+      pill.addEventListener('click', () => {
+        const c = parseInt(pill.getAttribute('data-count'), 10);
+        updateCount(c);
+      });
+    });
+
+    input.addEventListener('input', () => {
+      updateCount(input.value);
+    });
+
+    modal.querySelector('#btn-close-exam-config')?.addEventListener('click', () => modal.remove());
+    modal.querySelector('#btn-cancel-exam-config')?.addEventListener('click', () => modal.remove());
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) modal.remove();
+    });
+
+    modal.querySelector('#btn-start-shuffled-exam')?.addEventListener('click', () => {
+      modal.remove();
+      this.initiateExam(questionPool, examTitle, examId, selectedCount);
+    });
+  }
+
+  initiateExam(questionPool, examTitle, examId, examSize = null) {
     // Generate MCQ list with authentic distractors and randomized options
-    const mcqList = generateMcqExam(questionPool, null, questionPool);
+    // Both questions order and options order are newly shuffled each time!
+    const targetSize = examSize ? Math.min(examSize, questionPool.length) : null;
+    const mcqList = generateMcqExam(questionPool, targetSize, questionPool);
     
     this.view = 'exam';
     this.activeExam = {
       id: examId,
       title: examTitle,
+      rawPool: questionPool,
+      examSize: targetSize || mcqList.length,
       questions: mcqList,
       total: mcqList.length
     };
@@ -472,7 +580,12 @@ class RapidRecallApp {
 
     this.appRoot.innerHTML = `
       <div class="exam-header">
-        <span class="font-bold" style="font-size: 0.9rem;">QUESTION ${currentNum} / ${total}</span>
+        <div style="display: flex; align-items: center; gap: 0.6rem;">
+          <span class="font-bold" style="font-size: 0.9rem;">QUESTION ${currentNum} / ${total}</span>
+          <button class="btn btn-secondary btn-sm" id="btn-exam-finish-early" style="padding: 0.2rem 0.5rem; font-size: 0.75rem;" title="Submit and review explanations now">
+            Submit Early
+          </button>
+        </div>
         <span class="exam-timer" id="exam-timer-display">⏱️ 00:00</span>
       </div>
 
@@ -517,6 +630,12 @@ class RapidRecallApp {
       }
     });
 
+    document.getElementById('btn-exam-finish-early')?.addEventListener('click', () => {
+      if (confirm('Do you want to submit your exam now and view results and explanations?')) {
+        this.finishExam();
+      }
+    });
+
     document.getElementById('btn-exam-next')?.addEventListener('click', () => {
       if (currentNum === total) {
         this.finishExam();
@@ -556,6 +675,10 @@ class RapidRecallApp {
     const mins = Math.floor(elapsedSeconds / 60);
     const secs = elapsedSeconds % 60;
     const timeFormatted = mins > 0 ? `${mins}m ${secs}s` : `${secs}s`;
+
+    const missedQuestions = this.activeExam.questions
+      .filter((q, idx) => this.examUserAnswers[idx] !== q.correctIndex)
+      .map(q => q.rawItem);
 
     let reviewCardsHtml = this.activeExam.questions.map((q, idx) => {
       const userChoice = this.examUserAnswers[idx];
@@ -617,12 +740,25 @@ class RapidRecallApp {
         </div>
       </div>
 
-      <div style="display: flex; gap: 0.5rem; margin-bottom: 1.25rem;">
-        <button class="btn btn-primary" id="btn-review-home" style="flex: 1;">
+      <!-- Action buttons with prominent Shuffle options -->
+      <div style="display: flex; flex-direction: column; gap: 0.65rem; margin-bottom: 1.5rem;">
+        <div style="display: flex; gap: 0.5rem;">
+          <button class="btn btn-primary" id="btn-review-shuffle" style="flex: 2; background: linear-gradient(135deg, #2563eb, #7c3aed);">
+            🔀 Shuffle & Retake (${total} Qs)
+          </button>
+          <button class="btn btn-secondary" id="btn-review-change-size" style="flex: 1;" title="Change Question Count">
+            ⚙️ Set Qs
+          </button>
+        </div>
+
+        ${missedQuestions.length > 0 ? `
+          <button class="btn btn-secondary" id="btn-review-shuffle-missed" style="border-color: var(--danger); color: var(--danger); font-weight: 700;">
+            🔥 Shuffle Missed Questions Only (${missedQuestions.length})
+          </button>
+        ` : ''}
+
+        <button class="btn btn-secondary" id="btn-review-home">
           🏠 Back to Home
-        </button>
-        <button class="btn btn-secondary" id="btn-review-retake" style="flex: 1;">
-          🔄 Retake Exam
         </button>
       </div>
 
@@ -633,11 +769,34 @@ class RapidRecallApp {
       <div class="review-list">
         ${reviewCardsHtml}
       </div>
+
+      <div style="margin-top: 1.5rem; margin-bottom: 2rem; display: flex; flex-direction: column; gap: 0.6rem;">
+        <button class="btn btn-primary" id="btn-review-bottom-shuffle" style="background: linear-gradient(135deg, #2563eb, #7c3aed);">
+          🔀 Shuffle & Retake Exam (${total} Qs)
+        </button>
+        <button class="btn btn-secondary" id="btn-review-bottom-home">
+          🏠 Back to Home
+        </button>
+      </div>
     `;
 
     document.getElementById('btn-review-home')?.addEventListener('click', () => this.renderHome());
-    document.getElementById('btn-review-retake')?.addEventListener('click', () => {
-      this.initiateExam(this.activeExam.questions.map(q => q.rawItem), this.activeExam.title, this.activeExam.id);
+    document.getElementById('btn-review-bottom-home')?.addEventListener('click', () => this.renderHome());
+
+    // Shuffle & Retake: fresh randomized question order and fresh shuffled options
+    const handleShuffleRetake = () => {
+      this.initiateExam(this.activeExam.rawPool, this.activeExam.title, this.activeExam.id, this.activeExam.examSize);
+    };
+
+    document.getElementById('btn-review-shuffle')?.addEventListener('click', handleShuffleRetake);
+    document.getElementById('btn-review-bottom-shuffle')?.addEventListener('click', handleShuffleRetake);
+
+    document.getElementById('btn-review-change-size')?.addEventListener('click', () => {
+      this.promptExamConfig(this.activeExam.rawPool, this.activeExam.title, this.activeExam.id);
+    });
+
+    document.getElementById('btn-review-shuffle-missed')?.addEventListener('click', () => {
+      this.initiateExam(missedQuestions, `${this.activeExam.title} (Missed Drill)`, `${this.activeExam.id}_missed`, missedQuestions.length);
     });
 
     this.appRoot.querySelectorAll('.btn-review-flag').forEach(btn => {
@@ -718,7 +877,7 @@ class RapidRecallApp {
     });
 
     document.getElementById('btn-exam-hard')?.addEventListener('click', () => {
-      this.initiateExam(hardList, 'Hard Questions Mistake Drill', 'hard_drill');
+      this.promptExamConfig(hardList, 'Hard Questions Mistake Drill', 'hard_drill');
     });
   }
 
@@ -789,7 +948,7 @@ class RapidRecallApp {
     });
 
     document.getElementById('btn-exam-flagged')?.addEventListener('click', () => {
-      this.initiateExam(flaggedList, 'Flagged Questions Exam', 'flagged_exam');
+      this.promptExamConfig(flaggedList, 'Flagged Questions Exam', 'flagged_exam');
     });
   }
 
