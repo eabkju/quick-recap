@@ -2,7 +2,7 @@ import { Storage } from './storage.js';
 import { generateMcqExam } from './mcq.js';
 import { attachSwipeListener } from './swipe.js';
 
-class RapidRecallApp {
+class QuickRecapApp {
   constructor() {
     this.chapters = [];
     this.currentChapter = null;
@@ -69,9 +69,9 @@ class RapidRecallApp {
       } else {
         // Fallback default chapters if manifest fetch fails
         this.chapters = [
-          { id: 'cardiology_rapid_recall_all_99_explained', filename: 'cardiology_rapid_recall_all_99_explained.json', title: 'Cardiology Rapid Recall', count: 99 },
-          { id: 'neurology_rapid_recall_all_46_explained', filename: 'neurology_rapid_recall_all_46_explained.json', title: 'Neurology Rapid Recall', count: 46 },
-          { id: 'respiratory_rapid_recall_all_70_explained', filename: 'respiratory_rapid_recall_all_70_explained.json', title: 'Respiratory Rapid Recall', count: 70 }
+          { id: 'cardiology_rapid_recall_all_99_explained', filename: 'cardiology_rapid_recall_all_99_explained.json', title: 'Cardiology Quick Recap', count: 99 },
+          { id: 'neurology_rapid_recall_all_46_explained', filename: 'neurology_rapid_recall_all_46_explained.json', title: 'Neurology Quick Recap', count: 46 },
+          { id: 'respiratory_rapid_recall_all_70_explained', filename: 'respiratory_rapid_recall_all_70_explained.json', title: 'Respiratory Quick Recap', count: 70 }
         ];
       }
     } catch (e) {
@@ -184,7 +184,7 @@ class RapidRecallApp {
     this.view = 'home';
     this.setProgressBar(0);
     if (this.backBtn) this.backBtn.style.display = 'none';
-    if (this.headerTitle) this.headerTitle.textContent = 'Medical Rapid Recall';
+    if (this.headerTitle) this.headerTitle.textContent = 'Medical Quick Recap';
 
     this.appRoot.innerHTML = `
       <div class="home-search-section">
@@ -416,7 +416,7 @@ class RapidRecallApp {
           </button>
           ${matchedChapters.map(ch => `
             <button type="button" class="search-filter-chip ${this.homeSearchFilter === ch.id ? 'active' : ''}" data-filter="${ch.id}">
-              ${this.escapeHtml(ch.title.replace(/ Rapid Recall/i, ''))} (${chapterCounts[ch.id]})
+              ${this.escapeHtml(ch.title.replace(/ (Rapid Recall|Quick Recap)/i, ''))} (${chapterCounts[ch.id]})
             </button>
           `).join('')}
         </div>
@@ -1004,7 +1004,7 @@ class RapidRecallApp {
           ${score} / ${total} Correct
         </div>
         <div style="font-size: 0.85rem; opacity: 0.85; margin-top: 0.2rem;">
-          Time: ${timeFormatted} • ${percent >= 70 ? '🎉 Excellent Recall!' : 'Keep practicing to master weak areas!'}
+          Time: ${timeFormatted} • ${percent >= 70 ? '🎉 Excellent Recap!' : 'Keep practicing to master weak areas!'}
         </div>
       </div>
 
@@ -1301,6 +1301,8 @@ class RapidRecallApp {
 
 // Initialize on DOMContentLoaded
 document.addEventListener('DOMContentLoaded', () => {
-  window.app = new RapidRecallApp();
+  window.app = new QuickRecapApp();
+  window.RapidRecallApp = QuickRecapApp;
+  window.QuickRecapApp = QuickRecapApp;
   window.app.init();
 });

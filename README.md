@@ -1,6 +1,6 @@
-# 🩺 Medical Rapid Recall Web App
+# 🩺 Medical Quick Recap Web App
 
-A high-yield medical learning and exam preparation web application built for rapid memorization, active recall, and adaptive self-examination.
+A high-yield medical learning and exam preparation web application built for quick recap, active recall, and adaptive self-examination.
 
 ---
 

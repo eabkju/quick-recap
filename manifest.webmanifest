@@ -1,6 +1,6 @@
 {
-  "name": "Medical Rapid Recall",
-  "short_name": "RapidRecall",
+  "name": "Medical Quick Recap",
+  "short_name": "QuickRecap",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f8fafc",

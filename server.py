@@ -23,7 +23,7 @@ def update_manifest():
                 
                 clean_name = filename.replace('.json', '')
                 title_words = [w.capitalize() for w in clean_name.split('_')]
-                title = ' '.join(title_words)
+                title = ' '.join(title_words).replace('Rapid Recall', 'Quick Recap')
                 
                 topics = list(set(it.get('topic', 'General') for it in items if isinstance(it, dict)))
                 manifest.append({
@@ -55,7 +55,7 @@ if __name__ == '__main__':
     socketserver.TCPServer.allow_reuse_address = True
     with socketserver.TCPServer(("", PORT), Handler) as httpd:
         print(f"\n=======================================================")
-        print(f"🩺 Medical Rapid Recall Web App is running!")
+        print(f"🩺 Medical Quick Recap Web App is running!")
         print(f"👉 Local URL: http://localhost:{PORT}")
         print(f"👉 Network:   http://127.0.0.1:{PORT}")
         print(f"=======================================================\n")

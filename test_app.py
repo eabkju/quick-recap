@@ -2,7 +2,7 @@ import os
 import json
 import unittest
 
-class TestRapidRecallApp(unittest.TestCase):
+class TestQuickRecapApp(unittest.TestCase):
     def setUp(self):
         self.app_dir = os.path.dirname(os.path.abspath(__file__))
         self.db_dir = os.path.join(self.app_dir, 'database')

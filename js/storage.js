@@ -1,5 +1,5 @@
 /**
- * Storage Manager for Rapid Recall App
+ * Storage Manager for Quick Recap App
  * Handles reading progress, mistakes ("Hard Questions"), bookmarks ("Flagged"), and settings.
  */
 
