@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cardiology_rapid_recall_all_99_explained",
+    "filename": "cardiology_rapid_recall_all_99_explained.json",
+    "title": "Cardiology Rapid Recall All 99 Explained",
+    "count": 99,
+    "topics": [
+      "Cardiology"
+    ]
+  },
+  {
+    "id": "neurology_rapid_recall_all_46_explained",
+    "filename": "neurology_rapid_recall_all_46_explained.json",
+    "title": "Neurology Rapid Recall All 46 Explained",
+    "count": 46,
+    "topics": [
+      "Neurology"
+    ]
+  },
+  {
+    "id": "respiratory_rapid_recall_all_70_explained",
+    "filename": "respiratory_rapid_recall_all_70_explained.json",
+    "title": "Respiratory Rapid Recall All 70 Explained",
+    "count": 70,
+    "topics": [
+      "Respiratory Failure",
+      "Approach to Dyspnea",
+      "Pneumonia",
+      "Tuberculosis (TB)",
+      "Asthma and COPD",
+      "Lung Cancer",
+      "Pleural Diseases",
+      "Upper Respiratory Tract Infection (URTI)",
+      "Bronchiectasis"
+    ]
+  }
+]
