@@ -17,6 +17,11 @@ class RapidRecallApp {
     this.examTimerInterval = null;
     this.examStartTime = null;
 
+    // Search state
+    this.homeSearchQuery = '';
+    this.homeSearchFilter = 'all';
+    this.allQuestionsCache = null;
+
     // Dom elements
     this.appRoot = document.getElementById('app-root');
     this.thinProgressBar = document.getElementById('thin-progress-bar');
@@ -81,6 +86,7 @@ class RapidRecallApp {
       return data.map((item, idx) => ({
         ...item,
         id: `${chapter.id}_${idx}`,
+        originalIndex: idx,
         chapterId: chapter.id,
         chapterTitle: chapter.title
       }));
@@ -91,11 +97,15 @@ class RapidRecallApp {
   }
 
   async fetchAllQuestions() {
+    if (this.allQuestionsCache && this.allQuestionsCache.length > 0) {
+      return this.allQuestionsCache;
+    }
     let all = [];
     for (const ch of this.chapters) {
       const qs = await this.fetchChapterQuestions(ch);
       all = all.concat(qs);
     }
+    this.allQuestionsCache = all;
     return all;
   }
 
@@ -141,12 +151,110 @@ class RapidRecallApp {
   }
 
   // --- VIEW: HOME ---
+  escapeHtml(str) {
+    if (!str) return '';
+    return String(str).replace(/[&<>"']/g, m => ({
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+      "'": '&#039;'
+    }[m]));
+  }
+
+  highlightMatch(text, query) {
+    if (!text) return '';
+    if (!query) return this.escapeHtml(text);
+    const escapedText = this.escapeHtml(text);
+    const words = query.trim().split(/\s+/).filter(w => w.length > 0);
+    if (words.length === 0) return escapedText;
+
+    const safeWords = [...new Set(words)]
+      .sort((a, b) => b.length - a.length)
+      .map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+    try {
+      const regex = new RegExp(`(${safeWords.join('|')})`, 'gi');
+      return escapedText.replace(regex, '<mark class="search-highlight">$1</mark>');
+    } catch {
+      return escapedText;
+    }
+  }
+
   renderHome() {
     this.view = 'home';
     this.setProgressBar(0);
     if (this.backBtn) this.backBtn.style.display = 'none';
     if (this.headerTitle) this.headerTitle.textContent = 'Medical Rapid Recall';
 
+    this.appRoot.innerHTML = `
+      <div class="home-search-section">
+        <div class="home-search-box">
+          <span class="home-search-icon">🔍</span>
+          <input 
+            type="search" 
+            id="home-search-input" 
+            class="home-search-input" 
+            placeholder="Search all questions, answers, topics, explanations..." 
+            value="${this.escapeHtml(this.homeSearchQuery || '')}"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button type="button" id="home-search-clear-btn" class="home-search-clear-btn" style="display: ${this.homeSearchQuery ? 'flex' : 'none'};" title="Clear Search">✕</button>
+        </div>
+      </div>
+      <div id="home-main-content"></div>
+    `;
+
+    const searchInput = this.appRoot.querySelector('#home-search-input');
+    const clearBtn = this.appRoot.querySelector('#home-search-clear-btn');
+
+    searchInput?.addEventListener('input', (e) => {
+      this.homeSearchQuery = e.target.value;
+      if (clearBtn) clearBtn.style.display = this.homeSearchQuery ? 'flex' : 'none';
+      this.updateHomeMainContent();
+    });
+
+    searchInput?.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        this.clearHomeSearch();
+      }
+    });
+
+    clearBtn?.addEventListener('click', () => {
+      this.clearHomeSearch();
+    });
+
+    this.updateHomeMainContent();
+  }
+
+  clearHomeSearch() {
+    this.homeSearchQuery = '';
+    this.homeSearchFilter = 'all';
+    const input = this.appRoot.querySelector('#home-search-input');
+    const clearBtn = this.appRoot.querySelector('#home-search-clear-btn');
+    if (input) {
+      input.value = '';
+      input.focus();
+    }
+    if (clearBtn) {
+      clearBtn.style.display = 'none';
+    }
+    this.updateHomeMainContent();
+  }
+
+  async updateHomeMainContent() {
+    const mainContent = this.appRoot.querySelector('#home-main-content');
+    if (!mainContent) return;
+
+    const query = (this.homeSearchQuery || '').trim();
+    if (!query) {
+      this.renderHomeOverview(mainContent);
+    } else {
+      await this.renderHomeSearchResults(mainContent, query);
+    }
+  }
+
+  renderHomeOverview(container) {
     const hardQuestions = Storage.getHardQuestions();
     const flaggedQuestions = Storage.getFlaggedQuestions();
     const allProgress = Storage.getAllProgress();
@@ -161,7 +269,7 @@ class RapidRecallApp {
         <div class="chapter-card" data-chapter-id="${ch.id}">
           <div class="chapter-card-header">
             <div>
-              <div class="chapter-title">${ch.title}</div>
+              <div class="chapter-title">${this.escapeHtml(ch.title)}</div>
               <div class="text-muted" style="font-size: 0.8rem; margin-top: 0.2rem;">
                 ${ch.count} Questions • ${completedCount} Completed (${percent}%)
               </div>
@@ -185,7 +293,7 @@ class RapidRecallApp {
       `;
     }).join('');
 
-    this.appRoot.innerHTML = `
+    container.innerHTML = `
       <div class="quick-action-grid">
         <div class="action-card grand-exam" id="btn-grand-exam">
           <div class="action-icon" style="background: rgba(37,99,235,0.15); color: #2563eb;">🏆</div>
@@ -231,7 +339,7 @@ class RapidRecallApp {
     `;
 
     // Bind Home events
-    this.appRoot.querySelectorAll('.btn-study').forEach(btn => {
+    container.querySelectorAll('.btn-study').forEach(btn => {
       btn.addEventListener('click', (e) => {
         e.stopPropagation();
         const chId = btn.getAttribute('data-chapter-id');
@@ -239,7 +347,7 @@ class RapidRecallApp {
       });
     });
 
-    this.appRoot.querySelectorAll('.btn-exam').forEach(btn => {
+    container.querySelectorAll('.btn-exam').forEach(btn => {
       btn.addEventListener('click', (e) => {
         e.stopPropagation();
         const chId = btn.getAttribute('data-chapter-id');
@@ -247,36 +355,196 @@ class RapidRecallApp {
       });
     });
 
-    this.appRoot.querySelector('#btn-grand-exam')?.addEventListener('click', () => {
+    container.querySelector('#btn-grand-exam')?.addEventListener('click', () => {
       this.startGrandExam();
     });
 
-    this.appRoot.querySelector('#btn-hard-questions')?.addEventListener('click', () => {
+    container.querySelector('#btn-hard-questions')?.addEventListener('click', () => {
       this.renderHardQuestions();
     });
 
-    this.appRoot.querySelector('#btn-flagged-questions')?.addEventListener('click', () => {
+    container.querySelector('#btn-flagged-questions')?.addEventListener('click', () => {
       this.renderFlaggedQuestions();
     });
 
-    this.appRoot.querySelector('#btn-search-questions')?.addEventListener('click', () => {
-      this.renderSearchModal();
+    container.querySelector('#btn-search-questions')?.addEventListener('click', () => {
+      const searchInput = this.appRoot.querySelector('#home-search-input');
+      if (searchInput) {
+        searchInput.focus();
+        searchInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    });
+  }
+
+  async renderHomeSearchResults(container, query) {
+    const allQuestions = await this.fetchAllQuestions();
+    const tokens = query.toLowerCase().split(/\s+/).filter(Boolean);
+
+    // Find questions where every token matches at least one field
+    const allMatches = allQuestions.filter(q => {
+      const targetText = [
+        q.question,
+        q.answer,
+        q.explanation_bn,
+        q.topic,
+        q.chapterTitle
+      ].filter(Boolean).join(' ').toLowerCase();
+
+      return tokens.every(token => targetText.includes(token));
+    });
+
+    // Count per chapter
+    const chapterCounts = {};
+    allMatches.forEach(q => {
+      chapterCounts[q.chapterId] = (chapterCounts[q.chapterId] || 0) + 1;
+    });
+
+    // Filter by selected chapter pill
+    let filteredMatches = allMatches;
+    if (this.homeSearchFilter !== 'all') {
+      filteredMatches = allMatches.filter(q => q.chapterId === this.homeSearchFilter);
+    }
+
+    // Filter pills HTML
+    const matchedChapters = this.chapters.filter(ch => (chapterCounts[ch.id] || 0) > 0);
+    let filterPillsHtml = '';
+    if (allMatches.length > 0 && matchedChapters.length > 1) {
+      filterPillsHtml = `
+        <div class="search-filter-bar">
+          <button type="button" class="search-filter-chip ${this.homeSearchFilter === 'all' ? 'active' : ''}" data-filter="all">
+            All (${allMatches.length})
+          </button>
+          ${matchedChapters.map(ch => `
+            <button type="button" class="search-filter-chip ${this.homeSearchFilter === ch.id ? 'active' : ''}" data-filter="${ch.id}">
+              ${this.escapeHtml(ch.title.replace(/ Rapid Recall/i, ''))} (${chapterCounts[ch.id]})
+            </button>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    if (allMatches.length === 0) {
+      container.innerHTML = `
+        <div class="search-empty-state">
+          <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">🔍</div>
+          <h3 style="font-size: 1.1rem; font-weight: 700; margin-bottom: 0.35rem;">No questions matched</h3>
+          <p class="text-muted" style="font-size: 0.85rem; max-width: 320px; margin: 0 auto 1.25rem auto;">
+            No questions matched "<strong>${this.escapeHtml(query)}</strong>". Try searching for symptoms, diseases, medications, or Bengali terms.
+          </p>
+          <button class="btn btn-secondary btn-sm" id="btn-empty-clear-search">Clear Search</button>
+        </div>
+      `;
+      container.querySelector('#btn-empty-clear-search')?.addEventListener('click', () => {
+        this.clearHomeSearch();
+      });
+      return;
+    }
+
+    const cardsHtml = filteredMatches.map(q => {
+      const questionKey = this.getQuestionKey(q);
+      const isBookmarked = Storage.isFlagged(questionKey);
+
+      return `
+        <div class="search-result-card selectable" data-chapter-id="${q.chapterId}" data-original-index="${q.originalIndex}">
+          <div class="search-result-header">
+            <span class="chapter-badge" style="font-size: 0.72rem;">${this.escapeHtml(q.chapterTitle || q.topic || 'General')}</span>
+            <button class="icon-btn search-flag-btn ${isBookmarked ? 'active' : ''}" data-key="${this.escapeHtml(questionKey)}" data-qid="${q.id}" title="Flag Question" style="width: 32px; height: 32px; font-size: 0.9rem;">
+              ${isBookmarked ? '★' : '☆'}
+            </button>
+          </div>
+
+          <div class="search-result-question">${this.highlightMatch(q.question, query)}</div>
+          
+          <div class="search-result-answer">
+            🎯 ${this.highlightMatch(q.answer, query)}
+          </div>
+
+          ${q.explanation_bn ? `
+            <div class="search-result-explanation">
+              ${this.highlightMatch(q.explanation_bn, query)}
+            </div>
+          ` : ''}
+
+          <div class="search-result-footer">
+            <span class="text-muted" style="font-size: 0.75rem;">Question #${q.originalIndex + 1}</span>
+            <span style="font-size: 0.8rem; font-weight: 600; color: var(--accent);">Study in Chapter →</span>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    container.innerHTML = `
+      ${filterPillsHtml}
+      
+      <div class="search-results-header">
+        <div class="search-count-text">
+          Found <strong>${filteredMatches.length}</strong> question${filteredMatches.length === 1 ? '' : 's'}
+          ${this.homeSearchFilter !== 'all' ? `in <em>${this.escapeHtml(this.chapters.find(c => c.id === this.homeSearchFilter)?.title || '')}</em>` : ''}
+        </div>
+        <button class="btn btn-primary btn-sm" id="btn-study-search-batch">
+          📖 Study All (${filteredMatches.length})
+        </button>
+      </div>
+
+      <div class="search-results-list">
+        ${cardsHtml}
+      </div>
+    `;
+
+    // Bind filter chips
+    container.querySelectorAll('.search-filter-chip').forEach(chip => {
+      chip.addEventListener('click', () => {
+        this.homeSearchFilter = chip.getAttribute('data-filter');
+        this.updateHomeMainContent();
+      });
+    });
+
+    // Bind Study Batch
+    container.querySelector('#btn-study-search-batch')?.addEventListener('click', () => {
+      this.startStudyMode('search_results', filteredMatches, `Search: "${query}"`, 0);
+    });
+
+    // Bind Card clicks & Flag buttons
+    container.querySelectorAll('.search-result-card').forEach(card => {
+      const chId = card.getAttribute('data-chapter-id');
+      const origIdx = parseInt(card.getAttribute('data-original-index'), 10);
+      const q = allQuestions.find(item => item.chapterId === chId && item.originalIndex === origIdx);
+
+      card.addEventListener('click', (e) => {
+        if (e.target.closest('.search-flag-btn')) return;
+        this.startStudyMode(chId, null, null, origIdx);
+      });
+
+      const flagBtn = card.querySelector('.search-flag-btn');
+      if (flagBtn && q) {
+        flagBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const qKey = this.getQuestionKey(q);
+          const active = Storage.toggleFlag(qKey, q);
+          flagBtn.classList.toggle('active', active);
+          flagBtn.textContent = active ? '★' : '☆';
+        });
+      }
     });
   }
 
   // --- VIEW: STUDY MODE ---
-  async startStudyMode(chapterId, customQuestions = null, customTitle = null) {
+  async startStudyMode(chapterId, customQuestions = null, customTitle = null, startIndex = null) {
     if (customQuestions) {
       this.currentChapter = { id: chapterId, title: customTitle || 'Custom Review' };
       this.currentQuestions = customQuestions;
-      this.currentIndex = 0;
+      this.currentIndex = (startIndex !== null && startIndex >= 0) ? Math.min(startIndex, customQuestions.length - 1) : 0;
     } else {
       const ch = this.chapters.find(c => c.id === chapterId);
       if (!ch) return;
       this.currentChapter = ch;
       this.currentQuestions = await this.fetchChapterQuestions(ch);
-      const prog = Storage.getProgress(chapterId);
-      this.currentIndex = Math.min(prog.lastIndex || 0, Math.max(0, this.currentQuestions.length - 1));
+      if (startIndex !== null && startIndex >= 0) {
+        this.currentIndex = Math.min(startIndex, Math.max(0, this.currentQuestions.length - 1));
+      } else {
+        const prog = Storage.getProgress(chapterId);
+        this.currentIndex = Math.min(prog.lastIndex || 0, Math.max(0, this.currentQuestions.length - 1));
+      }
     }
 
     if (this.currentQuestions.length === 0) {
@@ -966,7 +1234,7 @@ class RapidRecallApp {
           <button class="icon-btn" id="btn-close-search">✕</button>
         </div>
 
-        <input type="text" id="search-input" placeholder="Type keyword (e.g., stroke, MI, meningitis)..." 
+        <input type="search" id="search-input" placeholder="Type keyword (e.g., stroke, MI, asthma)..." 
           style="width: 100%; padding: 0.75rem 1rem; border-radius: var(--radius-md); border: 2px solid var(--border-color); background: var(--bg-card); color: var(--text-primary); font-size: 1rem; margin-bottom: 1rem; outline: none;">
 
         <div id="search-results-list" style="overflow-y: auto; flex: 1; display: flex; flex-direction: column; gap: 0.75rem;">
@@ -986,30 +1254,47 @@ class RapidRecallApp {
     });
 
     input.addEventListener('input', () => {
-      const query = input.value.trim().toLowerCase();
+      const rawQuery = input.value.trim();
+      const query = rawQuery.toLowerCase();
       if (query.length < 2) {
         resultsContainer.innerHTML = `<div class="text-muted text-center" style="padding: 2rem 0;">Type at least 2 characters to search</div>`;
         return;
       }
 
-      const matches = allQuestions.filter(q => 
-        q.question.toLowerCase().includes(query) ||
-        q.answer.toLowerCase().includes(query) ||
-        (q.explanation_bn && q.explanation_bn.toLowerCase().includes(query))
-      ).slice(0, 30);
+      const tokens = query.split(/\s+/).filter(Boolean);
+      const matches = allQuestions.filter(q => {
+        const targetText = [
+          q.question,
+          q.answer,
+          q.explanation_bn,
+          q.topic,
+          q.chapterTitle
+        ].filter(Boolean).join(' ').toLowerCase();
+
+        return tokens.every(token => targetText.includes(token));
+      }).slice(0, 40);
 
       if (matches.length === 0) {
         resultsContainer.innerHTML = `<div class="text-muted text-center" style="padding: 2rem 0;">No matching questions found</div>`;
         return;
       }
 
-      resultsContainer.innerHTML = matches.map((m, idx) => `
-        <div class="chapter-card selectable" style="padding: 0.85rem; margin-bottom: 0;">
-          <div style="font-size: 0.75rem; color: var(--accent); font-weight: 700;">${m.chapterTitle || m.topic}</div>
-          <div style="font-size: 0.95rem; font-weight: 700; margin: 0.2rem 0;">${m.question}</div>
-          <div style="font-size: 0.85rem; font-weight: 600; color: var(--success);">${m.answer}</div>
+      resultsContainer.innerHTML = matches.map((m) => `
+        <div class="chapter-card selectable modal-search-item" data-chapter-id="${m.chapterId}" data-original-index="${m.originalIndex}" style="padding: 0.85rem; margin-bottom: 0; cursor: pointer;">
+          <div style="font-size: 0.75rem; color: var(--accent); font-weight: 700;">${this.escapeHtml(m.chapterTitle || m.topic)}</div>
+          <div style="font-size: 0.95rem; font-weight: 700; margin: 0.2rem 0;">${this.highlightMatch(m.question, rawQuery)}</div>
+          <div style="font-size: 0.85rem; font-weight: 600; color: var(--success);">${this.highlightMatch(m.answer, rawQuery)}</div>
         </div>
       `).join('');
+
+      resultsContainer.querySelectorAll('.modal-search-item').forEach(item => {
+        item.addEventListener('click', () => {
+          const chId = item.getAttribute('data-chapter-id');
+          const origIdx = parseInt(item.getAttribute('data-original-index'), 10);
+          modal.remove();
+          this.startStudyMode(chId, null, null, origIdx);
+        });
+      });
     });
   }
 }
