@@ -9,6 +9,42 @@
     ]
   },
   {
+    "id": "endocrinology",
+    "filename": "endocrinology.json",
+    "title": "Endocrinology",
+    "count": 52,
+    "topics": [
+      "Endocrinology"
+    ]
+  },
+  {
+    "id": "gastroenterology",
+    "filename": "gastroenterology.json",
+    "title": "Gastroenterology",
+    "count": 46,
+    "topics": [
+      "Gastroenterology"
+    ]
+  },
+  {
+    "id": "haematology",
+    "filename": "haematology.json",
+    "title": "Haematology",
+    "count": 32,
+    "topics": [
+      "Haematology"
+    ]
+  },
+  {
+    "id": "nephrology",
+    "filename": "nephrology.json",
+    "title": "Nephrology",
+    "count": 31,
+    "topics": [
+      "Nephrology"
+    ]
+  },
+  {
     "id": "neurology_rapid_recall_all_46_explained",
     "filename": "neurology_rapid_recall_all_46_explained.json",
     "title": "Neurology Quick Recap All 46 Explained",
@@ -23,15 +59,24 @@
     "title": "Respiratory Quick Recap All 70 Explained",
     "count": 70,
     "topics": [
-      "Asthma and COPD",
       "Upper Respiratory Tract Infection (URTI)",
-      "Respiratory Failure",
       "Approach to Dyspnea",
+      "Lung Cancer",
+      "Bronchiectasis",
       "Pneumonia",
       "Pleural Diseases",
-      "Bronchiectasis",
-      "Lung Cancer",
-      "Tuberculosis (TB)"
+      "Tuberculosis (TB)",
+      "Asthma and COPD",
+      "Respiratory Failure"
+    ]
+  },
+  {
+    "id": "rheumatology",
+    "filename": "rheumatology.json",
+    "title": "Rheumatology",
+    "count": 104,
+    "topics": [
+      "Rheumatology"
     ]
   }
 ]

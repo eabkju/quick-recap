@@ -1,0 +1,194 @@
+[
+  {
+    "topic": "Haematology",
+    "question": "Nutritional deficiency seen in strict vegans (vegetarians)",
+    "answer": "Vitamin B12 (Cobalamin) deficiency",
+    "explanation_bn": "ভিটামিন বি১২ কেবল প্রাণিজ উৎসে (যেমন মাংস, মাছ, ডিম, দুধ) পাওয়া যায় এবং কোনো উদ্ভিজ্জ খাদ্যে এটি থাকে না।\nতাই যারা কঠোর নিরামিষাশী বা ভেগান (যারা কোনো প্রাণিজ খাবার বা দুগ্ধজাত খাবার খান না), তাদের কয়েক বছরের মধ্যে বি১২ ঘাটতি দেখা দেয়।\nযকৃতে বি১২ কয়েক বছরের জন্য সঞ্চিত থাকে বলে এই ঘাটতি প্রকাশ পেতে সাধারণত ৩ থেকে ৫ বছর সময় লাগে।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Physiological site and mechanism of Vitamin B12 absorption",
+    "answer": "Terminal ileum, absorbed as a complex with gastric Intrinsic Factor (IF)",
+    "explanation_bn": "পাকস্থলীর প্যারাইটাল কোষ থেকে নিঃসৃত ইনট্রিনসিক ফ্যাক্টরের (IF) সাথে ভিটামিন বি১২ শক্তভাবে যুক্ত হয়।\nএই বি১২-IF কমপ্লেক্সটি অক্ষত অবস্থায় ক্ষুদ্রান্ত্রের একদম শেষ অংশে বা টার্মিনাল ইলিয়ামের নির্দিষ্ট রিসেপ্টরের মাধ্যমে রক্তে শোষিত হয়।\nতাই ইলিয়াম কেটে ফেললে বা টার্মিনাল ইলিয়ামে ক্রোহন ডিজিজ থাকলে বি১২ মারাত্মকভাবে অপশোষিত হয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Increased nutritional requirement for folate in pregnancy and risk of deficiency",
+    "answer": "Pregnancy causes markedly increased folate requirement; deficiency leads to maternal megaloblastic anaemia and fetal neural tube defects",
+    "explanation_bn": "গর্ভাবস্থায় দ্রুত বর্ধনশীল ভ্রূণের কোষ বিভাজন এবং প্লাসেন্টা বৃদ্ধির জন্য ফোলেটের চাহিদা বহুগুণ বেড়ে যায়।\nপর্যাপ্ত ফোলেট না পেলে মায়ের মেগালোব্লাস্টিক রক্তস্বল্পতা হয় এবং ভ্রূণের নিউরাল টিউব ত্রুটি (যেমন স্পাইনা বাইফিডা ও অ্যানেনসেফালি) ঘটে।\nতাই গর্ভধারণের আগে থেকেই নারীদের দৈনিক ৪০০ মাইক্রোগ্রাম ফলিক অ্যাসিড সাপ্লিমেন্ট গ্রহণের পরামর্শ দেওয়া হয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Hallmark clinical distinction between Vitamin B12 deficiency and Folate deficiency",
+    "answer": "Both cause megaloblastic anaemia; but Vitamin B12 deficiency causes progressive neurological features (Subacute Combined Degeneration), whereas pure folate deficiency does NOT cause neurological deficits",
+    "explanation_bn": "ভিটামিন বি১২ ও ফোলেট ঘাটতি উভয়ই রক্তে সমরূপ মেগালোব্লাস্টিক অ্যানিমিয়া (ম্যাক্রোসাইটোসিস, হাইপারসেগমেন্টেড নিউট্রোফিল) সৃষ্টি করে।\nকিন্তু ভিটামিন বি১২-এর অভাব মায়েলিন গঠনে ব্যাঘাত ঘটিয়ে মারাত্মক স্নায়বিক ক্ষতি বা সাবঅ্যাকিউট কম্বাইন্ড ডিজেনারেশন (SCD) ঘটায়।\nহাত-পায়ে পেরিফেরাল নিউরোপ্যাথি, সেন্সরি অ্যাটাক্সিয়া এবং ডিমেনশিয়া বি১২ ঘাটতির বিশেষ লক্ষণ।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Danger of treating Vitamin B12 deficiency with Folate alone",
+    "answer": "Folate alone improves haematological anaemia but masks and irreversibly worsens progressive neurological damage",
+    "explanation_bn": "ভিটামিন বি১২ ঘাটতি থাকা রোগীকে না জেনে শুধু ফলিক অ্যাসিড দিলে রক্তস্বল্পতা সাময়িকভাবে সেরে যায়, যাকে 'মাস্কিং' বলে।\nকিন্তু স্নায়ুর ক্ষতি অব্যাহত থাকে এবং আরও দ্রুত ভয়াবহ আকার ধারণ করে সুষুম্নাকাণ্ডের স্থায়ী অবক্ষয় ঘটায়।\nতাই মেগালোব্লাস্টিক অ্যানিমিয়ায় বি১২ মাত্রা নিশ্চিত না করে অথবা বি১২ ইনজেকশন ছাড়া কখনই এককভাবে ফলিক অ্যাসিড শুরু করা উচিত নয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Complete Blood Count (CBC) and red cell indices findings in Megaloblastic Anaemia",
+    "answer": "Markedly reduced Haemoglobin, markedly elevated MCV (commonly >120 fL), and disproportionately low erythrocyte and reticulocyte count",
+    "explanation_bn": "মেগালোব্লাস্টিক অ্যানিমিয়ায় ডিএনএ সংশ্লেষণ ব্যাহত হওয়ায় রক্তে হিমোগ্লোবিন ও লোহিত রক্তকণিকার সংখ্যা মারাত্মক কমে যায়।\nতবে সাইটোপ্লাজমের বৃদ্ধি অব্যাহত থাকায় কোষের আকার অস্বাভাবিক বড় হয়ে যায়, ফলে MCV সাধারণত ১২০ ফেমটোলিটারের ওপরে ওঠে।\nইনইফেক্টিভ এরিথ্রোপোয়েসিসের কারণে অস্থিমজ্জায় অপরিণত কোষ নষ্ট হওয়ায় রেটিকুলোসাইট কাউন্ট রক্তশূন্যতার মাত্রার তুলনায় কম থাকে।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Peripheral blood film (PBF) hallmark features in Megaloblastic Anaemia",
+    "answer": "Macro-ovalocytes (large oval RBCs), marked anisopoikilocytosis, basophilic stippling, and hypersegmented neutrophils (≥ 5-6 lobes)",
+    "explanation_bn": "পেরিফেরাল ব্লাড ফিল্মে সবচেয়ে বৈশিষ্ট্যপূর্ণ লক্ষণ হলো ডিম্বাকৃতির বড় লোহিত রক্তকণিকা (ম্যাক্রো-ওভালোসাইট) এবং নিউট্রোফিলের নিউক্লিয়াসে ৫টির বেশি লোব থাকা (হাইপারসেগমেন্টেশন)।\nহাইপারসেগমেন্টেড নিউট্রোফিল মেগালোব্লাস্টিক অ্যানিমিয়ার অন্যতম প্রাথমিক ও সংবেদনশীল রূপগত প্রমাণ।\nএছাড়াও মারাত্মক ক্ষেত্রে শ্বেত রক্তকণিকা ও প্লেটলেট কমে প্যানসাইটোপেনিয়া দেখা দিতে পারে।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Most common anaemia worldwide and best laboratory test for body iron stores",
+    "answer": "Iron Deficiency Anaemia (IDA); Best test for iron stores: Serum Ferritin",
+    "explanation_bn": "সারা বিশ্বে রক্তস্বল্পতার সবচেয়ে সাধারণ ও বহুল রূপ হলো আয়রন ডেফিসিয়েন্সি অ্যানিমিয়া (IDA)।\nশরীরে সঞ্চিত আয়রনের পরিমাণ মূল্যায়নের জন্য সিরাম ফেরিটিন হলো সবচেয়ে নির্ভরযোগ্য ও সংবেদনশীল নন-ইনভেসিভ পরীক্ষা।\nসিরাম ফেরিটিন ১৫ বা ৩০ মাইক্রোগ্রাম/লিটারের নিচে নামলে তা আয়রনের নিশ্চিত ঘাটতি নির্দেশ করে।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Most common cause of Iron Deficiency Anaemia in adult men and postmenopausal women",
+    "answer": "Chronic Gastrointestinal (GI) blood loss (e.g., peptic ulcer, colon cancer, angiodysplasia)",
+    "explanation_bn": "বয়স্ক পুরুষ এবং মেনোপজ-পরবর্তী নারীদের ক্ষেত্রে পুষ্টির অভাব নয়, বরং পরিপাকতন্ত্র থেকে রক্তক্ষরণই আয়রন ঘাটতির প্রধানতম কারণ।\nএমন রোগীদের ক্ষেত্রে লুক্কায়িত খাদ্যনালি, পাকস্থলী বা কোলন ক্যান্সার বাতিল করতে এন্ডোস্কোপি ও কোলনোস্কোপি করা বাধ্যতামূলক।\nঅন্য কোনো স্পষ্ট কারণ ছাড়া এদের ক্ষেত্রে কখনই শুধু আয়রন ট্যাবলেট দিয়ে অপেক্ষা করা উচিত নয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Iron profile comparison between Iron Deficiency Anaemia (IDA) and Anaemia of Chronic Disease (ACD)",
+    "answer": "IDA: Low serum ferritin and High TIBC; ACD: High or normal serum ferritin and Low TIBC",
+    "explanation_bn": "আয়রন ঘাটতিজনিত অ্যানিমিয়ায় শরীরের আয়রন ভাণ্ডার খালি হয়ে ফেরিটিন কমে যায় এবং আয়রন ধারণক্ষমতা (TIBC) ক্ষতিপূরণ হিসেবে বৃদ্ধি পায়।\nবিপরীতে ক্রনিক ডিজিজের রক্তস্বল্পতায় প্রদাহের কারণে হেপসিডিন হরমোন আয়রনকে ম্যাক্রোফেজে আটকে রাখে, ফলে ফেরিটিন স্বাভাবিক বা বেশি থাকে কিন্তু TIBC কমে যায়।\nএই দুটি প্যারামিটার দিয়ে সহজেই মাইক্রোসাইটিক রক্তস্বল্পতার কারণ পৃথক করা যায়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Diagnostic hallmark autoantibody in Pernicious Anaemia",
+    "answer": "Anti-intrinsic factor antibody (highly specific) and anti-parietal cell antibody",
+    "explanation_bn": "পারনিশিয়াস অ্যানিমিয়া একটি অটোইমিউন রোগ যাতে পাকস্থলীর প্যারাইটাল কোষ এবং ইনট্রিনসিক ফ্যাক্টরের বিরুদ্ধে অ্যান্টিবডি তৈরি হয়।\nঅ্যান্টি-ইনট্রিনসিক ফ্যাক্টর অ্যান্টিবডি প্রায় ৫০-৭০% ক্ষেত্রে পাওয়া গেলেও পারনিশিয়াস অ্যানিমিয়ার জন্য অত্যন্ত নির্দিষ্ট (হাইডলি স্পেসিফিক)।\nইনট্রিনসিক ফ্যাক্টর ধ্বংসের ফলে ভিটামিন বি১২ শোষণ বন্ধ হয়ে মারাত্মক মেগালোব্লাস্টিক অ্যানিমিয়া দেখা দেয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Haemoglobin electrophoresis patterns in β-Thalassaemia Major vs β-Thalassaemia Minor (trait)",
+    "answer": "β-Thalassaemia major: Markedly elevated HbF (>90%) with absent or grossly reduced HbA; β-Thalassaemia minor: Elevated HbA2 (>3.5%)",
+    "explanation_bn": "বিটা-থ্যালাসেমিয়া মেজরে বিটা-গ্লোবিন চেইন তৈরি না হওয়ায় প্রাপ্তবয়স্ক স্বাভাবিক হিমোগ্লোবিন (HbA) অনুপস্থিত থাকে এবং রক্তে প্রায় পুরোটাই ফিটাল হিমোগ্লোবিন (HbF) থাকে।\nঅন্যদিকে বিটা-থ্যালাসেমিয়া ক্যারিয়ার বা মাইনরে মৃদু রক্তস্বল্পতার সাথে ডায়াগনস্টিক বৈশিষ্ট্য হিসেবে HbA2-এর মাত্রা ৩.৫%-এর ওপরে বৃদ্ধি পায়।\nহিমোগ্লোবিন ইলেক্ট্রোফোরেসিস এই দুটি অবস্থাকে চূড়ান্তভাবে শনাক্ত করে।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Radiological skull finding and definitive curative treatment for β-Thalassaemia Major",
+    "answer": "Skull X-ray: Hair-on-end appearance; Definitive cure: Allogeneic Haematopoietic Stem Cell Transplantation (HSCT)",
+    "explanation_bn": "তীব্র রক্তস্বল্পতার প্রতিক্রিয়ায় কঙ্কালের অস্থিমজ্জা অতিরিক্ত প্রসারিত হয়ে মাথার খুলির এক্স-রেতে চুলের মতো কাঁটাযুক্ত (Hair-on-end) রূপ দেখা যায়।\nজীবনভর রক্ত পরিসঞ্চালন ও আয়রন চিলেশনের বিপরীতে বিটা-থ্যালাসেমিয়া মেজরের একমাত্র স্থায়ী আরোগ্যমূলক চিকিৎসা হলো বোন ম্যারো বা স্টেম সেল প্রতিস্থাপন (HSCT)।\nএইচএলএ-ম্যাচড ভাইবোনের থেকে কম বয়সে প্রতিস্থাপন করলে সাফল্যের হার সর্বোচ্চ হয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Most common cause and bone marrow biopsy findings in Aplastic Anaemia",
+    "answer": "Most common cause: Idiopathic (autoimmune T-cell-mediated destruction of stem cells); Bone marrow: Marked hypocellularity with replacement by fatty adipose tissue and empty spaces",
+    "explanation_bn": "অ্যাপ্লাস্টিক অ্যানিমিয়ার প্রায় ৭০-৮০% ক্ষেত্রে কোনো স্পষ্ট কারণ পাওয়া যায় না অর্থাৎ এটি ইডিওপ্যাথিক (স্বতঃস্ফূর্ত অটোইমিউন টি-কোষের আক্রমণ)।\nবোন ম্যারো বায়োপসি করলে দেখা যায় স্বাভাবিক হেমাটোপয়েটিক কোষগুলো উধাও হয়ে গেছে এবং মজ্জা সম্পূর্ণ চর্বি (Hypocellular fatty marrow) দিয়ে প্রতিস্থাপিত হয়েছে।\nফলে রক্তে প্যানসাইটোপেনিয়া (রক্তস্বল্পতা, নিউট্রোপেনিয়া ও থ্রম্বোসাইটোপেনিয়া) দেখা দেয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Acquired intrinsic red blood cell membrane defect causing complement-mediated haemolysis",
+    "answer": "Paroxysmal Nocturnal Haemoglobinuria (PNH; mutation in PIGA gene causing GPI-anchor deficiency)",
+    "explanation_bn": "পিএনএইচ (PNH) হলো হেমাটোপয়েটিক স্টেম সেলে PIGA জিনের সোমাটিক মিউটেশনের কারণে সৃষ্ট একটি বিরল অর্জিত রোগ।\nএর ফলে লোহিত রক্তকণিকার ঝিল্লিতে কমপ্লিমেন্ট প্রতিরক্ষাকারী প্রোটিন (CD55 ও CD59) ধরে রাখার জিপিআই-অ্যাঙ্কর নষ্ট হয়ে যায়।\nরাতের বেলা অ্যাসিডিক পরিবেশে কমপ্লিমেন্ট সক্রিয় হয়ে রক্তের ভেতর লোহিত রক্তকণিকা ভেঙে সকালে গাঢ় রঙের প্রস্রাব নির্গত হয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Pathogenesis, autoantibody target, and hemogram finding in Immune Thrombocytopenic Purpura (ITP)",
+    "answer": "Pathogenesis: IgG autoantibodies targeting platelet membrane glycoprotein IIb/IIIa; Hemogram shows isolated thrombocytopenia with normal/large platelets",
+    "explanation_bn": "আইটিপি (ITP) একটি অর্জিত অটোইমিউন রোগ যাতে প্লেটলেটের গ্লাইকোপ্রোটিন IIb/IIIa-এর বিরুদ্ধে IgG অ্যান্টিবডি তৈরি হয়।\nঅ্যান্টিবডিযুক্ত প্লেটলেটগুলো প্লীহার ম্যাক্রোফেজ দ্বারা দ্রুত ধ্বংসপ্রাপ্ত হয়।\nরক্ত পরীক্ষায় অন্যান্য রক্তকণিকা (RBC ও WBC) সম্পূর্ণ স্বাভাবিক থাকলেও কেবল প্লেটলেটের সংখ্যা মারাত্মক কমে যায় (আইসোলেটেড থ্রম্বোসাইটোপেনিয়া)।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Threshold for spontaneous severe bleeding and first-line treatment for ITP",
+    "answer": "Spontaneous bleeding occurs when platelet count drops < 20 × 10⁹/L; First-line treatment is high-dose oral glucocorticoids (or IVIg)",
+    "explanation_bn": "প্লেটলেট সংখ্যা ২০ হাজারের নিচে নামলে কোনো আঘাত ছাড়াই চামড়ায় পারপুরা, মাড়ি দিয়ে রক্তপাত বা মস্তিষ্কে রক্তক্ষরণের মতো ঝুঁকি থাকে।\nতীব্র আইটিপি-র প্রথম সারির সবচেয়ে কার্যকর চিকিৎসা হলো উচ্চ মাত্রায় ওরাল প্রেডনিসোলোন বা ডেক্সামিথাসন।\nজরুরি রক্তপাতের ক্ষেত্রে দ্রুত প্লেটলেট বাড়াতে শিরায় ইমিউনোগ্লোবুলিন (IVIg) প্রয়োগ করা হয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Genetics, coagulation factor deficiency, and hallmark bleeding in Haemophilia A",
+    "answer": "X-linked recessive inheritance; deficiency of coagulation Factor VIII; Hallmark bleeding is recurrent haemarthrosis (bleeding into large joints)",
+    "explanation_bn": "হিমোফিলিয়া এ একটি এক্স-লিঙ্কড রিসেসিভ বংশগত রোগ, যা মূলত পুরুষদের প্রকাশ পায় এবং নারীরা এর জিন বহন করে।\nরক্ত জমাট বাঁধার ফ্যাক্টর ৮ (Factor VIII)-এর ঘাটতির কারণে রক্তনালি সামান্য আঘাত পেলেও জমাট বাঁধতে পারে না।\nএর প্রধান বৈশিষ্ট্য হলো বড় জয়েন্টগুলোতে (যেমন হাঁটু, কনুই ও গোড়ালি) বারবার রক্ত জমে অসহ্য ব্যথা ও অস্থিসন্ধি বিকল হওয়া (হিমারথ্রোসিস)।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Characteristic coagulation profile in Haemophilia",
+    "answer": "Isolated prolonged Activated Partial Thromboplastin Time (APTT) with normal Prothrombin Time (PT), normal Bleeding Time (BT), and normal platelet count",
+    "explanation_bn": "ফ্যাক্টর ৮ হলো ইন্ট্রিনসিক ক্লটিং পাথওয়ের অংশ, তাই হিমোফিলিয়ায় কেবলমাত্র এপিটিটি (APTT) টেস্টের সময় অস্বাভাবিক বৃদ্ধি পায়।\nযেহেতু এক্সট্রিনসিক পাথওয়ে এবং প্লেটলেটের সংখ্যা ও কার্যকারিতা স্বাভাবিক থাকে, তাই পিটি (PT), ব্লিডিং টাইম (BT) এবং প্লেটলেট কাউন্ট সম্পূর্ণ স্বাভাবিক থাকে।\nনির্দিষ্ট ফ্যাক্টর ৮ অ্যাসেই (assay) করে রোগ ও এর তীব্রতা চূড়ান্তভাবে নির্ণয় করা হয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Most common inherited bleeding disorder and its primary pharmacological treatment",
+    "answer": "von Willebrand Disease (vWD); Treatment is Desmopressin (DDAVP)",
+    "explanation_bn": "মানুষের মধ্যে জন্মগত রক্তপাতজনিত ব্যাধিগুলোর মধ্যে সর্বাধিক সাধারণ হলো ভন উইলিব্র্যান্ড ডিজিজ (vWD), যা অটোসোমাল ডমিন্যান্ট হিসেবে বাহিত হয়।\nvWF প্রোটিনের অভাবে প্লেটলেট ক্ষতস্থানে রক্তনালির সাথে সঠিকভাবে আটকে থাকতে পারে না।\nহালকা থেকে মাঝারি টাইপ ১ vWD-এর চিকিৎসায় ডেসমোপ্রেসিন (DDAVP) ইনজেকশন বা স্প্রে দিলে এন্ডোথেলিয়াল কোষ থেকে সঞ্চিত vWF ও ফ্যাক্টর ৮ দ্রুত রক্তে নির্গত হয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Most common leukaemia in children vs most common acute leukaemia in adults",
+    "answer": "Children: Acute Lymphoblastic Leukaemia (ALL); Adults: Acute Myeloid Leukaemia (AML)",
+    "explanation_bn": "শিশুদের ক্যান্সারের মধ্যে সবচেয়ে সাধারণ হলো একিউট লিম্ফোব্লাস্টিক লিউকেমিয়া (ALL), যা সঠিক কেমোথেরাপিতে ৯০% পর্যন্ত সম্পূর্ণ নিরাময়যোগ্য।\nঅন্যদিকে প্রাপ্তবয়স্কদের তীব্র লিউকেমিয়াগুলোর মধ্যে সবচেয়ে সাধারণ হলো একিউট মায়েলয়েড লিউকেমিয়া (AML)।\nউভয় ক্ষেত্রেই অস্থিমজ্জা ব্লাস্ট কোষে ভরে গিয়ে স্বাভাবিক রক্ত উৎপাদন বন্ধ করে দেয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Diagnostic morphological hallmark of Acute Myeloid Leukaemia (AML)",
+    "answer": "Auer rods (crystalline cytoplasmic inclusions of fused lysosomal granules in myeloblasts)",
+    "explanation_bn": "মায়েলোব্লাস্ট কোষের সাইটোপ্লাজমে সূঁচালো বা কাঠির মতো লালচে জমাট দণ্ডকে আউয়ার রড (Auer rods) বলে।\nব্লাড বা বোন ম্যারো ফিল্মে আউয়ার রডের উপস্থিতি নিশ্চিতভাবে মায়েলয়েড অরিজিন প্রমাণ করে এবং লিম্ফোব্লাস্টিক লিউকেমিয়াকে সম্পূর্ণ বাতিল করে।\nএটি এএমএল শনাক্তকরণের একটি প্যাথোগনমোনিক বৈশিষ্ট্য।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Chromosomal translocation characteristic of Acute Promyelocytic Leukaemia (APL / AML M3)",
+    "answer": "t(15;17)(q24;q21), creating the PML-RARA fusion gene",
+    "explanation_bn": "একিউট প্রোমায়েলোসাইটিক লিউকেমিয়ায় ১৫ ও ১৭ নম্বর ক্রোমোজোমের ট্রান্সলোকেশন ঘটে পিএমএল-রার-আলফা ফিউশন জিন তৈরি হয়।\nএটি প্রোমায়েলোসাইটগুলোর স্বাভাবিক পরিপক্বতা আটকে মারাত্মক ডিসেমিনেটেড ইন্ট্রাভাসকুলার কোয়াগুলেশন (DIC) ও রক্তক্ষরণ ঘটায়।\nএর লক্ষ্যভিত্তিক কার্যকর চিকিৎসা হলো অল-ট্রান্স রেটিনয়িক অ্যাসিড (ATRA) এবং আর্সেনিক ট্রাইঅক্সাইড।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Cytogenetic abnormality and targeted therapy for Chronic Myeloid Leukaemia (CML)",
+    "answer": "Philadelphia chromosome t(9;22) creating BCR-ABL1; targeted therapy is Imatinib (tyrosine kinase inhibitor)",
+    "explanation_bn": "ক্রনিক মায়েলয়েড লিউকেমিয়ায় ফিলাডেলফিয়া ক্রোমোজোম t(9;22)-এর ফলে একটি অনিয়ন্ত্রিত টাইরোসিন কাইনেজ এনজাইম (BCR-ABL1) তৈরি হয়।\nইমাটিনিব (গ্লিভেক) হলো প্রথম সফল টার্গেটেড থেরাপি যা এই কাইনেজ এনজাইমের সক্রিয় স্থান ব্লক করে লিউকেমিক কোষ ধ্বংস করে।\nএই ওষুধের আবিষ্কার সিএমএল-কে মারাত্মক ক্যান্সার থেকে একটি নিয়ন্ত্রণে থাকা দীর্ঘস্থায়ী রোগে রূপান্তরিত করেছে।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Most common leukaemia in adults and its hallmark peripheral blood film finding",
+    "answer": "Chronic Lymphocytic Leukaemia (CLL); hallmark finding is Smudge cells (basket cells / smudge smudge appearance)",
+    "explanation_bn": "পশ্চিমা বিশ্বে এবং বয়স্কদের মধ্যে সর্বাধিক পরিলক্ষিত লিউকেমিয়া হলো ক্রনিক লিম্ফোসাইটিক লিউকেমিয়া (CLL)।\nরক্তের স্লাইড তৈরির সময় দুর্বল ও ভঙ্গুর নিওপ্লাস্টিক লিম্ফোসাইটগুলো চাপ লেগে চ্যাপ্টা হয়ে ভেঙে যায়, যাকে স্মাজ সেল (Smudge cells) বলে।\nএছাড়াও রক্তে অপরিপক্ব নয় বরং ছোট পরিপক্ব লিম্ফোসাইটের সংখ্যা ব্যাপকভাবে বৃদ্ধি পায়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Diagnostic histological hallmark of Hodgkin Lymphoma",
+    "answer": "Reed-Sternberg (RS) cells (large multinucleated giant cells with 'owl-eye' inclusion-like nucleoli)",
+    "explanation_bn": "হজকিন লিম্ফোমা নিশ্চিত করার একমাত্র প্যাথলজিক্যাল হলমার্ক হলো লিম্ফ নোড বায়োপসিতে রিড-স্টার্নবার্গ (RS) কোষের উপস্থিতি।\nএগুলো হলো বিশালাকার পরিবর্তিত বি-লিম্ফোসাইট যাদের দ্বিখণ্ডিত নিউক্লিয়াস পেঁচার চোখের (owl-eye) মতো দেখায়।\nআক্রান্ত নোডে বেশিরভাগই থাকে স্বাভাবিক প্রদাহজনিত কোষ এবং মাত্র ১-২% থাকে এই ম্যালিগন্যান্ট আরএস কোষ।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Distinction between Hodgkin and Non-Hodgkin Lymphoma regarding extranodal involvement and subtype",
+    "answer": "Extranodal involvement is far more common in Non-Hodgkin Lymphoma; Most common histological type of Hodgkin lymphoma is Nodular Sclerosis",
+    "explanation_bn": "নন-হজকিন লিম্ফোমা (NHL) প্রায়ই লিম্ফ নোডের বাইরে জিআই ট্র্যাক্ট, ত্বক, মস্তিষ্ক ও অস্থিতে ছড়িয়ে পড়ে যা হজকিনে অত্যন্ত বিরল।\nঅন্যদিকে হজকিন লিম্ফোমার মধ্যে সবচেয়ে সাধারণ সাবটাইপ হলো নডুলার স্ক্লেরোসিস (প্রায় ৭০% ক্ষেত্রে), যা তরুণ নারীদের মিডিয়াস্টিনাল নোডে বেশি দেখা যায়।\nহজকিন লিম্ফোমা ক্রমানুসারে সংলগ্ন লিম্ফ নোড চেইনে ছড়িয়ে পড়ে।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Definition and diagnostic criteria of Multiple Myeloma",
+    "answer": "Malignancy of terminally differentiated plasma cells producing monoclonal paraprotein (M protein); Criteria: >10% clonal bone marrow plasma cells, presence of serum/urine M protein, and CRAB end-organ damage",
+    "explanation_bn": "মাল্টিপল মায়েলোমা হলো অস্থিমজ্জার প্লাজমা কোষের একটি ম্যালিগন্যান্ট রোগ যা একক ক্লোন থেকে অতিরিক্ত প্যারাপ্রোটিন (M protein) তৈরি করে।\nরোগ নির্ণয়ে বোন ম্যারো বায়োপসিতে ১০%-এর বেশি ক্লাসিক প্লাজমা সেল থাকতে হয়।\nপাশাপাশি রক্তে বা প্রস্রাবে এম-প্রোটিন ব্যান্ড এবং অঙ্গের ক্ষতি (CRAB) উপস্থিত থাকতে হয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Urinary marker and skeletal hallmark in Multiple Myeloma (CRAB features)",
+    "answer": "Urinary marker: Bence Jones protein (free monoclonal light chains); Skeletal hallmark: Punched-out osteolytic bone lesions (CRAB: Calcium elevated, Renal failure, Anaemia, Bone lytic lesions)",
+    "explanation_bn": "প্রস্রাবে মুক্ত ইমিউনোগ্লোবুলিন লাইট চেইন নির্গত হলে তাকে বেনস জোন্স প্রোটিন বলে, যা রেনাল ফেইলিউরের প্রধান কারণ।\nমায়েলোমা কোষ অস্টিওক্লাস্টকে অতিরিক্ত সক্রিয় করায় কঙ্কালের এক্স-রেতে পাঞ্চড-আউট লাইটিক বোন লিশন (বিশেষ করে মাথার খুলি ও মেরুদণ্ডে) দেখা যায়।\nএর চারটি ক্লাসিক জটিলতা মনে রাখার সংক্ষেপ হলো CRAB (ক্যালসিয়াম বৃদ্ধি, কিডনি বিকল, অ্যানিমিয়া এবং হাড়ে ক্ষত)।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Haemoglobin thresholds for blood transfusion in haemodynamically stable patients vs acute coronary syndrome (angina)",
+    "answer": "Stable patients: Hb < 7 g/dL; Patients with coronary heart disease / angina: Hb < 8–9 g/dL",
+    "explanation_bn": "সাধারণ স্থিতিশীল হাসপাতালে ভর্তি রোগীদের ক্ষেত্রে বিধিনিষেধমূলক ট্রান্সফিউশন নীতিতে হিমোগ্লোবিন ৭ গ্রাম/ডেসিলিটারের নিচে না নামা পর্যন্ত রক্ত দেওয়া হয় না।\nতবে যাদের সক্রিয় করোনারি আর্টারি ডিজিজ বা বুকে তীব্র অ্যানজাইনা রয়েছে, তাদের মায়োকার্ডিয়ামে অক্সিজেনের ঘাটতি এড়াতে লক্ষ্যমাত্রা বেশি (৮-৯ গ্রাম/ডেসিলিটার) রাখা হয়।\nঅপ্রয়োজনীয় রক্ত পরিসঞ্চালন রোগীর শরীরে তরল বৃদ্ধি (TACO) এবং প্রদাহের ঝুঁকি বাড়ায়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Primary clinical indications for Packed Red Blood Cells (PRBC) and Platelet transfusions",
+    "answer": "PRBC indication: Symptomatic anaemia or severe acute blood loss; Platelet indication: Severe thrombocytopenia with active bleeding (or prophylactic if count < 10 × 10⁹/L)",
+    "explanation_bn": "প্যাকড রেড সেল প্রধানত রোগীর অক্সিজেন সরবরাহ ক্ষমতা পুনঃপ্রতিষ্ঠা করতে তীব্র রক্তস্বল্পতায় ব্যবহৃত হয়।\nপ্লেটলেট কনসেন্ট্রেট ট্রান্সফিউশন করা হয় যখন রোগীর প্লেটলেট কমে রক্তক্ষরণ শুরু হয় বা কোনো লক্ষণ না থাকলেও প্লেটলেট ১০ হাজারের নিচে নেমে যায়।\nতবে আইটিপি বা টিটিপি-র মতো অ্যান্টিবডিজনিত কারণে রক্তপাত না থাকলে প্লেটলেট ট্রান্সফিউশন সাধারণত পরিহার করা হয়।"
+  },
+  {
+    "topic": "Haematology",
+    "question": "Clinical indications distinguishing Fresh Frozen Plasma (FFP) from Cryoprecipitate",
+    "answer": "Fresh Frozen Plasma (FFP): Multiple clotting factor deficiencies (e.g., massive transfusion, liver disease, DIC); Cryoprecipitate: Fibrinogen replacement (hypofibrinogenaemia < 1.5 g/L in DIC or massive bleeding)",
+    "explanation_bn": "এফএফপি (FFP)-তে শরীরের সমস্ত জমাট বাঁধার ফ্যাক্টর প্রাকৃতিক অনুপাতে থাকে, যা লিভার ফেইলিউর বা ব্যাপক রক্তক্ষরণে ফ্যাক্টর প্রতিস্থাপনে ব্যবহৃত হয়।\nঅন্যদিকে এফএফপি গলিয়ে তৈরি করা ক্রায়োপ্রিসিপিটেট হলো প্রধানত ফাইব্রিনোজেন, ফ্যাক্টর ৮ এবং ভন উইলিব্র্যান্ড ফ্যাক্টরের অত্যন্ত ঘন রূপ।\nডিসেমিনেটেড ইন্ট্রাভাসকুলার কোয়াগুলেশন (DIC) বা মারাত্মক রক্তক্ষরণে রক্তে ফাইব্রিনোজেন ১.৫ এর নিচে নামলে ক্রায়োপ্রিসিপিটেট অপরিহার্য।"
+  }
+]

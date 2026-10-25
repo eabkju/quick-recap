@@ -69,9 +69,14 @@ class QuickRecapApp {
       } else {
         // Fallback default chapters if manifest fetch fails
         this.chapters = [
-          { id: 'cardiology_rapid_recall_all_99_explained', filename: 'cardiology_rapid_recall_all_99_explained.json', title: 'Cardiology Quick Recap', count: 99 },
-          { id: 'neurology_rapid_recall_all_46_explained', filename: 'neurology_rapid_recall_all_46_explained.json', title: 'Neurology Quick Recap', count: 46 },
-          { id: 'respiratory_rapid_recall_all_70_explained', filename: 'respiratory_rapid_recall_all_70_explained.json', title: 'Respiratory Quick Recap', count: 70 }
+          { id: 'cardiology_rapid_recall_all_99_explained', filename: 'cardiology_rapid_recall_all_99_explained.json', title: 'Cardiology Quick Recap All 99 Explained', count: 99 },
+          { id: 'endocrinology', filename: 'endocrinology.json', title: 'Endocrinology', count: 52 },
+          { id: 'gastroenterology', filename: 'gastroenterology.json', title: 'Gastroenterology', count: 46 },
+          { id: 'haematology', filename: 'haematology.json', title: 'Haematology', count: 32 },
+          { id: 'nephrology', filename: 'nephrology.json', title: 'Nephrology', count: 31 },
+          { id: 'neurology_rapid_recall_all_46_explained', filename: 'neurology_rapid_recall_all_46_explained.json', title: 'Neurology Quick Recap All 46 Explained', count: 46 },
+          { id: 'respiratory_rapid_recall_all_70_explained', filename: 'respiratory_rapid_recall_all_70_explained.json', title: 'Respiratory Quick Recap All 70 Explained', count: 70 },
+          { id: 'rheumatology', filename: 'rheumatology.json', title: 'Rheumatology', count: 104 }
         ];
       }
     } catch (e) {
@@ -416,7 +421,7 @@ class QuickRecapApp {
           </button>
           ${matchedChapters.map(ch => `
             <button type="button" class="search-filter-chip ${this.homeSearchFilter === ch.id ? 'active' : ''}" data-filter="${ch.id}">
-              ${this.escapeHtml(ch.title.replace(/ (Rapid Recall|Quick Recap)/i, ''))} (${chapterCounts[ch.id]})
+              ${this.escapeHtml(ch.title.replace(/ (Rapid Recall|Quick Recap)/i, '').replace(/ All \d+ Explained/i, ''))} (${chapterCounts[ch.id]})
             </button>
           `).join('')}
         </div>

@@ -1,0 +1,278 @@
+[
+  {
+    "topic": "Gastroenterology",
+    "question": "Most common anatomical site for duodenal ulcer vs gastric ulcer",
+    "answer": "Duodenal ulcer: First part of the duodenum (D1 / duodenal bulb); Gastric ulcer: Lesser curvature of the antrum",
+    "explanation_bn": "ডিওডেনাল আলসারের ৯৫% ঘটনাই ডিওডেনামের প্রথম অংশে (D1 বা ডিওডেনাল বাল্ব) সংঘটিত হয়, যা পাকস্থলীর অ্যাসিডের সরাসরি সংস্পর্শে আসে।\nঅন্যদিকে গ্যাস্ট্রিক আলসার পাকস্থলীর লেসার কার্ভেচারের অ্যানট্রাম ও বডির সংযোগস্থলের অংশে সবচেয়ে বেশি তৈরি হয়।\nডিওডেনাল আলসার গ্যাস্ট্রিক আলসারের তুলনায় প্রায় ৪ গুণ বেশি সাধারণ।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Preferred investigation for peptic ulcer disease (PUD)",
+    "answer": "Upper Gastrointestinal (GI) endoscopy (Oesophagogastroduodenoscopy)",
+    "explanation_bn": "পেপটিক আলসার নিশ্চিতভাবে শনাক্ত করার সবচেয়ে নির্ভরযোগ্য ও প্রধান পরীক্ষা হলো আপার জিআই এন্ডোস্কোপি।\nএটি আলসারের সঠিক অবস্থান, আকার ও রক্তক্ষরণের ঝুঁকি সরাসরি ক্যামেরায় প্রদর্শন করে।\nএছাড়াও গ্যাস্ট্রিক আলসারের ক্ষেত্রে ক্যান্সার বাতিল করতে একই সাথে একাধিক বায়োপসি নমুনা নেওয়া সম্ভব হয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Gold standard invasive test vs best non-invasive test for Helicobacter pylori",
+    "answer": "Gold standard invasive test: Endoscopic mucosal culture; Best non-invasive test to confirm eradication: Urea Breath Test (13C/14C UBT)",
+    "explanation_bn": "এইচ. পাইলোরি নিশ্চিত করার জন্য এন্ডোস্কোপিক বায়োপসির কালচার হলো গোল্ড স্ট্যান্ডার্ড ইনভেসিভ পরীক্ষা, যা অ্যান্টিবায়োটিক সংবেদনশীলতাও যাচাই করে।\nচিকিৎসার পর জীবাণু সম্পূর্ণ ধ্বংস বা নির্মূল হয়েছে কি না তা প্রমাণের জন্য ইউরিয়া ব্রেথ টেস্ট (UBT) সবচেয়ে সংবেদনশীল নন-ইনভেসিভ পরীক্ষা।\nতবে ব্রেথ টেস্টের আগে কমপক্ষে ২ সপ্তাহ পিপিআই এবং ৪ সপ্তাহ অ্যান্টিবায়োটিক বন্ধ রাখতে হয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most common aetiological cause of duodenal ulcers",
+    "answer": "Helicobacter pylori infection (>90% cases)",
+    "explanation_bn": "ডিওডেনাল আলসার হওয়ার শতকরা ৯০ ভাগের বেশি ক্ষেত্রে মূল কারণ হলো হেলিকোব্যাক্টার পাইলোরি সংক্রমণ।\nএই ব্যাকটেরিয়া পাকস্থলীর অ্যানট্রামে ইনফেকশন তৈরি করে গ্যাস্ট্রিন হরমোন বাড়িয়ে অতিরিক্ত অ্যাসিড নিঃসরণ ঘটায়।\nঅতিরিক্ত অ্যাসিড ডিওডেনামে গিয়ে মিউকোসা ক্ষতিগ্রস্ত করে আলসার তৈরি করে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Pain characteristics distinguishing duodenal ulcer from gastric ulcer",
+    "answer": "Duodenal ulcer pain is relieved by food (worse on empty stomach / midnight); Gastric ulcer pain is worsened by food (precipitated by meals)",
+    "explanation_bn": "ডিওডেনাল আলসারে খাবার খেলে পাকস্থলীর অ্যাসিড বাফার হয়ে সাময়িকভাবে ব্যথা কমে, কিন্তু পেট খালি হলে বা মধ্যরাতে তীব্র ব্যথা হয়।\nবিপরীতে গ্যাস্ট্রিক আলসারে খাবার খাওয়ার সাথে সাথেই অ্যাসিড নিঃসরণ শুরু হওয়ায় পেটে জ্বালাপোড়া ও তীব্র ব্যথা বেড়ে যায়।\nফলে গ্যাস্ট্রিক আলসারের রোগীরা খাবারের ভয়ে ওজন কমিয়ে ফেলে, কিন্তু ডিওডেনাল আলসারে রোগীরা বেশি খেয়ে ওজন বাড়াতে পারে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Standard first-line H. pylori triple therapy regimen",
+    "answer": "Proton Pump Inhibitor (PPI) + 2 Antibiotics (Clarithromycin + Amoxicillin, or Metronidazole) for 14 days",
+    "explanation_bn": "এইচ. পাইলোরি নির্মূলে সনাতন ট্রিপল থেরাপিতে একটি উচ্চ ক্ষমতার পিপিআই (যেমন এসোমিপ্রাজল)-এর সাথে ক্ল্যারিথ্রোমাইসিন ও অ্যামোক্সিসিলিন দেওয়া হয়।\nপেনিসিলিন অ্যালার্জি থাকলে অ্যামোক্সিসিলিনের বদলে মেট্রোনিডাজল ব্যবহার করা হয়।\nসফলতার হার বাড়াতে এই কোর্সটি টানা ১৪ দিন নিয়মিত গ্রহণ করার সুপারিশ করা হয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Standard H. pylori Bismuth quadruple therapy regimen",
+    "answer": "PPI + Bismuth subsalicylate + Metronidazole + Tetracycline",
+    "explanation_bn": "যেসব অঞ্চলে ক্ল্যারিথ্রোমাইসিনের বিরুদ্ধে ব্যাকটেরিয়ার রেজিস্ট্যান্স বেশি, সেখানে প্রথম সারিতে বিসমাথ কোয়াড্রুপল থেরাপি নির্দেশিত।\nএতে একটি পিপিআই-এর সাথে বিসমাথ লবণ, মেট্রোনিডাজল এবং টেট্রাসাইক্লিন টানা ১৪ দিন খাওয়ানো হয়।\nএটি প্রচলিত ট্রিপল থেরাপির ব্যর্থতায় সেরা রেসকিউ থেরাপি হিসেবেও অত্যন্ত সফল।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Key alarm features (red flags) in dyspepsia requiring urgent endoscopy",
+    "answer": "Unintentional weight loss, progressive dysphagia (difficulty swallowing), recurrent vomiting, GI bleeding/anaemia, and epigastric mass",
+    "explanation_bn": "বদহজম বা ডিসপেপসিয়ার রোগীদের মধ্যে অনাকাঙ্ক্ষিত দ্রুত ওজন হ্রাস, গিলতে কষ্ট হওয়া, রক্তবমি বা পেটে চাকা অনুভূত হওয়া বিপদের লক্ষণ।\nবিশেষ করে ৫৫ বছর বা তদূর্ধ্ব রোগীদের ক্ষেত্রে এসব লক্ষণ থাকলে অবিলম্বে জরুরি এন্ডোস্কোপি করতে হবে।\nএটি পাকস্থলী বা খাদ্যনালির ক্যান্সার প্রাথমিক অবস্থায় শনাক্ত করতে জীবন রক্ষাকারী ভূমিকা রাখে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Endoscopic finding in Functional (Non-Ulcer) Dyspepsia",
+    "answer": "Normal endoscopy (no structural or mucosal abnormalities)",
+    "explanation_bn": "ফাংশনাল বা নন-আলসার ডিসপেপসিয়ায় রোগীর পেটে দীর্ঘস্থায়ী আলসারের মতো জ্বালাপোড়া বা ভারি ভাব থাকলেও এন্ডোস্কোপির রিপোর্ট সম্পূর্ণ স্বাভাবিক আসে।\nঅর্থাৎ পাকস্থলীতে কোনো ক্ষত, আলসার বা টিউমার থাকে না।\nএটি গ্যাস্ট্রিকের স্নায়বিক অতিসংবেদনশীলতা এবং পাকস্থলীর মোটিলিটি বা চলাচলের ত্রুটির কারণে ঘটে থাকে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most serious complication of peptic ulcer disease requiring emergency surgery",
+    "answer": "Perforation (peptic ulcer perforation)",
+    "explanation_bn": "পেপটিক আলসার প্রাচীর ভেদ করে ফুটা হয়ে যাওয়া (পারফোরেশন) হলো আলসারের সবচেয়ে গুরুতর ও প্রাণঘাতী জরুরি অবস্থা।\nপাকস্থলীর অ্যাসিড ও জীবাণু পেরিটোনিয়াল গহ্বরে ছড়িয়ে পড়ে তীব্র একিউট পেরিটোনাইটিস ও শক তৈরি করে।\nবুকের সোজা এক্স-রেতে ডায়াফ্রামের নিচে গ্যাস (gas under diaphragm) দেখা যায় এবং অবিলম্বে ল্যাপারোটমি সার্জারি আবশ্যক।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most common cause of upper gastrointestinal bleeding",
+    "answer": "Bleeding peptic ulcer disease (~50% of cases)",
+    "explanation_bn": "আপার জিআই ট্র্যাক্টের রক্তক্ষরণের (রক্তবমি বা কালো আলকাতরার মতো পায়খানা) প্রধানতম কারণ হলো পেপটিক আলসার থেকে রক্তপাত।\nআলসার গভীর হয়ে পেছনের রক্তনালিকে (যেমন গ্যাস্ট্রোডিওডেনাল আর্টারি) ফুটো করে দিলে ব্যাপক রক্তপাত শুরু হয়।\nজরুরি এন্ডোস্কোপিক হেমোস্টেসিস (ক্লিপিং, থার্মাল বা ইনজেকশন) এবং শিরায় উচ্চ মাত্রার পিপিআই ইনফিউশন এর প্রধান চিকিৎসা।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Recognized extra-gastric haematological indication for H. pylori eradication",
+    "answer": "Immune / Idiopathic Thrombocytopenic Purpura (ITP)",
+    "explanation_bn": "পাকস্থলীর বাইরের রোগের মধ্যে ইমিউন থ্রম্বোসাইটোপেনিক পারপুরা (ITP) রোগীদের এইচ. পাইলোরি নির্মূল চিকিৎসা নির্দেশিত।\nএইচ. পাইলোরি ব্যাকটেরিয়ার সারফেস অ্যান্টিজেনের বিরুদ্ধে তৈরি অ্যান্টিবডি ক্রস-রিঅ্যাকশনের মাধ্যমে রক্তে প্লেটলেট ধ্বংস করে।\nজীবাণু সম্পূর্ণ নির্মূল করার পর বহু আইটিপি রোগীর রক্তে প্লেটলেটের সংখ্যা স্বাভাবিক মাত্রায় উন্নীত হয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Cardinal clinical feature of malabsorption syndrome",
+    "answer": "Steatorrhoea (pale, bulky, foul-smelling, fatty stools that float and are difficult to flush)",
+    "explanation_bn": "ম্যালঅ্যাবজরপশন সিন্ড্রোম বা পরিপাকতন্ত্রে খাদ্য শোষণের ব্যর্থতার প্রধানতম ক্লাসিক লক্ষণ হলো স্টিয়াটোরিয়া।\nচর্বি পরিপাক ও শোষণ না হওয়ায় মলে অতিরিক্ত চর্বি নির্গত হয়, ফলে মল ফ্যাকাশে, দুর্গন্ধযুক্ত এবং পানিতে ভেসে থাকে।\nএর সাথে দ্রুত ওজন হ্রাস এবং ভিটামিনের ঘাটতিজনিত লক্ষণগুলো প্রকট হয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Gold standard investigation for diagnosing Coeliac disease",
+    "answer": "Duodenal / small bowel mucosal biopsy (showing subtotal villous atrophy, crypt hyperplasia, and intraepithelial lymphocytosis)",
+    "explanation_bn": "সিলিয়াক ডিজিজ নিশ্চিত করার গোল্ড স্ট্যান্ডার্ড পরীক্ষা হলো আপার এন্ডোস্কোপির মাধ্যমে ডিওডেনাম থেকে বায়োপসি সংগ্রহ করা।\nমাইক্রোস্কোপের নিচে ক্ষুদ্রান্ত্রের ভিলাই নষ্ট হওয়া (Subtotal villous atrophy) এবং ক্রিপ্ট হাইপারপ্লাসিয়া সুস্পষ্ট দেখা যায়।\nসঠিক ফলাফল পেতে বায়োপসি নেওয়ার সময় রোগীকে অবশ্যই গ্লুটেনযুক্ত খাবার চালু রাখতে হয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Diagnostic site of small bowel involvement for Iron vs Vitamin B12 deficiency",
+    "answer": "Iron deficiency anaemia suggests disease of proximal small intestine (duodenum/jejunum); Vitamin B12 deficiency suggests disease of terminal ileum",
+    "explanation_bn": "খাদ্যের আয়রন প্রধানত ক্ষুদ্রান্ত্রের প্রথম অংশে অর্থাৎ ডিওডেনাম ও প্রক্সিমাল জেজুনামে শোষিত হয় (যেমন সিলিয়াক ডিজিজে ব্যাহত হয়)।\nঅন্যদিকে ভিটামিন বি১২ ইনট্রিনসিক ফ্যাক্টরের সাথে আবদ্ধ হয়ে ক্ষুদ্রান্ত্রের একদম শেষ প্রান্তে বা টার্মিনাল ইলিয়ামে শোষিত হয় (যেমন ক্রোহন ডিজিজে ব্যাহত হয়)।\nতাই কোন পুষ্টির অভাব দেখা দিচ্ছে তা দেখে অন্ত্রের কোন অংশ আক্রান্ত তা সহজেই অনুমান করা যায়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Diagnostic criteria and most important initial management of Irritable Bowel Syndrome (IBS)",
+    "answer": "Diagnosis based on Rome IV criteria; initial management is patient education, reassurance, and positive diagnosis",
+    "explanation_bn": "আইবিএস রোগ নির্ণয় করা হয় আন্তর্জাতিক রোম ৪ (Rome IV) মানদণ্ড অনুসারে, যার মূল ভিত্তি হলো পেটে ব্যথা ও মলত্যাগের অভ্যাসের পরিবর্তন।\nএর প্রাথমিক চিকিৎসার সবচেয়ে গুরুত্বপূর্ণ অংশ হলো রোগীকে আশ্বস্ত করা (reassurance) যে এটি কোনো প্রাণঘাতী বা ক্যান্সারজনিত রোগ নয়।\nএকটি সুনির্দিষ্ট 'পজিটিভ ডায়াগনসিস' দিয়ে খাদ্যাভ্যাস পরিবর্তন (যেমন লো-FODMAP ডায়েট) ও জীবনযাত্রার পরামর্শ দেওয়া হয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Pathological and colonoscopic hallmarks of Ulcerative Colitis (UC) vs Crohn's disease (CD)",
+    "answer": "Ulcerative Colitis: Continuous colonic involvement starting from rectum; Crohn's disease: Skip lesions and non-caseating granulomas",
+    "explanation_bn": "আলসারেটিভ কোলাইটিসের প্রদাহ রেকটাম থেকে শুরু হয়ে একটানা ওপরের দিকে কোলনে বিস্তৃত হয় এবং এতে কোনো সুস্থ অংশ বাদ থাকে না।\nবিপরীতে ক্রোহন ডিজিজে মুখ থেকে পায়ুপথ পর্যন্ত যেকোনো অংশ আক্রান্ত হতে পারে এবং আক্রান্ত অংশের মাঝে মাঝে সুস্থ অঞ্চল থাকে (স্কিপ লিশন)।\nএছাড়াও ক্রোহন ডিজিজের বায়োপসিতে প্যাথোগনমোনিক নন-কেসিয়েটিং গ্র্যানুলোমা পাওয়া যায়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "First-line medical treatment in Ulcerative Colitis and its most important hepatobiliary complication",
+    "answer": "First-line: 5-Aminosalicylic acid (5-ASA / Mesalazine); Hepatobiliary complication: Primary Sclerosing Cholangitis (PSC)",
+    "explanation_bn": "হালকা থেকে মাঝারি আলসারেটিভ কোলাইটিসে রিমেশন আনা এবং তা বজায় রাখার মূল ভিত্তি হলো ৫-এএসএ (মেসালাজিন বা সালফাসালাজিন)।\nইউসি রোগীদের সবচেয়ে গুরুত্বপূর্ণ এবং মারাত্মক যকৃত-পিত্তনালির জটিলতা হলো প্রাইমারি স্ক্লেরোসিং কোলাঞ্জাইটিস (PSC)।\nপিএসসি পিত্তনালি সরু করে জন্ডিস, সিরোসিস এবং পরবর্তীতে কোলাঞ্জিওকার্সিনোমার উচ্চ ঝুঁকি তৈরি করে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Marker used to differentiate IBD from IBS and its cellular source",
+    "answer": "Faecal calprotectin; cellular source is neutrophils",
+    "explanation_bn": "অন্ত্রের জৈব প্রদাহ (IBD) থেকে ফাংশনাল সমস্যাকে (IBS) আলাদা করতে মলে ফিক্যাল ক্যালপ্রোটেক্টিন পরিমাপ করা হয়।\nক্যালপ্রোটেক্টিন হলো একটি ক্যালসিয়াম ও জিংক-বাইন্ডিং প্রোটিন যা প্রদাহের সময় অন্ত্রের মিউকোসায় আসা নিউট্রোফিল থেকে নিঃসৃত হয়।\nআইবিএস-এ ফিক্যাল ক্যালপ্রোটেক্টিন স্বাভাবিক থাকে কিন্তু সক্রিয় আইবিডি-তে এর মাত্রা অত্যন্ত উচ্চ পাওয়া যায়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most common renal stone and most common skin manifestation in IBD",
+    "answer": "Renal stone: Calcium oxalate stone; Skin manifestation: Erythema nodosum",
+    "explanation_bn": "আইবিডি-তে বিশেষ করে ক্রোহন রোগে টার্মিনাল ইলিয়াম ক্ষতিগ্রস্ত হলে চর্বি না শোষিত হয়ে ক্যালসিয়ামের সাথে আবদ্ধ হয়, ফলে অতিরিক্ত মুক্ত অক্সালেট শোষিত হয়ে ক্যালসিয়াম অক্সালেট কিডনি পাথর গঠন করে।\nত্বকের ক্ষেত্রে সবচেয়ে সাধারণ লক্ষণ হলো এরিথেমা নোডোসাম (ত্বকের নিচে ব্যথাময় লালচে শক্ত গুটি)।\nএছাড়াও পাইওডার্মা গ্যাংগ্রিনোসাম নামক মারাত্মক ঘা আলসারেটিভ কোলাইটিসের সাথে যুক্ত।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most common anatomical site and gold standard diagnosis for Abdominal Tuberculosis",
+    "answer": "Most common site: Ileocecal region; Gold standard diagnosis: Endoscopy (colonoscopy) with mucosal biopsy (histopathology, AFB stain, and GeneXpert/culture)",
+    "explanation_bn": "অ্যাবডোমিনাল যক্ষ্মা সবচেয়ে বেশি দেখা যায় ইলিয়ামের শেষ ও সিকামের সংযোগস্থলে (ইলওসিকেল অঞ্চল), কারণ এখানে পেয়ার্স প্যাচে লিম্ফয়েড টিস্যু প্রচুর থাকে।\nএটি নিশ্চিতভাবে শনাক্ত করার সেরা উপায় হলো কোলনোস্কোপি করে বায়োপসি সংগ্রহ করা।\nবায়োপসিতে কেসিয়েটিং গ্র্যানুলোমা ও এসিড-ফাস্ট ব্যাসিলাই (AFB) শনাক্তকরণ রোগ নিশ্চিত করে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Two most common causes and most specific diagnostic enzyme for Acute Pancreatitis",
+    "answer": "Two most common causes: Gallstones and alcohol abuse; Most specific enzyme: Serum lipase (more specific than amylase)",
+    "explanation_bn": "তীব্র অগ্ন্যাশয় প্রদাহের (একিউট প্যানক্রিয়াটাইটিস) শতকরা প্রায় ৮০ ভাগ ঘটনার কারণ হলো পিত্তথলির পাথর (গলস্টোন) এবং অতিরিক্ত অ্যালকোহল সেবন।\nরোগ নির্ণয়ের জন্য সিরাম লাইপেজ এনজাইম সিরাম অ্যামাইলেজের তুলনায় অনেক বেশি সুনির্দিষ্ট ও দীর্ঘস্থায়ী।\nস্বাভাবিক মাত্রার ৩ গুণের বেশি লাইপেজ বৃদ্ধি একিউট প্যানক্রিয়াটাইটিস নিশ্চিত করে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Best initial imaging vs best imaging for detecting complications/necrosis in Acute Pancreatitis",
+    "answer": "Best initial imaging: Abdominal ultrasound (to detect gallstones); Best for complications/necrosis: Contrast-Enhanced CT (CECT) of abdomen (ideally done after 72 hours)",
+    "explanation_bn": "রোগীর পিত্তথলিতে পাথর আছে কি না তা দেখতে এবং বিলিয়ারি এটিওলজি শনাক্ত করতে প্রাথমিক ইমেজিং হিসেবে আল্ট্রাসাউন্ড সবচেয়ে সেরা।\nঅন্যদিকে অগ্ন্যাশয়ের নেক্রোসিস, পারিপার্শ্বিক ফ্লুইড কালেকশন বা জটিলতা মূল্যায়নে কন্ট্রাস্ট-এনহ্যান্সড সিটি (CECT) গোল্ড স্ট্যান্ডার্ড।\nতবে নেক্রোসিস সুস্পষ্ট হতে সময় লাগে বলে সিটি স্ক্যান সাধারণত লক্ষণ শুরুর ৭২ ঘণ্টা পর করার পরামর্শ দেওয়া হয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most critical early treatment and preferred nutritional route in Acute Pancreatitis",
+    "answer": "Early aggressive intravenous fluid resuscitation (with Ringer's Lactate); preferred nutrition is early enteral feeding (oral or nasojejunal)",
+    "explanation_bn": "একিউট প্যানক্রিয়াটাইটিসের প্রথম ১২-২৪ ঘণ্টার সবচেয়ে গুরুত্বপূর্ণ জীবনরক্ষাকারী পদক্ষেপ হলো পর্যাপ্ত আইভি স্যালাইন (রিঙ্গার্স ল্যাকটেট) ইনফিউশন দিয়ে মাইক্রোসার্কুলেশন ঠিক রাখা।\nপূর্বে রোগীকে না খেয়ে রাখার নিয়ম থাকলেও আধুনিক প্রটোকলে দ্রুত অন্ত্রের মাধ্যমে খাবার (আর্লি এন্টেরাল ফিডিং) শুরু করা হয়।\nএটি অন্ত্রের প্রাকৃতিক মিউকোসাল প্রাচীর অক্ষত রেখে ব্যাকটেরিয়াল সংক্রমণ ও সেপসিস প্রতিরোধ করে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Management of gallstone pancreatitis complicated by acute cholangitis",
+    "answer": "Urgent Endoscopic Retrograde Cholangiopancreatography (ERCP) with biliary sphincterotomy and stone extraction within 24–72 hours",
+    "explanation_bn": "গলস্টোন প্যানক্রিয়াটাইটিসের সাথে যদি পিত্তনালিতে ইনফেকশন বা তীব্র কোলাঞ্জাইটিস যুক্ত থাকে, তবে তা চরম জরুরি অবস্থা।\nরোগীকে বাঁচাতে অবিলম্বে (২৪-৪৮ ঘণ্টার মধ্যে) জরুরি ইআরসিপি (ERCP) করে পিত্তনালির প্রতিবন্ধকতা দূর করতে হবে।\nপিত্তনালির পাথর অপসারণ করে পিত্তপ্রবাহ চালু করলে লিভার ফেইলিউর ও সেপটিক শক থেকে রোগী রক্ষা পায়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Clinical significance of Cullen sign and Grey Turner sign",
+    "answer": "Cullen sign: Periumbilical ecchymosis; Grey Turner sign: Flank ecchymosis (indicates retroperitoneal hemorrhage in severe necrotizing pancreatitis)",
+    "explanation_bn": "নাভির চারপাশে নীলচে বা কালশিটে দাগ পড়াকে কুলেন সাইন এবং পেটের দুই পাশের ফ্ল্যাঙ্কে কালশিটে দাগকে গ্রে টার্নার সাইন বলে।\nএগুলো অগ্ন্যাশয়ের মারাত্মক নেক্রোটাইজিং রূপ এবং রেট্রোপেরিটোনিয়াল রক্তক্ষরণের অশুভ সংকেত।\nফ্যালসিফর্ম লিগামেন্ট বা কোয়াড্রেটাস লাম্বোরামের মাধ্যমে রক্ত ত্বকের নিচে ছড়িয়ে পড়ায় এই দাগগুলো দৃশ্যমান হয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Best test for exocrine insufficiency and most important long-term complication of Chronic Pancreatitis",
+    "answer": "Best test: Faecal elastase-1 test; Most important long-term complication: Secondary Diabetes mellitus (pancreatogenic / Type 3c diabetes)",
+    "explanation_bn": "ক্রনিক প্যানক্রিয়াটাইটিসে পাচক এনজাইমের অভাব নির্ণয়ে মলে ফিক্যাল ইলাস্টেজ-১ পরিমাপ সবচেয়ে সংবেদনশীল নন-ইনভেসিভ পরীক্ষা।\nদীর্ঘমেয়াদে পুরো অগ্ন্যাশয়ের টিস্যু ফাইব্রোসিসে ধ্বংস হয়ে আইলেটস অব ল্যাঙ্গারহ্যান্স ক্ষতিগ্রস্ত হওয়ায় ডায়াবেটিস মেলিটাস (টাইপ ৩সি) দেখা দেয়।\nএকই সাথে তীব্র পেটে ব্যথা, অপুষ্টি এবং ওজন হ্রাস এই রোগীদের প্রধান সমস্যা।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most common viral cause of post-transfusion hepatitis",
+    "answer": "Hepatitis C virus (HCV)",
+    "explanation_bn": "রক্ত পরিসঞ্চালনের মাধ্যমে হেপাটাইটিস ছড়ানোর সবচেয়ে সাধারণ এবং কুখ্যাত কারণ হলো হেপাটাইটিস সি ভাইরাস (HCV)।\nরক্তদানের পূর্বে রুটিন স্ক্রিনিং চালু হওয়ার আগে অধিকাংশ পোস্ট-ট্রান্সফিউশন নন-এ, নন-বি হেপাটাইটিসের জন্য এটিই দায়ী ছিল।\nবর্তমানে উন্নত স্ক্রিনিং ব্যবস্থার কারণে এই ঝুঁকি অনেক কমে এসেছে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most common cause of chronic viral hepatitis and hepatocellular carcinoma worldwide",
+    "answer": "Chronic Hepatitis B virus (HBV) infection",
+    "explanation_bn": "বিশ্বজুড়ে ক্রনিক ভাইরাল হেপাটাইটিস, লিভার সিরোসিস এবং প্রাইমারি লিভার ক্যান্সার (HCC)-এর প্রধানতম কারণ হলো হেপাটাইটিস বি ভাইরাস (HBV)।\nএইচবিভি ডিএনএ ভাইরাস সরাসরি মানুষের যকৃতের হোস্ট জিনোমে প্রবেশ করে মিউটেশন ঘটিয়ে কার্সিনোজেনেসিস ত্বরান্বিত করে।\nবিশেষ করে এশিয়া ও আফ্রিকায় শিশুদের পেরিনেটাল ইনফেকশনের কারণে এই দীর্ঘমেয়াদী বিস্তার সবচেয়ে বেশি ঘটে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Transmission routes of Hepatitis viruses (HAV, HEV vs HBV, HCV, HDV)",
+    "answer": "HAV and HEV: Faeco-oral route (contaminated food/water); HBV, HCV, and HDV: Blood-borne (parenteral), sexual, and perinatal transmission",
+    "explanation_bn": "হেপাটাইটিস এ এবং ই ভাইরাস দূষিত পানি ও খাবারের মাধ্যমে অর্থাৎ ফিকো-ওরাল রুটে ছড়ায় এবং সাধারণত তীব্র ক্ষণস্থায়ী হেপাটাইটিস ঘটায়।\nঅন্যদিকে হেপাটাইটিস বি, সি এবং ডি রক্তের সংস্পর্শ, অনিরাপদ ইনজেকশন, যৌন মিলন ও জন্মের সময় মায়ের থেকে সন্তানে পরিবাহিত হয়।\nরক্তবাহিত এই ভাইরাসগুলো দীর্ঘস্থায়ী ক্রনিক ইনফেকশন ও জটিলতা সৃষ্টি করতে সক্ষম।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Chronicity risk differences among hepatitis viruses",
+    "answer": "Highest risk of chronicity: HCV (~80-85%); Lowest/No risk of chronicity: HAV and HEV (do not cause chronic disease in immunocompetent)",
+    "explanation_bn": "হেপাটাইটিস সি ভাইরাসে আক্রান্ত প্রাপ্তবয়স্কদের প্রায় ৮০ থেকে ৮৫ শতাংশ রোগীই ক্রনিক হেপাটাইটিসে রূপান্তরিত হয়, যা সব ভাইরাসের মধ্যে সর্বোচ্চ।\nবিপরীতে হেপাটাইটিস এ এবং সুস্থ মানুষের ক্ষেত্রে হেপাটাইটিস ই কখনই ক্রনিক হয় না, এরা সম্পূর্ণ নিরাময় লাভ করে।\nহেপাটাইটিস বি প্রাপ্তবয়স্কদের ক্ষেত্রে মাত্র ৫-১০% ক্ষেত্রে ক্রনিক হয়, কিন্তু নবজাতকদের ক্ষেত্রে প্রায় ৯০% ক্রনিক রূপ নেয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Hepatitis viruses with available effective vaccines",
+    "answer": "Hepatitis A virus (HAV) and Hepatitis B virus (HBV)",
+    "explanation_bn": "হেপাটাইটিস ভাইরাসগুলোর মধ্যে কেবল হেপাটাইটিস এ এবং হেপাটাইটিস বি-এর বিরুদ্ধে নিরাপদ ও অত্যন্ত কার্যকর প্রতিরোধক টিকা উদ্ভাবিত হয়েছে।\nযেহেতু হেপাটাইটিস ডি ভাইরাস বেঁচে থাকার জন্য হেপাটাইটিস বি-এর ওপর নির্ভরশীল, তাই এইচবিভি ভ্যাকসিন পরোক্ষভাবে এইচডিভি সংক্রমণও প্রতিরোধ করে।\nহেপাটাইটিস সি ভাইরাসের বিরুদ্ধে জিনগত রূপান্তরের কারণে এখনো কোনো কার্যকর টিকা নেই।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Primary screening tests for HBV and HCV infections",
+    "answer": "HBV screening: HBsAg (Hepatitis B surface antigen); HCV screening: Anti-HCV antibody (followed by HCV RNA PCR)",
+    "explanation_bn": "হেপাটাইটিস বি সংক্রমণ শনাক্তকরণের সবচেয়ে গুরুত্বপূর্ণ প্রাথমিক স্ক্রিনিং টেস্ট হলো রক্তে HBsAg পরিমাপ করা।\nহেপাটাইটিস সি স্ক্রিনিংয়ের জন্য প্রথম টেস্ট হলো অ্যান্টি-এইচসিভি (Anti-HCV) অ্যান্টিবডি পরীক্ষা করা।\nঅ্যান্টিবডি পজিটিভ এলে সক্রিয় প্রতিলিপিকরণ নিশ্চিত করতে রক্তে সরাসরি এইচসিভি আরএনএ পিসিআর (HCV RNA) পরীক্ষা করতে হয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Diagnostic markers for acute HAV and acute HBV infection",
+    "answer": "Acute HAV: IgM anti-HAV; Acute HBV: IgM anti-HBc (IgM antibody to Hepatitis B core antigen)",
+    "explanation_bn": "তীব্র হেপাটাইটিস এ সংক্রমণ নিশ্চিত করার সুনির্দিষ্ট মার্কার হলো রক্তে আইজিএম অ্যান্টি-এইচএভি (IgM anti-HAV)।\nতীব্র হেপাটাইটিস বি ইনফেকশন শনাক্ত করতে সবচেয়ে গুরুত্বপূর্ণ হলো আইজিএম অ্যান্টি-এইচবিসি (IgM anti-HBc)।\nএটি লক্ষণ প্রকাশের শুরু থেকেই রক্তে উচ্চ মাত্রায় বিদ্যমান থাকে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Definition of Chronic HBV infection",
+    "answer": "Persistence of Hepatitis B surface antigen (HBsAg) in serum for > 6 months",
+    "explanation_bn": "যদি কোনো ব্যক্তির রক্তে HBsAg টানা ৬ মাসের বেশি সময় ধরে অপরিবর্তিতভাবে পজিটিভ পাওয়া যায়, তবে তাকে ক্রনিক হেপাটাইটিস বি হিসেবে সংজ্ঞায়িত করা হয়।\nএর অর্থ হলো শরীর প্রাকৃতিকভাবে ভাইরাসটি নির্মূল করতে ব্যর্থ হয়েছে।\nএসব রোগীদের লিভার এনজাইম ও ভাইরাল লোড (HBV DNA) নিয়মিত পর্যবেক্ষণ করে অ্যান্টিভাইরাল থেরাপির সিদ্ধান্ত নিতে হয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Significance of the 'Window Period' in HBV infection and its sole marker",
+    "answer": "The window period is the gap between the disappearance of HBsAg and appearance of Anti-HBs; the sole positive serological marker is IgM anti-HBc",
+    "explanation_bn": "তীব্র হেপাটাইটিস বি নিরাময় পর্বে যখন রক্ত থেকে HBsAg মুছে যায় কিন্তু প্রতিরক্ষামূলক Anti-HBs তৈরি হতে কিছুটা সময় নেয়, সেই অন্তর্বর্তী সময়কে উইন্ডো পিরিয়ড বলে।\nএই সময়ে HBsAg এবং Anti-HBs উভয়ই নেগেটিভ থাকে।\nউইন্ডো পিরিয়ডে সক্রিয় সাম্প্রতিক সংক্রমণ প্রমাণের একমাত্র পজিটিভ মার্কার হলো IgM anti-HBc।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Clinical danger of Hepatitis E Virus (HEV) during pregnancy",
+    "answer": "Particularly severe in pregnant women (especially 3rd trimester), being the most common cause of fulminant hepatitis in pregnancy with high mortality (up to 20-25%)",
+    "explanation_bn": "হেপাটাইটিস ই ভাইরাস সাধারণ মানুষের ক্ষেত্রে মৃদু হলেও গর্ভবতী নারীদের (বিশেষ করে শেষ ট্রাইমেস্টারে) ক্ষেত্রে অত্যন্ত প্রাণঘাতী।\nএটি গর্ভাবস্থায় একিউট লিভার ফেইলিউর বা ফুলমিন্যান্ট হেপাটাইটিসের সবচেয়ে সাধারণ কারণ।\nগর্ভবতীদের ক্ষেত্রে এই ভাইরাসে মাতৃমৃত্যুর হার প্রায় ২০ থেকে ২৫ শতাংশ পর্যন্ত হতে পারে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Outcome of Hepatitis D Virus (HDV) coinfection vs superinfection with HBV",
+    "answer": "Coinfection (simultaneous acquisition of HBV + HDV): Usually acute self-limiting hepatitis; Superinfection (HDV in chronic HBV carrier): Causes severe acute hepatitis with rapid progression to cirrhosis and liver failure",
+    "explanation_bn": "হেপাটাইটিস ডি ভাইরাস কেবল হেপাটাইটিস বি ভাইরাসের উপস্থিতিতেই সংক্রমণ ঘটাতে পারে।\nএকসাথে দুটি ভাইরাস সংক্রমণ (Coinfection) হলে তীব্র হেপাটাইটিসের পর অধিকাংশ রোগী সম্পূর্ণ ভালো হয়ে যায়।\nকিন্তু পূর্বে থেকেই ক্রনিক বি ভাইরাসে আক্রান্ত রোগীর ওপর ডি ভাইরাসের সুপারইনফেকশন (Superinfection) হলে তা অত্যন্ত দ্রুত তীব্র লিভার সিরোসিস ও লিভার ফেইলিউর ডেকে আনে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most common cause of portal hypertension in adults",
+    "answer": "Liver Cirrhosis (accounting for ≈90% of cases)",
+    "explanation_bn": "প্রাপ্তবয়স্কদের মধ্যে পোর্টাল হাইপারটেনশন বা পোর্টাল শিরার উচ্চ রক্তচাপের প্রায় ৯০ ভাগ কারণ হলো লিভার সিরোসিস।\nলিভারের স্বাভাবিক টিস্যু ফাইব্রোসিসে রূপান্তরিত হয়ে পোর্টাল রক্তপ্রবাহে তীব্র বাধার সৃষ্টি করে।\nফলস্বরূপ পোর্টাল ভেনাস সিস্টেমে চাপ স্বাভাবিক মাত্রা (৫-১০ মিমি পারদ) ছাড়িয়ে ১২ মিমি পারদের ওপরে উঠে যায়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Cardinal physical examination finding in portal hypertension",
+    "answer": "Splenomegaly (congestive splenomegaly)",
+    "explanation_bn": "পোর্টাল হাইপারটেনশনের সবচেয়ে বৈশিষ্ট্যপূর্ণ শারীরিক লক্ষণ হলো প্লীহা বড় হয়ে যাওয়া (স্প্লেনোমেগালি)।\nপোর্টাল শিরার রক্ত স্প্লেনিক ভেন দিয়ে পেছনে উল্টো চাপে জমে কনজেস্টিভ স্প্লেনোমেগালি তৈরি করে।\nএই বর্ধিত প্লীহা অতিরিক্ত রক্তকণিকা ভেঙে ফেলে হাইপারস্প্লেনিজম ও প্যানসাইটোপেনিয়া ঘটায়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most important and life-threatening consequence of portal hypertension",
+    "answer": "Variceal bleeding (rupture of oesophageal or gastric varices)",
+    "explanation_bn": "পোর্টাল হাইপারটেনশনের সবচেয়ে মারাত্মক প্রাণঘাতী জটিলতা হলো খাদ্যনালি বা পাকস্থলীর ভ্যারিক্স ফেটে ব্যাপক রক্তবমি হওয়া।\nউচ্চ চাপের কারণে পোরটো-সিস্টেমিক অ্যানাস্টোমোসিসের পাতলা দেয়ালের শিরাগুলো অস্বাভাবিক ফুলে গিয়ে ফেটে যায়।\nপ্রতিটি ভ্যারিসিয়াল রক্তপাতের ঘটনায় মৃত্যুর ঝুঁকি প্রায় ১৫ থেকে ২০ শতাংশ।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most useful investigation for screening and diagnosing varices",
+    "answer": "Upper Gastrointestinal (GI) endoscopy",
+    "explanation_bn": "খাদ্যনালির ভ্যারিক্স উপস্থিতি, তাদের আকার এবং রক্তপাতের ঝুঁকি (যেমন রেড ওয়েল মার্ক) মূল্যায়নের সবচেয়ে সেরা পরীক্ষা হলো আপার জিআই এন্ডোস্কোপি।\nসিরোসিস শনাক্ত হওয়া প্রতিটি রোগীরই রুটিন স্ক্রিনিং এন্ডোস্কোপি করা আবশ্যক।\nরক্তক্ষরণ প্রতিরোধে এন্ডোস্কোপিক ভ্যারিসিয়াল লাইগেশন (ব্যান্ডিং) বা নন-সিলেক্টিভ বিটা ব্লকার (প্রোপ্রানোলল/কার্ভেডিলল) নির্দেশিত।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Primary risk factors for developing Hepatocellular Carcinoma (HCC)",
+    "answer": "Chronic Hepatitis B or C virus infection and underlying liver cirrhosis of any etiology",
+    "explanation_bn": "প্রাইমারি লিভার ক্যান্সার বা হেপাটোসেলুলার কার্সিনোমার প্রধান চালিকাশক্তি হলো দীর্ঘমেয়াদী ক্রনিক হেপাটাইটিস বি অথবা সি ভাইরাসের সংক্রমণ।\nযেকোনো কারণে লিভার সিরোসিস (যেমন অ্যালকোহল বা ফ্যাটি লিভার ডিজিজ) হলে ক্যান্সারের ঝুঁকি বহুগুণ বেড়ে যায়।\nতাই সিরোসিস রোগীদের প্রতি ৬ মাস পর পর নিয়মিত লিভার আল্ট্রাসাউন্ড এবং সিরাম আলফা-ফিটোপ্রোটিন (AFP) দিয়ে স্ক্রিনিং করা হয়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most common type of liver abscess and most common organism in amoebic liver abscess",
+    "answer": "Most common type: Pyogenic liver abscess; Most common in amoebic: Entamoeba histolytica",
+    "explanation_bn": "বিশ্বজুড়ে লিভার অ্যাবসেসের সবচেয়ে সাধারণ রূপ হলো ব্যাকটেরিয়াজনিত বা পায়োজেনিক লিভার অ্যাবসেস (প্রায় ৮০%)।\nঅন্যদিকে প্রোটোজোয়াজনিত অ্যামিবিক লিভার অ্যাবসেসের একমাত্র ও প্রধান কারণ হলো এন্টামিবা হিস্টোলাইটিকা।\nঅ্যামিবিক অ্যাবসেসে বৈশিষ্ট্যপূর্ণ চকলেট বা অ্যাঙ্কোভি সস (anchovy sauce pus) ধরনের পুঁজ পাওয়া যায়।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Diagnostic imaging accuracy for pyogenic liver abscess (Ultrasound vs Contrast CT)",
+    "answer": "Ultrasound detects at least 80% of pyogenic liver abscesses; Contrast CT abdomen detects >95% and provides anatomical details",
+    "explanation_bn": "পেটের আল্ট্রাসনোগ্রাফি সহজে এবং দ্রুত অন্তত ৮০% পায়োজেনিক লিভার অ্যাবসেস শনাক্ত করতে পারে।\nতবে কন্ট্রাস্টযুক্ত পেটের সিটি স্ক্যান ৯৫%-এর বেশি নির্ভুলতার সাথে অ্যাবসেসের সঠিক সংখ্যা, অবস্থান এবং পেটের অন্তর্নিহিত কারণ উদঘাটন করে।\nএছাড়াও আল্ট্রাসাউন্ডের সাহায্যে সুই ফুটিয়ে পুঁজ বের করে (Needle aspiration) কালচার করা রোগ নির্ণয় নিশ্চিত করে।"
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Most common cause of pyogenic liver abscess and significance of gut organisms",
+    "answer": "Biliary tract disease (obstruction/cholangitis); Gut organisms (e.g., Klebsiella, E. coli, Streptococcus) should prompt exclusion of colorectal carcinoma",
+    "explanation_bn": "পায়োজেনিক লিভার অ্যাবসেস হওয়ার প্রধানতম উৎস হলো পিত্তনালির ইনফেকশন বা অ্যাসেন্ডিং কোলাঞ্জাইটিস।\nযদি কালচারে অন্ত্রের ব্যাকটেরিয়া (যেমন ক্লেবসিয়েলা বা স্ট্রেপ্টোকক্কাস বোভিস) পাওয়া যায়, তবে রোগীর কোলনে লুক্কায়িত ক্যান্সার বা ডাইভার্টিকুলাইটিস আছে কি না তা কোলনোস্কোপি করে নিশ্চিত করতে হয়।\nচিকিৎসায় দীর্ঘমেয়াদী আইভি অ্যান্টিবায়োটিক এবং পারকিউটেনিয়াস ড্রেনেজ প্রয়োজন হয়।"
+  }
+]

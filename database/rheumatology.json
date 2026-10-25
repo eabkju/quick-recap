@@ -1,0 +1,626 @@
+[
+  {
+    "topic": "Rheumatology",
+    "question": "Type of arthritis in Rheumatoid Arthritis",
+    "answer": "Inflammatory symmetrical polyarthritis",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিস (RA) হলো একটি দীর্ঘস্থায়ী অটোইমিউন প্রদাহজনিত বাতব্যাধি।\nএর প্রধান বৈশিষ্ট্য হলো শরীরের উভয় পাশের একই অস্থিসন্ধিকে একইভাবে আক্রান্ত করা অর্থাৎ প্রতিসম (সিম্যাট্রিক্যাল) এবং একসাথে একাধিক (পলিআর্থ্রাইটিস, ≥ ৫টি জয়েন্ট) জয়েন্টে প্রদাহ হওয়া।\nপ্রদাহের ফলে সাইনোভিয়াল পর্দা ফুলে ওঠে এবং জয়েন্ট লাল, উষ্ণ ও ব্যথাময় হয়ে যায়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Pattern of joint involvement in Rheumatoid Arthritis",
+    "answer": "Mainly small joints",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিস প্রাথমিকভাবে এবং প্রধানত হাত ও পায়ের ছোট ছোট অস্থিসন্ধিগুলোকে আক্রান্ত করে।\nবিশেষ করে হাতের প্রক্সিমাল ইন্টারফ্যালাঞ্জিয়াল (PIP) এবং মেটাকার্পোফ্যালাঞ্জিয়াল (MCP) জয়েন্টগুলো সবচেয়ে বেশি আক্রান্ত হয়।\nতবে এতে সাধারণত ডিস্টাল ইন্টারফ্যালাঞ্জিয়াল (DIP) জয়েন্ট সাধারণত আক্রান্ত হয় না।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Common age of onset for Rheumatoid Arthritis",
+    "answer": "30–40 years / young adult",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিস যেকোনো বয়সে দেখা দিতে পারলেও সাধারণত ৩০ থেকে ৫০ বছর বয়সের মধ্যে সবচেয়ে বেশি শুরু হয়।\nবিশেষ করে কর্মক্ষম তরুণ ও মধ্যবয়সী প্রাপ্তবয়স্কদের ক্ষেত্রে এর প্রাদুর্ভাব সর্বোচ্চ দেখা যায়।\nতবে বয়োবৃদ্ধদের ক্ষেত্রেও লেট-অনসেট রিউমাটয়েড আর্থ্রাইটিস প্রকাশ পেতে পারে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Sex predominance in Rheumatoid Arthritis",
+    "answer": "Female (F:M ratio approximately 3:1)",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিস পুরুষদের তুলনায় নারীদের মধ্যে প্রায় ৩ গুণ বেশি দেখা যায়।\nইস্ট্রোজেন এবং অন্যান্য নারী হরমোন অটোইমিউন প্রতিক্রিয়াকে প্রভাবিত করায় নারীদের এই রোগে আক্রান্ত হওয়ার প্রবণতা বেশি।\nতবে মেনোপজের পর নারী ও পুরুষের আক্রান্তের হারের পার্থক্য কিছুটা কমে আসে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Duration of morning stiffness in Rheumatoid Arthritis",
+    "answer": ">1 hour; improves with activity",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসের অত্যন্ত গুরুত্বপূর্ণ একটি নির্দেশক লক্ষণ হলো সকালে ঘুম থেকে ওঠার পর জয়েন্ট শক্ত বা অবশ হয়ে থাকা (মর্নিং স্টিফনেস)।\nএই আড়ষ্টতা সাধারণত ১ ঘণ্টারও বেশি সময় ধরে স্থায়ী হয় এবং আক্রান্ত জয়েন্ট নাড়াচাড়া বা শারীরিক কাজকর্মের সাথে সাথে ধীরে ধীরে কমে আসে।\nবিপরীতে অস্টিওআর্থ্রাইটিসের মর্নিং স্টিফনেস সাধারণত ৩০ মিনিটের কম স্থায়ী হয় এবং বিশ্রামে আরাম বোধ হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Extra-articular manifestations in Rheumatoid Arthritis",
+    "answer": "May be present",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিস কেবল জয়েন্টের রোগ নয়, এটি একটি সিস্টেমিক রোগ যার কারণে জয়েন্টের বাইরে শরীরের অন্যান্য অঙ্গও আক্রান্ত হতে পারে।\nযেমন: ত্বকে রিউমাটয়েড নোডিউল, চোখের ড্রাই আইজ বা এপিস্ক্লেরাইটিস, ফুসফুসে ইন্টারস্টিশিয়াল লাং ডিজিজ এবং পেরিকার্ডাইটিস দেখা দিতে পারে।\nযাদের রক্তে উচ্চ মাত্রায় রিউমাটয়েড ফ্যাক্টর বা অ্যান্টি-সিসিপি থাকে, তাদের মধ্যে এসব বহিঃসন্ধি লক্ষণ বেশি দেখা যায়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Strongest genetic association with Rheumatoid Arthritis",
+    "answer": "HLA-DR4",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিস হওয়ার ক্ষেত্রে সবচেয়ে শক্তিশালী জেনেটিক বা জিনগত সম্পর্ক রয়েছে এমএইচসি ক্লাস ২ অণু HLA-DR4-এর সাথে।\nবিশেষ করে HLA-DRB1 জিনের শেয়ার্ড এপিটোপ যাদের থাকে তাদের এই রোগ হওয়ার ঝুঁকি অনেক গুণ বেশি।\nধূমপান এবং HLA-DR4-এর যৌথ উপস্থিতি অ্যান্টি-সিসিপি পজিটিভ রিউমাটয়েড আর্থ্রাইটিসের ঝুঁকি চরমভাবে বাড়িয়ে দেয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Strongest environmental risk factor for Rheumatoid Arthritis",
+    "answer": "Smoking",
+    "explanation_bn": "ধূমপান হলো রিউমাটয়েড আর্থ্রাইটিস (RA) হওয়ার সবচেয়ে শক্তিশালী পরিবেশগত ঝুঁকি।\nধূমপানের ফলে ফুসফুসের প্রোটিনে সাইট্রুলিনেশন প্রক্রিয়া ত্বরান্বিত হয়, যা জেনেটিক্যালি সংবেদনশীল ব্যক্তিদের শরীরে অ্যান্টি-সিসিপি (anti-CCP) অ্যান্টিবডি তৈরি করতে প্ররোচিত করে।\nএটি রোগের তীব্রতা ও জয়েন্ট ক্ষয়ের মাত্রাও বহুগুণ বাড়িয়ে দেয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "What is Rheumatoid Factor (RF)?",
+    "answer": "IgM antibody against the Fc portion of IgG",
+    "explanation_bn": "রিউমাটয়েড ফ্যাক্টর (RF) হলো মূলত একটি অটোঅ্যান্টিবডি, যা সাধারণত IgM প্রকৃতির হয়।\nএটি শরীরের নিজস্ব IgG অ্যান্টিবডির Fc অংশের বিরুদ্ধে তৈরি হয় এবং ইমিউন কমপ্লেক্স গঠন করে।\nএই ইমিউন কমপ্লেক্স অস্থিসন্ধির সাইনোভিয়ামে জমে কমপ্লিমেন্ট সিস্টেম সক্রিয় করে তীব্র প্রদাহ সৃষ্টি করে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Hallmark pathological lesion in Rheumatoid Arthritis",
+    "answer": "Pannus",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসের বৈশিষ্ট্যপূর্ণ প্যাথলজিক্যাল ক্ষত হলো প্যানাস (Pannus)।\nএটি হলো প্রদাহজনিত কোষ, ফাইব্রোব্লাস্ট এবং রক্তনালি সমৃদ্ধ অতিরিক্ত বর্ধিত সাইনোভিয়াল টিস্যুর একটি স্তর।\nএই প্যানাস থেকে প্রোটিওলাইটিক এনজাইম নিঃসৃত হয়ে জয়েন্টের আর্টিকুলার কার্টিলেজ এবং সংলগ্ন হাড় দ্রুত ধ্বংস করে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Main cytokine driving pathogenesis in Rheumatoid Arthritis",
+    "answer": "TNF-α",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসের দীর্ঘস্থায়ী সাইনোভিয়াল প্রদাহ ও জয়েন্ট ধ্বংসের প্রধান চালিকাশক্তি হলো টিউমার নেক্রোসিস ফ্যাক্টর আলফা (TNF-α)।\nএটি ম্যাক্রোফেজ ও সাইনোভাইটের কোষগুলোকে সক্রিয় করে অন্যান্য প্রদাহজনক সাইটোকাইন (যেমন IL-1, IL-6) নিঃসরণ করায়।\nএ কারণেই আধুনিক বায়োলজিক্যাল চিকিৎসায় অ্যান্টি-টিএনএফ ওষুধ (যেমন ইনফ্লিক্সিম্যাব, এডালিমুম্যাব) অত্যন্ত সফল।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Characteristic hand deformities and signs in Rheumatoid Arthritis",
+    "answer": "Swan-neck deformity, Boutonniere deformity, Z-deformity of thumb, Ulnar deviation, Dorsal subluxation of ulnar styloid, Dorsal guttering, and generalized wasting of small muscles of hands",
+    "explanation_bn": "দীর্ঘস্থায়ী ও অপচিকিৎসিত RA-তে হাতের আঙুল ও কবজিতে বৈশিষ্ট্যপূর্ণ বিকৃতি দেখা দেয়।\nএর মধ্যে সোয়ান-নেক (PIP হাইপারএক্সটেনশন ও DIP ফ্লেকশন), বুটোনিয়ার (PIP ফ্লেকশন ও DIP হাইপারএক্সটেনশন) এবং বুড়ো আঙুলের Z-বিকৃতি প্রধান।\nপাশাপাশি আঙুলগুলোর আলনার অভিমুখে হেলে পড়া (Ulnar deviation) এবং ইন্টারঅসিয়াস পেশি শুকিয়ে যাওয়া (Guttering) লক্ষ্য করা যায়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Characteristic foot deformities in Rheumatoid Arthritis",
+    "answer": "Subluxation of MTP joints (cock-up toe / hammer toe), rupture of tibialis posterior tendon (loss of arch / flat foot), and hindfoot valgus deformity of calcaneus",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসে পায়ের পাতার মেটাটারসোফ্যালাঞ্জিয়াল (MTP) জয়েন্টের সাবলাক্সেশনের কারণে কক-আপ বা হ্যামার টো বিকৃতি ঘটে।\nটিবিয়ালিস পোস্টেরিয়র টেন্ডন ছিঁড়ে যাওয়ার ফলে পায়ের স্বাভাবিক আর্চ নষ্ট হয়ে ফ্ল্যাট ফুট (পেস প্ল্যানাস) তৈরি হয়।\nএছাড়াও গোড়ালির ক্যালকেনিয়াস হাড়ে ভালগাস বিকৃতি দেখা দেয়, যা হাঁটাচলায় তীব্র ব্যথার কারণ হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Most common extra-articular manifestation in Rheumatoid Arthritis",
+    "answer": "Rheumatoid nodules",
+    "explanation_bn": "জয়েন্টের বাইরে রিউমাটয়েড আর্থ্রাইটিসের সবচেয়ে সাধারণ লক্ষণ হলো রিউমাটয়েড নোডিউল (প্রায় ২০-৩০% রোগীর ক্ষেত্রে দেখা যায়)।\nএগুলো সাধারণত কনুইয়ের মতো চাপের স্থানে ত্বকের নিচে শক্ত ও ব্যথাহীন গুটি হিসেবে তৈরি হয়।\nরিউমাটয়েড নোডিউল উপস্থিতি গুরুতর ও সেরোপজিটিভ রোগ এবং রক্তনালির প্রদাহের (ভাস্কুলাইটিস) উচ্চ ঝুঁকির ইঙ্গিত দেয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Most common ocular manifestation in Rheumatoid Arthritis",
+    "answer": "Keratoconjunctivitis sicca (dry eyes)",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসে চোখের সবচেয়ে সাধারণ সমস্যা হলো কেরাটোকনজাঙ্কটিভাইটিস সিকা বা ড্রাই আইজ সিন্ড্রোম।\nঅশ্রুগ্রন্থিতে অটোইমিউন প্রদাহের কারণে চোখ শুকিয়ে যাওয়া, চোখে খসখসে ভাব ও জ্বালাপোড়া অনুভূত হয়।\nএটি সেকেন্ডারি শোগ্রেন সিন্ড্রোমের একটি অংশ হিসেবেও প্রচুর রোগীর মধ্যে প্রকাশ পায়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Most important pulmonary manifestation in Rheumatoid Arthritis",
+    "answer": "Interstitial lung disease / Bronchiolitis obliterans",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসের কারণে ফুসফুসের সবচেয়ে গুরুত্বপূর্ণ ও মারাত্মক জটিলতা হলো ইন্টারস্টিশিয়াল লাং ডিজিজ (ILD)।\nএটি ফুসফুসের অ্যালভিওলাই ও টিস্যুতে ফাইব্রোসিস তৈরি করে দীর্ঘস্থায়ী শুকনো কাশি ও শ্বাসকষ্টের সৃষ্টি করে।\nঅন্যান্য ফুসফুসীয় সমস্যার মধ্যে ব্রঙ্কিওলাইটিস অবলিটারানস এবং প্লুরাল ইফিউশনও উল্লেখযোগ্য।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Most common cardiac manifestation in Rheumatoid Arthritis",
+    "answer": "Pericarditis",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসে হৃদপিণ্ডের বহিঃআবরণে প্রদাহ বা পেরিকার্ডাইটিস হলো সবচেয়ে সাধারণ কার্ডিয়াক বহিঃপ্রকাশ।\nযদিও বহু রোগীর ক্ষেত্রে এটি উপসর্গহীন থাকে, তবে ইকোকার্ডিওগ্রাফিতে পেরিকার্ডিয়াল ইফিউশন ধরা পড়ে।\nতীব্র প্রদাহের সময় এটি বুকব্যথা ও শ্বাসকষ্টের কারণ হতে পারে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Most common neurological manifestation in Rheumatoid Arthritis",
+    "answer": "Carpal tunnel syndrome",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসে কবজির সাইনোভিয়াল পর্দা ফুলে গিয়ে কার্পাল টানেলের ওপর চাপ ফেলে।\nএর ফলে সেখানে থাকা মিডিয়ান নার্ভ সংকুচিত হয়ে কার্পাল টানেল সিন্ড্রোম তৈরি হয়।\nরোগীর হাতের প্রথম তিনটি আঙুলে অবশ ভাব, ঝিঁঝিঁ ধরা এবং রাতের বেলা তীব্র জ্বালাপোড়া ব্যথা হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "What constitutes Felty syndrome?",
+    "answer": "Rheumatoid Arthritis + Splenomegaly + Neutropenia",
+    "explanation_bn": "ফেল্টি সিন্ড্রোম হলো গুরুতর এবং দীর্ঘস্থায়ী রিউমাটয়েড আর্থ্রাইটিসের একটি বিরল ও মারাত্মক ট্রায়াড।\nএতে আরএ-এর সাথে প্লীহা অস্বাভাবিক বড় হওয়া (স্প্লেনোমেগালি) এবং রক্তে নিউট্রোফিলের সংখ্যা বিপজ্জনকভাবে কমে যাওয়া (নিউট্রোপেনিয়া) দেখা যায়।\nনিউট্রোপেনিয়ার কারণে এসব রোগীদের বারবার ব্যাকটেরিয়াজনিত প্রাণঘাতী ইনফেকশনে আক্রান্ত হওয়ার ঝুঁকি থাকে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "What constitutes Caplan syndrome?",
+    "answer": "Rheumatoid Arthritis + Pneumoconiosis + Multiple pulmonary nodules",
+    "explanation_bn": "ক্যাপলান সিন্ড্রোম হলো কয়লা খনি শ্রমিকদের নিউমোকোনিওসিসের সাথে রিউমাটয়েড আর্থ্রাইটিসের সহাবস্থান।\nএতে ফুসফুসে কয়লা বা সিলিকার ধূলিকণার প্রতি তীব্র ইমিউন প্রতিক্রিয়ায় একাধিক বড় বড় রিউমাটয়েড নোডিউল তৈরি হয়।\nবুকের এক্স-রেতে ফুসফুসের পেরিফেরিতে সুস্পষ্ট গোলাকার নোডিউল দেখা যায়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Most common type of anaemia in Rheumatoid Arthritis",
+    "answer": "Anaemia of chronic disease",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসের রোগীদের মধ্যে সবচেয়ে বেশি দেখা যায় অ্যানিমিয়া অব ক্রনিক ডিজিজ (ACD)।\nদীর্ঘস্থায়ী প্রদাহের ফলে যকৃত থেকে হেপসিডিন হরমোন বেশি নিঃসৃত হয়ে অস্থিমজ্জায় আয়রনের পুনঃব্যবহার বাধাগ্রস্ত করে।\nফলস্বরূপ রক্তে মোট আয়রন পর্যাপ্ত থাকলেও লোহিত রক্তকণিকা তৈরিতে তা ব্যবহৃত হতে পারে না।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Main cause of mortality in Rheumatoid Arthritis",
+    "answer": "Cardiovascular disease / accelerated atherosclerosis",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসের রোগীদের অকালমৃত্যুর প্রধানতম কারণ হলো কার্ডিওভাসকুলার রোগ বা হার্ট অ্যাটাক।\nশরীরে চলমান দীর্ঘমেয়াদী সিস্টেমিক প্রদাহ রক্তনালির অভ্যন্তরে দ্রুত চর্বি জমিয়ে অ্যাথেরোস্ক্লেরোসিসের গতি বহুগুণ বাড়িয়ে দেয়।\nতাই সাধারণ মানুষের চেয়ে আরএ রোগীদের করোনারি আর্টারি ডিজিজ ও স্ট্রোকের ঝুঁকি প্রায় দ্বিগুণ।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "CBC with ESR findings in active Rheumatoid Arthritis",
+    "answer": "Anaemia of chronic disease, thrombocytosis, raised ESR",
+    "explanation_bn": "সক্রিয় রিউমাটয়েড আর্থ্রাইটিসে পূর্ণ রক্ত পরীক্ষায় (CBC) ক্রনিক ডিজিজের রক্তস্বল্পতা এবং প্লেটলেট বৃদ্ধির (রিঅ্যাক্টিভ থ্রম্বোসাইটোসিস) প্রমাণ পাওয়া যায়।\nএকই সাথে তীব্র প্রদাহের কারণে ইএসআর (ESR) স্বাভাবিকের চেয়ে উল্লেখযোগ্য মাত্রায় বৃদ্ধি পায়।\nএই প্যারামিটারগুলো রোগের তীব্রতা এবং চিকিৎসার প্রতিক্রিয়া পর্যবেক্ষণে অত্যন্ত সহায়ক।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Comparison between RF and anti-CCP (ACPA) in Rheumatoid Arthritis",
+    "answer": "RF is sensitive but less specific; anti-CCP (ACPA) is highly specific for RA",
+    "explanation_bn": "রিউমাটয়েড ফ্যাক্টর (RF) প্রায় ৭০-৮০% রোগীর ক্ষেত্রে পজিটিভ হলেও অন্যান্য অটোইমিউন রোগ বা ক্রনিক ইনফেকশনেও পজিটিভ হতে পারে, তাই এর স্পেসিফিসিটি কম।\nঅন্যদিকে অ্যান্টি-সাইট্রুলিনেটেড প্রোটিন অ্যান্টিবডি (anti-CCP) রিউমাটয়েড আর্থ্রাইটিসের জন্য ৯৫-৯৮% সুনির্দিষ্ট (হাইডলি স্পেসিফিক)।\nরোগের একদম প্রাথমিক পর্যায়ে এমনকি জয়েন্টে লক্ষণ প্রকাশের আগেই অ্যান্টি-সিসিপি রক্তে পজিটিভ পাওয়া যেতে পারে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "First-line conventional synthetic DMARD for Rheumatoid Arthritis",
+    "answer": "Methotrexate",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিস নিশ্চিত হওয়ার সাথে সাথেই প্রথম পছন্দের সনাতন সিন্থেটিক ডিমার্ড (csDMARD) হিসেবে মেথোট্রেক্সেট শুরু করতে হয়।\nএটি ডাইহাইড্রোফোলেট রিডাক্টেজ এনজাইম বাধা দিয়ে পিউরিন সংশ্লেষণ ও টি-কোষের অতিসক্রিয়তা দমন করে।\nজয়েন্টের ক্ষয় ও বিকৃতি রোধ করতে এবং রোগীর দীর্ঘমেয়াদী কার্যক্ষমতা রক্ষা করতে এর কার্যকারিতা অতুলনীয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Dosage regimen of Methotrexate in Rheumatoid Arthritis",
+    "answer": "15 mg once weekly (Maximum: 25 mg weekly)",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসে মেথোট্রেক্সেট কখনই প্রতিদিন খেতে হয় না, এটি সপ্তাহে মাত্র একবার (once weekly) গ্রহণ করতে হয়।\nসাধারণত প্রাথমিক ডোজ সপ্তাহে ১৫ মিলিগ্রাম দিয়ে শুরু হয় এবং প্রয়োজনে তা বাড়িয়ে সর্বোচ্চ ২৫ মিলিগ্রাম পর্যন্ত করা যায়।\nদৈনিক গ্রহণ করলে মারাত্মক বিষাক্ততা ও অস্থিমজ্জা ধ্বংস (ম্যারো সাপ্রেশন) হওয়ার চরম ঝুঁকি থাকে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Role and dosing of Folic acid with Methotrexate in Rheumatoid Arthritis",
+    "answer": "5 mg weekly, taken 24 hours after methotrexate",
+    "explanation_bn": "মেথোট্রেক্সেটের বিষাক্ততা এবং পার্শ্বপ্রতিক্রিয়া (যেমন বমি ভাব, মুখের ঘা, লিভার এনজাইম বৃদ্ধি) কমাতে ফলিক অ্যাসিড দেওয়া হয়।\nএর সাধারণ ডোজ হলো সপ্তাহে ৫ মিলিগ্রাম, যা মেথোট্রেক্সেট গ্রহণের ঠিক ২৪ ঘণ্টা পর খেতে বলা হয়।\nমেথোট্রেক্সেটের দিনে ফলিক অ্যাসিড খেলে ওষুধের কার্যকারিতা হ্রাস পেতে পারে বলে ভিন্ন দিনে এটি খাওয়া বিধেয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Prednisolone bridging regimen in active Rheumatoid Arthritis",
+    "answer": "Initial dose 30 mg daily, tapered by 5 mg every 2 weeks",
+    "explanation_bn": "মেথোট্রেক্সেটের মতো ডিমার্ডগুলোর পূর্ণ কার্যকারিতা শুরু হতে ৬ থেকে ১২ সপ্তাহ সময় লাগে, তাই দ্রুত ব্যথা ও প্রদাহ কমাতে সাময়িক ব্রিজ থেরাপি হিসেবে প্রেডনিসোলোন দেওয়া হয়।\nসাধারণত দৈনিক ৩০ মিলিগ্রাম দিয়ে শুরু করে প্রতি ২ সপ্তাহে ৫ মিলিগ্রাম করে কমিয়ে (ট্যাপারিং) ধীরে ধীরে বন্ধ করে দেওয়া হয়।\nস্টেরয়েড কখনই দীর্ঘমেয়াদী একমাত্র চিকিৎসা নয়, বরং দ্রুত আরামের জন্য স্বল্পমেয়াদে ব্যবহৃত হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Duration of prednisolone bridging therapy before withdrawal in RA",
+    "answer": "After about 12 weeks",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসে প্রেডনিসোলোন সাধারণত প্রায় ১২ সপ্তাহ (৩ মাস) পর ধীরে ধীরে ডোজ কমিয়ে সম্পূর্ণ বন্ধ করে দেওয়া হয়।\nএই সময়ের মধ্যে মূল রোগ নিয়ন্ত্রণকারী ওষুধ মেথোট্রেক্সেট পূর্ণ কার্যকারিতা অর্জন করে।\n১২ সপ্তাহের বেশি স্টেরয়েড অব্যাহত রাখলে অস্টিওপোরোসিস, ডায়াবেটিস ও অন্যান্য দীর্ঘমেয়াদী পার্শ্বপ্রতিক্রিয়ার ঝুঁকি বেড়ে যায়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "What constitutes conventional triple therapy in Rheumatoid Arthritis?",
+    "answer": "MTX + SSZ + HCQ (Methotrexate + Sulfasalazine + Hydroxychloroquine)",
+    "explanation_bn": "একটি মাত্র ওষুধে রোগ নিয়ন্ত্রণে না এলে প্রচলিত তিনটি সনাতন ডিমার্ডের সমন্বয়ে ট্রিপল থেরাপি প্রয়োগ করা হয়।\nএর মধ্যে রয়েছে মেথোট্রেক্সেট, সালফাসালাজিন এবং হাইড্রোক্সিক্লোরোকুইন।\nএই সমন্বিত থেরাপি ব্যয়বহুল বায়োলজিক্যাল ওষুধের একটি অত্যন্ত কার্যকর ও সাশ্রয়ী বিকল্প হিসেবে প্রমাণিত।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "First-line oral alternative to Methotrexate in RA",
+    "answer": "Leflunomide (dose: 10–20 mg daily)",
+    "explanation_bn": "যেসব রোগী মেথোট্রেক্সেট সহ্য করতে পারেন না বা যাদের ক্ষেত্রে মেথোট্রেক্সেট প্রতিনির্দেশিত, তাদের ক্ষেত্রে লেফ্লুনোমাইড প্রথম বিকল্প।\nএটি পিরিমিডিন সংশ্লেষণ বাধা দিয়ে লিম্ফোসাইটের বিস্তার দমন করে এবং দৈনিক ১০ থেকে ২০ মিলিগ্রাম মুখে সেবন করতে হয়।\nকার্যকারিতার দিক থেকে এটি মেথোট্রেক্সেটের প্রায় সমতুল্য।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Management of persistent moderate-to-severe RA despite Methotrexate",
+    "answer": "Add tsDMARD or bDMARD",
+    "explanation_bn": "পর্যাপ্ত ডোজে মেথোট্রেক্সেট ব্যবহারের পরও যদি রোগ মধ্যম থেকে তীব্র মাত্রায় সক্রিয় থাকে, তবে টার্গেটেড সিন্থেটিক বা বায়োলজিক্যাল ডিমার্ড যোগ করতে হয়।\nএর মধ্যে রয়েছে বায়োলজিক ডিমার্ড (যেমন anti-TNF) অথবা টার্গেটেড সিন্থেটিক ডিমার্ড যেমন জ্যাক ইনহিবিটর (JAK inhibitors)।\nএই ওষুধগুলো সরাসরি নির্দিষ্ট প্রদাহজনক পথ বন্ধ করে দ্রুত রোগ নিয়ন্ত্রণে আনে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "First-line biologic DMARD (bDMARD) in Rheumatoid Arthritis",
+    "answer": "Anti-TNF-α therapy (e.g., Infliximab)",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসে প্রথম পছন্দের বায়োলজিক্যাল এজেন্ট হলো টিউমার নেক্রোসিস ফ্যাক্টর ইনহিবিটর বা anti-TNF-α থেরাপি (যেমন ইনফ্লিক্সিম্যাব, এডালিমুম্যাব)।\nএটি অতিরিক্ত TNF-α সাইটোকাইনকে নিষ্ক্রিয় করে জয়েন্টের প্রদাহ ও হাড়ের ক্ষয় অত্যন্ত দ্রুত ও কার্যকরভাবে থামিয়ে দেয়।\nতবে এটি শুরু করার আগে সুপ্ত যক্ষ্মা (Latent TB) পরীক্ষা করে নেওয়া বাধ্যতামূলক।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Natural course of Rheumatoid Arthritis during pregnancy",
+    "answer": "Often goes into remission (improves)",
+    "explanation_bn": "গর্ভাবস্থায় শরীরের প্রতিরোধ ব্যবস্থায় প্রাকৃতিক পরিবর্তন ও ইমিউন সহনশীলতা বৃদ্ধির কারণে প্রায় ৭৫% ক্ষেত্রে আরএ-এর তীব্রতা হ্রাস পায় বা রোগ রিমেশনে চলে যায়।\nতবে সন্তান প্রসবের পর প্রথম কয়েক মাসের মধ্যেই রোগটি পুনরায় তীব্র রূপ নিয়ে ফিরে আসার (ফ্লেয়ার) উচ্চ ঝুঁকি থাকে।\nতাই প্রসবোত্তর সময়ে রোগীর নিয়মিত পর্যবেক্ষণ ও চিকিৎসা সমন্বয় অপরিহার্য।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Oral analgesic of choice for pain relief in pregnant RA patients",
+    "answer": "Paracetamol",
+    "explanation_bn": "গর্ভাবস্থায় যেকোনো ট্রাইমেস্টারে হালকা থেকে মাঝারি ব্যথানাশক হিসেবে প্যারাসিটামল সবচেয়ে নিরাপদ ও প্রথম পছন্দের ওষুধ।\nএটি ভ্রূণের অঙ্গ গঠনে কোনো ক্ষতিকর প্রভাব ফেলে না এবং রক্তচাপের ওপর প্রতিকূল প্রভাব সৃষ্টি করে না।\nতাই গর্ভকালীন বাতের ব্যথায় প্রথম সারির ওষুধ হিসেবে এটি নির্দেশিত।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "How long before conception should Methotrexate be stopped?",
+    "answer": "≥ 3 months",
+    "explanation_bn": "মেথোট্রেক্সেট একটি মারাত্মক টেরাটোজেনিক ওষুধ, যা ভ্রূণের তীব্র জন্মগত ত্রুটি ও গর্ভপাত ঘটাতে পারে।\nতাই গর্ভধারণের পরিকল্পনা করার কমপক্ষে ৩ মাস আগে নারী ও পুরুষ উভয় সঙ্গীর ক্ষেত্রেই মেথোট্রেক্সেট বন্ধ করতে হবে।\nপাশাপাশি শরীর থেকে মেথোট্রেক্সেট সম্পূর্ণ দূর করতে উচ্চ মাত্রায় ফলিক অ্যাসিড সাপ্লিমেন্ট নিশ্চিত করতে হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "How long before conception should Leflunomide be stopped?",
+    "answer": "≥ 24 months (or cholestyramine washout)",
+    "explanation_bn": "লেফ্লুনোমাইড শরীরের চর্বিতে দীর্ঘ সময় সঞ্চিত থাকে এবং শরীর থেকে স্বাভাবিকভাবে সম্পূর্ণ বের হতে প্রায় ২ বছর সময় নেয়।\nটেরাটোজেনিক ঝুঁকির কারণে গর্ভধারণের অন্তত ২৪ মাস আগে এটি বন্ধ করার নিয়ম।\nজরুরি বা দ্রুত গর্ভধারণের প্রয়োজন হলে কোলেস্টাইরামিন ওষুধ দিয়ে ড্রাগ ওয়াশআউট করিয়ে রক্তে এর মাত্রা নিরাপদ স্তরে নামিয়ে আনতে হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Gestational limit for using NSAIDs/COX-2 inhibitors in pregnancy",
+    "answer": "Can be used up to 20 weeks' gestation",
+    "explanation_bn": "গর্ভাবস্থার ২০ সপ্তাহ পর্যন্ত প্রয়োজনে সাবধানতার সাথে এনএসএআইডি ব্যবহার করা যেতে পারে।\nতবে ২০ সপ্তাহের পর এগুলো ভ্রূণের কিডনির কার্যকারিতা হ্রাস করে অ্যামনিওটিক ফ্লুইড কমিয়ে দিতে পারে (অলিগোহাইড্রামনিওস)।\nবিশেষ করে ২৮ সপ্তাহের পর ব্যবহার করলে গর্ভস্থ শিশুর ডাক্টাস আর্টারিওসাস অকালে বন্ধ হয়ে যাওয়ার প্রাণঘাতী ঝুঁকি থাকে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Use and maternal risks of glucocorticoids in pregnancy for RA",
+    "answer": "Used for flare control; maternal risks include hypertension, glucose intolerance (gestational diabetes), and infection",
+    "explanation_bn": "গর্ভাবস্থায় রোগের তীব্র ফ্লেয়ার নিয়ন্ত্রণের জন্য সর্বনিম্ন কার্যকর ডোজে গ্লুকোকর্টিকয়েড (যেমন প্রেডনিসোলোন) ব্যবহার করা হয়।\nতবে এর দীর্ঘমেয়াদী ব্যবহারে মায়ের উচ্চ রক্তচাপ (জেস্টেশনাল হাইপারটেনশন), গর্ভকালীন ডায়াবেটিস এবং সংক্রমণের ঝুঁকি বাড়ে।\nতাই ফ্লেয়ার প্রশমিত হওয়া মাত্রই স্টেরয়েডের ডোজ কমিয়ে আনার চেষ্টা করা হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Safety of Ciclosporin in pregnant RA patients",
+    "answer": "May be used with monitoring",
+    "explanation_bn": "গর্ভাবস্থায় তীব্র ও অনিয়ন্ত্রিত রিউমাটয়েড আর্থ্রাইটিসে সাইক্লোস্পোরিন একটি তুলনামূলক নিরাপদ বিকল্প হিসেবে ব্যবহারযোগ্য।\nতবে এর ব্যবহারে প্রি-এক্লাম্পসিয়া, মায়ের কিডনির ওপর চাপ এবং রক্তচাপ বাড়ার ঝুঁকি থাকে।\nতাই এটি ব্যবহারের সময় মায়ের রক্তচাপ এবং রেনাল ফাংশন নিয়মিত সতর্কতার সাথে মনিটরিং করতে হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "DMARDs contraindicated during breastfeeding",
+    "answer": "Methotrexate, leflunomide, and cyclophosphamide",
+    "explanation_bn": "এই শক্তিশালী সাইটোটক্সিক ও ইমিউনোসাপ্রেসিভ ওষুধগুলো মায়ের বুকের দুধে প্রবেশ করে নবজাতকের শরীরে বিষাক্ত প্রভাব ফেলতে পারে।\nএদের কারণে শিশুর রক্তকণিকা কমে যাওয়া (বোন ম্যারো সাপ্রেশন) এবং বৃদ্ধির ব্যাঘাত ঘটতে পারে।\nতাই বুকের দুধ খাওয়ানো মায়েদের ক্ষেত্রে মেথোট্রেক্সেট, লেফ্লুনোমাইড ও সাইক্লোফসফামাইড সম্পূর্ণ নিষিদ্ধ।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Which conventional synthetic DMARDs (csDMARDs) are SAFE to use in pregnancy?",
+    "answer": "Sulfasalazine, azathioprine, hydroxychloroquine",
+    "explanation_bn": "গর্ভাবস্থায় রিউমাটয়েড আর্থ্রাইটিস নিয়ন্ত্রণের জন্য সালফাসালাজিন, অ্যাজাথায়োপ্রিন এবং হাইড্রোক্সিক্লোরোকুইন আন্তর্জাতিকভাবে নিরাপদ হিসেবে স্বীকৃত।\nহাইড্রোক্সিক্লোরোকুইন রোগ নিয়ন্ত্রণে রাখার পাশাপাশি গর্ভস্থ শিশুর হার্ট ব্লক প্রতিরোধেও ভূমিকা রাখে।\nসালফাসালাজিন ব্যবহারের সময় ফলেট শোষণে বাধার কারণে অতিরিক্ত ফলিক অ্যাসিড সেবন করা আবশ্যক।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Which conventional synthetic DMARDs (csDMARDs) must be AVOIDED in pregnancy?",
+    "answer": "Methotrexate, leflunomide, cyclophosphamide, and mycophenolate mofetil",
+    "explanation_bn": "এই ওষুধগুলো তীব্র টেরাটোজেনিক এবং ভ্রূণের মৃত্যু বা অঙ্গবিকৃতির চরম কারণ হতে পারে।\nএরা কোষ বিভাজন ও ডিএনএ সংশ্লেষণ সরাসরি বাধা দেয়, যা দ্রুত বর্ধনশীল ভ্রূণের জন্য মারাত্মক ক্ষতিকর।\nতাই গর্ভধারণের আগেই এদের নিরাপদ বিকল্প ওষুধে রূপান্তর করা চিকিৎসার একটি মূল নীতি।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Pathological nature of Reactive Arthritis",
+    "answer": "Sterile arthritis after an infection",
+    "explanation_bn": "রিঅ্যাক্টিভ আর্থ্রাইটিস হলো শরীরের অন্য কোনো স্থানে (পরিপাকতন্ত্র বা মূত্রনালি) সংক্রমণের ১ থেকে ৪ সপ্তাহ পরে অস্থিসন্ধিতে সৃষ্ট জীবাণুমুক্ত প্রদাহ।\nযদিও এটি ব্যাকটেরিয়াজনিত সংক্রমণের ফলে সূত্রপাত হয়, তবুও জয়েন্টের সাইনোভিয়াল ফ্লুইডে কোনো সরাসরি জীবিত জীবাণু পাওয়া যায় না।\nএটি মূলত জীবাণুর অ্যান্টিজেনের প্রতি শরীরের অস্বাভাবিক প্রতিরোধমূলক প্রতিক্রিয়া বা ইমিউন প্রক্রিয়ার কারণে ঘটে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Classical triad of Reactive Arthritis (Reiter disease)",
+    "answer": "Arthritis + Urethritis + Conjunctivitis ('Cannot see, cannot pee, cannot bend knee')",
+    "explanation_bn": "রিঅ্যাক্টিভ আর্থ্রাইটিসের চিরায়ত ট্রায়াড হলো বাতব্যথা (আর্থ্রাইটিস), মূত্রনালির প্রদাহ (ইউরেথ্রাইটিস) এবং চোখের কনজাঙ্কটিভাইটিস।\nচিকিৎসাবিজ্ঞানে এটি মনে রাখার জনপ্রিয় প্রবাদ হলো 'Cannot see, cannot pee, cannot bend knee'।\nএই তিনটি লক্ষণ একসাথে উপস্থিত থাকলে রোগ নিশ্চিতভাবে শনাক্ত করা সহজ হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Former name of Reactive Arthritis",
+    "answer": "Reiter disease",
+    "explanation_bn": "পূর্বে এই রোগটিকে জার্মান চিকিৎসক হ্যান্স রাইটারের নামানুসারে 'রাইটার ডিজিজ' বা 'রাইটার্স সিন্ড্রোম' বলা হতো।\nদ্বিতীয় বিশ্বযুদ্ধে নাৎসি সংশ্লিষ্টতার ঐতিহাসিক কারণে পরবর্তীতে এই নাম বাদ দিয়ে আধুনিক চিকিৎসাবিজ্ঞানে 'রিঅ্যাক্টিভ আর্থ্রাইটিস' নাম গ্রহণ করা হয়।\nবর্তমানে এটি সেরোনেগেটিভ স্পন্ডিলোআর্থ্রাইটিসের অন্যতম প্রধান রোগ হিসেবে পরিচিত।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Common pattern of joint involvement in Reactive Arthritis",
+    "answer": "Acute asymmetric lower limb oligoarthritis",
+    "explanation_bn": "রিঅ্যাক্টিভ আর্থ্রাইটিসের সাধারণ প্যাটার্ন হলো শরীরের নিচের অংশের জয়েন্টগুলোতে অসমভাবে (অ্যাসিমেট্রিক) অল্প কয়েকটি (১-৪টি) জয়েন্টে তীব্র প্রদাহ হওয়া।\nবিশেষ করে হাঁটু এবং গোড়ালি জয়েন্ট সবচেয়ে ঘন ঘন ও গুরুতরভাবে আক্রান্ত হয়।\nজয়েন্টগুলো হঠাৎ ফুলে ওঠে, অত্যন্ত গরম ও লালচে বর্ণ ধারণ করে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Most common sexually acquired trigger for Reactive Arthritis",
+    "answer": "Chlamydia trachomatis",
+    "explanation_bn": "যৌন সংসর্গের মাধ্যমে ছড়ানো সংক্রমণের ক্ষেত্রে রিঅ্যাক্টিভ আর্থ্রাইটিসের প্রধান ও সবচেয়ে সাধারণ কারণ হলো ক্ল্যামাইডিয়া ট্র্যাকোমাটিস।\nপুরুষদের ক্ষেত্রে এটি উপসর্গহীন বা হালকা ইউরেথ্রাইটিস এবং নারীদের ক্ষেত্রে সার্ভিসাইটিস তৈরি করে।\nসংক্রমণের প্রায় ২ থেকে ৪ সপ্তাহ পর আকস্মিক জয়েন্টে তীব্র প্রদাহ শুরু হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Common enteric (post-dysenteric) triggers for Reactive Arthritis",
+    "answer": "Salmonella, Shigella, Campylobacter, and Yersinia",
+    "explanation_bn": "ব্যাকটেরিয়াজনিত পেটের পীড়া বা আমাশয়ের (ডায়রিয়া) পর রিঅ্যাক্টিভ আর্থ্রাইটিস ঘটার প্রধান ব্যাকটেরিয়াগুলো হলো সালমোনেলা, শিগেলা, ক্যাম্পাইলোব্যাক্টার ও ইয়ারসিনিয়া।\nএসব ব্যাকটেরিয়া অন্ত্রের দেয়াল ক্ষতিগ্রস্ত করে রোগপ্রতিরোধ ব্যবস্থাকে অতিসক্রিয় করে তোলে।\nডায়রিয়ার তীব্র পর্ব শেষ হয়ে যাওয়ার কয়েক সপ্তাহ পরেও অস্থিসন্ধিতে এই বাতের আক্রমণ ঘটে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Strongest genetic association with Reactive Arthritis",
+    "answer": "HLA-B27",
+    "explanation_bn": "রিঅ্যাক্টিভ আর্থ্রাইটিসের রোগীদের প্রায় ৬৫ থেকে ৮০% ক্ষেত্রে এইচএলএ-বি২৭ (HLA-B27) অ্যালিল পজিটিভ থাকে।\nএই জিনের উপস্থিতি থাকলে রোগটির তীব্রতা অনেক বৃদ্ধি পায় এবং রোগ দীর্ঘস্থায়ী হওয়ার ঝুঁকি তৈরি হয়।\nএছাড়াও HLA-B27 পজিটিভ রোগীদের চোখের ইউভাইটিস এবং মেরুদণ্ডের প্রদাহ বেশি দেখা যায়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Characteristic lower limb enthesitis sites in Reactive Arthritis",
+    "answer": "Achilles tendon insertion and plantar fascia",
+    "explanation_bn": "এনথেসাইটিস হলো যেখানে টেন্ডন বা লিগামেন্ট হাড়ের সাথে যুক্ত হয় সেখানে প্রদাহ হওয়া।\nরিঅ্যাক্টিভ আর্থ্রাইটিসে প্রধানত গোড়ালির পেছনে অ্যাকিলিস টেন্ডন এবং পায়ের তলায় প্ল্যান্টার ফ্যাসিয়া সংযুক্তির স্থানে তীব্র প্রদাহ ও ব্যথা হয়।\nফলে রোগী গোড়ালিতে ভর দিয়ে স্বাভাবিকভাবে হাঁটতে পারে না।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Characteristic genital skin lesion in Reactive Arthritis",
+    "answer": "Circinate balanitis",
+    "explanation_bn": "রিঅ্যাক্টিভ আর্থ্রাইটিসে পুরুষ রোগীদের লিঙ্গের মাথায় (গ্ল্যান্স পেনিস) ব্যথাহীন ছোট ছোট ক্ষতের সৃষ্টি হয়, যাকে সারসিনেট ব্যালানাইটিস বলে।\nখতনাকৃত পুরুষদের ক্ষেত্রে এটি শক্ত আঁশের মতো প্লেক এবং অখতনাকৃতদের ক্ষেত্রে গোলাকার আর্দ্র ক্ষতের রূপ নেয়।\nএটি রোগটির অত্যন্ত গুরুত্বপূর্ণ একটি ক্লিনিক্যাল বৈশিষ্ট্য।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Characteristic palm and sole skin lesion in Reactive Arthritis",
+    "answer": "Keratoderma blennorrhagica",
+    "explanation_bn": "কেরাটোডার্মা ব্লেনোরেজিকা হলো হাতের তালু ও পায়ের তলায় সৃষ্ট শক্ত মোমবাতির মতো বাদামি বা হলুদ রঙের চামড়ার ক্ষত।\nদেখতে অনেকটা পুস্টুলার সোরিয়াসিসের ক্ষতের মতো পুরু প্লাক তৈরি হয়।\nএটি রিঅ্যাক্টিভ আর্থ্রাইটিসের জটিল ও সুনির্দিষ্ট ত্বকের সমস্যাগুলোর একটি।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Diagnostic method and urethritis confirmation in Reactive Arthritis",
+    "answer": "Primarily clinical diagnosis; urethritis is confirmed by two-glass slide test (mucoid threads in 1st void clearing in 2nd)",
+    "explanation_bn": "রিঅ্যাক্টিভ আর্থ্রাইটিস প্রধানত রোগীর ইতিহাস ও শারীরিক লক্ষণাবলি দেখে ক্লিনিক্যালি নির্ণয় করা হয়।\nলুক্কায়িত ইউরেথ্রাইটিস নিশ্চিত করতে টু-গ্লাস টেস্ট করা হয়, যাতে প্রথম প্রস্রাবের পাত্রে মিউকাস সুতা পাওয়া যায় যা দ্বিতীয় পাত্রে পরিষ্কার থাকে।\nএছাড়াও ইউরিন পিসিআর পরীক্ষার মাধ্যমে ক্ল্যামাইডিয়া শনাক্ত করা হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "First-line acute treatment for Reactive Arthritis",
+    "answer": "NSAIDs + rest + analgesics",
+    "explanation_bn": "তীব্র পর্যায়ের প্রাথমিক চিকিৎসায় মূল ওষুধ হলো নন-স্টেরয়েডাল অ্যান্টি-ইনফ্ল্যামেটরি ড্রাগ বা NSAIDs (যেমন ইনডোমেথাসিন বা ন্যাপ্রোক্সেন)।\nপ্রদাহ দ্রুত প্রশমনে রোগীকে পূর্ণ বিশ্রাম ও ব্যথানাশক ওষুধ দেওয়া হয়।\nপ্রয়োজনে তীব্র প্রদাহযুক্ত জয়েন্টে সরাসরি ইন্ট্রা-আর্টিকুলার স্টেরয়েড ইনজেকশন প্রয়োগ করা যায়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Role of antibiotics in Reactive Arthritis",
+    "answer": "Indicated only if the active triggering infection is identified",
+    "explanation_bn": "রিঅ্যাক্টিভ আর্থ্রাইটিসের জয়েন্টের প্রদাহ নিজে জীবাণুমুক্ত হওয়ায় অ্যান্টিবায়োটিক সরাসরি জয়েন্টের প্রদাহ কমায় না।\nতবে যদি শরীরে সক্রিয় ক্ল্যামাইডিয়া সংক্রমণ এখনো বিদ্যমান থাকে, তবে সেই ইনফেকশন নির্মূলে অ্যান্টিবায়োটিক দেওয়া জরুরি।\nপোস্ট-এন্টেরিক আর্থ্রাইটিসে ডায়রিয়া সেরে যাওয়ার পর সাধারণ অ্যান্টিবায়োটিকের কোনো ভূমিকা থাকে না।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Antibiotic treatment of choice for Chlamydial urethritis in Reactive Arthritis",
+    "answer": "Doxycycline or Azithromycin",
+    "explanation_bn": "ক্ল্যামাইডিয়াজনিত ইউরেথ্রাইটিসের চিকিৎসায় ডক্সিসাইক্লিন (১০০ মিগ্রা দিনে ২ বার ৭ দিন) অথবা অ্যাজিথ্রোমাইসিন প্রথম পছন্দের অ্যান্টিবায়োটিক।\nরোগীর পুনরায় সংক্রমণ রোধ করতে রোগীর সাথে তার নিয়মিত সেক্সুয়াল পার্টনারেরও একই সাথে চিকিৎসা দেওয়া বাধ্যতামূলক।\nএটি শরীরে অ্যান্টিজেনের স্থায়ী উৎস নির্মূল করতে সাহায্য করে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Management of persistent or refractory Reactive Arthritis",
+    "answer": "Persistent: Sulfasalazine or Methotrexate; Refractory: Anti-TNF-α therapy",
+    "explanation_bn": "যদি রিঅ্যাক্টিভ আর্থ্রাইটিস কয়েক মাসের বেশি দীর্ঘস্থায়ী বা ক্রনিক আকার ধারণ করে, তবে সালফাসালাজিন বা মেথোট্রেক্সেট ডিমার্ড হিসেবে শুরু করা হয়।\nএসব ওষুধেও রোগ নিয়ন্ত্রণে না এলে তীব্র প্রতিরোধী ক্ষেত্রে বায়োলজিক্যাল anti-TNF-α থেরাপি নির্দেশিত।\nবায়োলজিক্যাল ওষুধগুলো সাইনোভিয়াল ক্ষতি রোধ করে দীর্ঘমেয়াদী প্রতিবন্ধকতা থেকে রক্ষা করে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "General features and sex predominance of Gout",
+    "answer": "Inflammatory monoarthritis usually in men (Male predominance 5:1)",
+    "explanation_bn": "গাউট বা গেঁটেবাত হলো তীব্র প্রদাহজনিত মনোআর্থ্রাইটিস যা সাধারণত একক জয়েন্টে হঠাৎ তীব্র ব্যথা দিয়ে শুরু হয়।\nনারীদের তুলনায় পুরুষদের মধ্যে এই রোগের প্রকোপ প্রায় ৫ গুণ বেশি দেখা যায়।\nনারীদের ক্ষেত্রে মেনোপজের আগে এস্ট্রোজেন হরমোন ইউরিক অ্যাসিড প্রস্রাবের মাধ্যমে বের করে দিতে সাহায্য করায় তারা সুরক্ষিত থাকে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Underlying cause of Gout",
+    "answer": "Deposition of monosodium urate monohydrate crystals in and around synovial joints",
+    "explanation_bn": "রক্তে ইউরিক অ্যাসিডের মাত্রা বেড়ে গেলে তা সাইনোভিয়াল জয়েন্ট ও আশপাশের টিস্যুতে মনোসোডিয়াম ইউরেট ক্রিস্টাল হিসেবে জমা হতে থাকে।\nএই সুচালো ক্রিস্টালগুলো সাইনোভিয়ামের ম্যাক্রোফেজ ও নিউট্রোফিলকে উদ্দীপিত করে মারাত্মক প্রদাহ তৈরি করে।\nফলস্বরূপ জয়েন্টটি প্রচণ্ড লালচে, উত্তপ্ত এবং স্পর্শকাতরভাবে ব্যথাময় হয়ে ওঠে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Major risk factors for developing Gout",
+    "answer": "Elevated serum uric acid level, obesity, and metabolic syndrome",
+    "explanation_bn": "রক্তে সিরাম ইউরিক অ্যাসিডের মাত্রা যত বৃদ্ধি পায়, গাউট হওয়ার ঝুঁকি তত বহুগুণ বেড়ে যায়।\nএছাড়াও অতিরিক্ত স্থূলতা, উচ্চ রক্তচাপ, ডায়াবেটিস এবং মেটাবলিক সিন্ড্রোম ইউরিক অ্যাসিড নিঃসরণ কমিয়ে গাউটের সম্ভাবনা বাড়ায়।\nঅতিরিক্ত লাল মাংস, অ্যালকোহল ও চিনিযুক্ত পানীয় গ্রহণও এর অন্যতম প্রধান কারণ।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "What is Podagra?",
+    "answer": "Acute inflammatory monoarthritis involving the first metatarsophalangeal (MTP) joint (>50% of cases)",
+    "explanation_bn": "পায়ের বুড়ো আঙুলের গোড়ার জয়েন্টে (১ম মেটাটারসোফ্যালাঞ্জিয়াল জয়েন্ট) আকস্মিক তীব্র বাতব্যথাকে চিকিৎসাবিজ্ঞানে 'পোডাগ্ৰা' বলা হয়।\nগাউটের অর্ধেকেরও বেশি ক্ষেত্রে প্রাথমিক আক্রমণটি রাতের বেলা এই জয়েন্টেই ঘটে থাকে।\nব্যথা এতটাই তীব্র হয় যে চাদর বা কাপড়ের সামান্য স্পর্শও রোগী সহ্য করতে পারে না।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "What are Tophi in chronic gout?",
+    "answer": "Chronic irregular firm nodules due to monosodium urate crystal deposition in joints and soft tissues",
+    "explanation_bn": "টফি হলো ইউরেট ক্রিস্টাল, প্রদাহজনিত কোষ এবং ফাইব্রাস টিস্যু জমে গঠিত শক্ত, অনিয়মিত মাংসপিণ্ড বা নোডিউল।\nদীর্ঘস্থায়ী গাউটে এগুলো কানের লতি, কনুইয়ের বার্সা এবং আঙুলের জয়েন্টের ত্বকের নিচে তৈরি হয়।\nটফি মাঝে মাঝে ফেটে গিয়ে চকের মতো সাদা ঘন পদার্থ নিঃসৃত হতে পারে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Definitive confirmatory test for Gout",
+    "answer": "Identification of monosodium urate crystals in joint, bursa, or tophus aspirate",
+    "explanation_bn": "গাউট নিশ্চিত করার একমাত্র গোল্ড স্ট্যান্ডার্ড পরীক্ষা হলো আক্রান্ত জয়েন্ট বা টফি থেকে সুই দিয়ে ফ্লুইড বের করে মাইক্রোস্কোপে ইউরেট ক্রিস্টাল শনাক্ত করা।\nপোলারাইজিং মাইক্রোস্কোপে এই ক্রিস্টালগুলো সুস্পষ্টভাবে চিহ্নিত করা যায়।\nএটি ইনফেকশনজনিত সেপটিক আর্থ্রাইটিস ও সিউডোগাউট থেকে রোগটিকে শতভাগ পৃথক করে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Shape of monosodium urate crystals under polarizing microscopy",
+    "answer": "Needle-shaped",
+    "explanation_bn": "জয়েন্ট ফ্লুইড বিশ্লেষণ করলে মনোসোডিয়াম ইউরেট ক্রিস্টালগুলো মাইক্রোস্কোপের নিচে চিকন সূচের মতো (needle-shaped) দেখা যায়।\nএদের প্রান্তগুলো সূক্ষ্ম ও ধারালো থাকে যা নিউট্রোফিল কোষের ভেতরে বা বাইরে অবস্থান করে।\nবিপরীতে সিউডোগাউটের ক্যালসিয়াম পাইরোফসফেট ক্রিস্টালগুলো আয়তাকার বা রম্বয়েড আকৃতির হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Birefringence characteristic of monosodium urate crystals in Gout",
+    "answer": "Strongly negative birefringence",
+    "explanation_bn": "কম্পেনসেটেড পোলারাইজড লাইট মাইক্রোস্কোপিতে ইউরেট ক্রিস্টাল তীব্র নেগেটিভ বাইরিফ্রিঞ্জেন্স প্রদর্শন করে।\nআলোর অক্ষের সমান্তরালে থাকলে এগুলো উজ্জ্বল হলুদ বর্ণ ধারণ করে এবং লম্বভাবে থাকলে নীল দেখায়।\nএই নির্দিষ্ট অপটিক্যাল বৈশিষ্ট্য গাউটের ক্রিস্টালকে সিউডোগাউটের পজিটিভ বাইরিফ্রিঞ্জেন্ট ক্রিস্টাল থেকে আলাদা করে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Why can serum uric acid be normal during an acute attack of Gout?",
+    "answer": "Because acute inflammation and stress cause renal urate excretion, causing serum urate levels to fall",
+    "explanation_bn": "তীব্র গাউট আক্রমণের সময় প্রদাহজনিত সাইটোকাইন ও স্ট্রেসের প্রভাবে কিডনি দিয়ে অতিরিক্ত ইউরিক অ্যাসিড প্রস্রাবে বেরিয়ে যায়।\nফলে তীব্র ব্যথার সময় প্রায় এক-তৃতীয়াংশ রোগীর রক্তে সিরাম ইউরেট স্বাভাবিক বা কম পাওয়া যেতে পারে।\nতাই স্বাভাবিক ইউরিক অ্যাসিড লেভেল দিয়ে কখনই গাউট বাতিল করা যায় না, আক্রমণ প্রশমিত হওয়ার কয়েক সপ্তাহ পর পুনরায় টেস্ট করতে হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "First-choice drug for treating acute gout attack",
+    "answer": "Colchicine",
+    "explanation_bn": "তীব্র গাউট আক্রমণের প্রাথমিক তীব্র ব্যথা ও প্রদাহ দ্রুত কমানোর প্রথম পছন্দের ওষুধ হলো ওরাল কোলচিসিন।\nএটি মাইক্রোটিউবিউল গঠন বাধা দিয়ে প্রদাহজনক স্থানে নিউট্রোফিলের আগমন ও ক্রিস্টাল গ্রহণ বন্ধ করে।\nআক্রমণ শুরুর প্রথম ২৪ ঘণ্টার মধ্যে শুরু করলে এটি সবচেয়ে দ্রুত ও কার্যকর ফলাফল দেয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Alternative medical options for acute gout attack",
+    "answer": "NSAIDs and Systemic or Intra-articular Corticosteroids",
+    "explanation_bn": "যাদের কোলচিসিন সহ্য হয় না বা কিডনির সমস্যা রয়েছে, তাদের ক্ষেত্রে দ্রুত কার্যক্ষম এনএসএআইডি (যেমন ন্যাপ্রোক্সেন বা ইনডোমেথাসিন) ব্যবহৃত হয়।\nহৃদরোগ, গ্যাস্ট্রিক আলসার বা কিডনি বৈকল্যে এনএসএআইডি প্রতিনির্দেশিত হলে ওরাল প্রেডনিসোলোন বা সরাসরি জয়েন্টে স্টেরয়েড ইনজেকশন নিরাপদ বিকল্প।\nতীব্র আক্রমণ চলাকালীন কখনই নতুন করে ইউরেট কমানোর ওষুধ শুরু বা বন্ধ করা উচিত নয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "First-line urate-lowering therapy (ULT) for long-term gout management",
+    "answer": "Allopurinol",
+    "explanation_bn": "গাউটের দীর্ঘমেয়াদী প্রতিরোধমূলক চিকিৎসার প্রথম সারির ওষুধ হলো অ্যালোপিউরিনল।\nএটি জ্যান্থিন অক্সিডেজ এনজাইমকে বাধা দিয়ে শরীরে পিউরিন থেকে ইউরিক অ্যাসিড উৎপাদন কমিয়ে দেয়।\nসাধারণত কম ডোজে শুরু করে রক্তে ইউরিক অ্যাসিডের লক্ষ্যমাত্রায় পৌঁছানো পর্যন্ত টাইট্রেট করে বাড়ানো হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Alternative to Allopurinol for urate lowering, especially in chronic kidney disease (CKD)",
+    "answer": "Febuxostat",
+    "explanation_bn": "ফেবুক্সোস্ট্যাট হলো একটি শক্তিশালী নন-পিউরিন সিলেক্টিভ জ্যান্থিন অক্সিডেজ ইনহিবিটর।\nএটি প্রধানত লিভার দ্বারা বিপাকীয় প্রক্রিয়ায় ভেঙে যায়, তাই কিডনি রোগী বা ক্রনিক কিডনি ডিজিজে (CKD) অ্যালোপিউরিনলের নিরাপদ বিকল্প।\nএছাড়াও যাদের অ্যালোপিউরিনলে অ্যালার্জি বা পার্শ্বপ্রতিক্রিয়া দেখা দেয় তাদের ক্ষেত্রে এটি অত্যন্ত কার্যকর।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Treatment for severe hyperuricemia in tumour lysis syndrome",
+    "answer": "Rasburicase",
+    "explanation_bn": "ক্যান্সারের কেমোথেরাপির পর টিউমার লাইসিস সিন্ড্রোমে কোষ দ্রুত ধ্বংস হয়ে রক্তে ইউরিক অ্যাসিডের মাত্রা মারাত্মক বেড়ে কিডনি বিকল হতে পারে।\nরাসবুরিকেস হলো একটি রিকম্বিন্যান্ট ইউরেট অক্সিডেজ এনজাইম যা সরাসরি ইউরিক অ্যাসিডকে পানিতে দ্রবণীয় অ্যালানটয়েনে রূপান্তরিত করে।\nএটি রক্তে ইউরিক অ্যাসিডের মাত্রা মাত্র কয়েক ঘণ্টার মধ্যেই নাটকীয়ভাবে স্বাভাবিকের নিচে নামিয়ে আনে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Treatment for refractory chronic tophaceous gout",
+    "answer": "Pegloticase",
+    "explanation_bn": "পেগ্লোটিকেস হলো একটি রিকম্বিন্যান্ট ইউরিকেস এনজাইম, যা শিরায় ইনফিউশনের মাধ্যমে প্রয়োগ করা হয়।\nযেসব দীর্ঘস্থায়ী টফাসযুক্ত গাউট রোগীর ক্ষেত্রে প্রচলিত ওষুধে কোনো কাজ হয় না, তাদের জন্য এটি সংরক্ষিত।\nএটি শরীরে জমে থাকা বহু বছরের শক্ত টফি খুব দ্রুত গলিয়ে দূর করতে সক্ষম।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Most common form of arthritis and its defining pathology",
+    "answer": "Osteoarthritis (OA); defining pathology is degeneration of articular cartilage",
+    "explanation_bn": "অস্টিওআর্থ্রাইটিস হলো মানবদেহের সবচেয়ে সাধারণ ও বহুল পরিলক্ষিত বাতব্যাধি।\nএর মূল প্যাথলজি হলো অস্থিসন্ধির সুরক্ষাকারী আর্টিকুলার তরুণাস্থি বা কার্টিলেজের অবক্ষয় ও ক্ষয়সাধন।\nকার্টিলেজ ক্ষয়ে যাওয়ার সাথে সাথে সংলগ্ন হাড়ে সাবকনড্রাল স্ক্লেরোসিস ও নতুন হাড়ের স্পার (অস্টিওফাইট) তৈরি হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Main clinical symptoms and pattern in Knee Osteoarthritis",
+    "answer": "Joint pain and functional restriction; Knee OA is mostly bilateral and symmetrical",
+    "explanation_bn": "অস্টিওআর্থ্রাইটিসের প্রধান লক্ষণ হলো চলাফেরায় জয়েন্টে ব্যথা বৃদ্ধি পাওয়া এবং অস্থিসন্ধির নাড়াচাড়া সীমিত হয়ে যাওয়া।\nহাঁটুর অস্টিওআর্থ্রাইটিসে অধিকাংশ রোগীর ক্ষেত্রেই উভয় হাঁটু প্রতিসমভাবে আক্রান্ত হয়।\nবিশ্রাম নিলে সাধারণত ব্যথা উপশম হয় এবং হাঁটাচলা বা সিঁড়ি দিয়ে ওঠানামায় ব্যথা মারাত্মক বাড়ে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Significance of posterior knee pain in knee osteoarthritis",
+    "answer": "Suggests a popliteal cyst (Baker cyst)",
+    "explanation_bn": "হাঁটুর অস্টিওআর্থ্রাইটিসে হাঁটুর পেছনের অংশে (পপলিটিয়াল স্পেস) টান বা ব্যথা সাধারণত বেকার সিস্টের উপস্থিতি নির্দেশ করে।\nজয়েন্টে দীর্ঘস্থায়ী অবক্ষয়ের কারণে অতিরিক্ত সাইনোভিয়াল তরল পেছনে জমে এই সিস্ট তৈরি করে।\nকখনো কখনো এই সিস্ট ফেটে গিয়ে কাফ মাসলে তরল ছড়িয়ে গভীর শিরার রক্ত জমাটের (DVT) মতো বিভ্রান্তিকর লক্ষণ তৈরি করতে পারে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Differences between Osteoarthritis (OA) and Rheumatoid Arthritis (RA)",
+    "answer": "OA has morning stiffness <30 mins, non-inflammatory nature, and normal ESR/CRP; RA has morning stiffness >60 mins, inflammatory nature, and raised ESR/CRP",
+    "explanation_bn": "অস্টিওআর্থ্রাইটিস একটি নন-ইনফ্ল্যামেটরি ক্ষয়জনিত রোগ, যাতে মর্নিং স্টিফনেস ৩০ মিনিটের কম থাকে এবং রক্তে ESR/CRP স্বাভাবিক থাকে।\nবিপরীতে রিউমাটয়েড আর্থ্রাইটিস প্রদাহজনিত অটোইমিউন রোগ, যাতে মর্নিং স্টিফনেস ১ ঘণ্টার বেশি থাকে এবং ESR/CRP বৃদ্ধি পায়।\nএছাড়াও OA-তে হেবারডেন বা বুশার্ড নোড দেখা যায়, যেখানে RA-তে প্রদাহজনিত জয়েন্ট বিকৃতি তৈরি হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Distinction between Heberden nodes and Bouchard nodes in Osteoarthritis",
+    "answer": "Heberden nodes occur at DIP joints; Bouchard nodes occur at PIP joints",
+    "explanation_bn": "অস্টিওআর্থ্রাইটিসে আঙুলের হাড়ের প্রান্তে শক্ত নোডিউল বা অস্টিওফাইট গঠিত হয়।\nআঙুলের একদম শেষ প্রান্তের ডিস্টাল ইন্টারফ্যালাঞ্জিয়াল (DIP) জয়েন্টে সৃষ্ট নোডগুলোকে হেবারডেন নোডস বলা হয়।\nমাঝের প্রক্সিমাল ইন্টারফ্যালাঞ্জিয়াল (PIP) জয়েন্টে সৃষ্ট নোডগুলোকে বুশার্ড নোডস বলা হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Nature, demographic profile, and sex ratio of Systemic Lupus Erythematosus (SLE)",
+    "answer": "Multisystem autoimmune disease; most common in young females with a female-to-male ratio of 9:1",
+    "explanation_bn": "সিস্টেমিক লুপাস এরিথেমাটোসাস (SLE) হলো একটি জটিল ক্রনিক অটোইমিউন রোগ যা শরীরের একাধিক অঙ্গকে আক্রমণ করে।\nএটি প্রজননক্ষম বয়সের তরুণীদের মধ্যে সবচেয়ে বেশি দেখা যায় এবং নারী ও পুরুষের অনুপাত প্রায় ৯:১।\nইস্ট্রোজেন হরমোন এবং এক্স-ক্রোমোজোমের জেনেটিক ফ্যাক্টর নারীদের উচ্চ ঝুঁকির প্রধান কারণ।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Basic pathology and hypersensitivity type of SLE",
+    "answer": "Autoantibody formation and immune-complex deposition; Type III Hypersensitivity",
+    "explanation_bn": "SLE-এর মূল কারণ হলো নিউক্লিয়ার অ্যান্টিজেনের বিরুদ্ধে ব্যাপক মাত্রায় অটোঅ্যান্টিবডি তৈরি হওয়া।\nএই অ্যান্টিবডি ও অ্যান্টিজেন মিলে রক্তে সঞ্চালনশীল ইমিউন কমপ্লেক্স গঠন করে বিভিন্ন অঙ্গের (যেমন কিডনি, ত্বক, রক্তনালি) রক্তজালকে জমা হয়।\nকমপ্লিমেন্ট সক্রিয় হয়ে টিস্যু ধ্বংস করায় এটি ক্লাসিক টাইপ ৩ হাইপারসেনসিটিভিটির উৎকৃষ্ট উদাহরণ।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Most sensitive vs most specific diagnostic antibodies for SLE",
+    "answer": "Most sensitive: ANA (>95%); Most specific: anti-dsDNA and anti-Sm (Smith antibody)",
+    "explanation_bn": "লুপাস স্ক্রিনিংয়ের সবচেয়ে সংবেদনশীল পরীক্ষা হলো অ্যান্টি-নিউক্লিয়ার অ্যান্টিবডি (ANA), যা ৯৫-৯৯% ক্ষেত্রে পজিটিভ থাকে।\nতবে এটি অন্যান্য অটোইমিউন রোগেও পজিটিভ হতে পারে, তাই নিশ্চিতকরণের জন্য অ্যান্টি-dsDNA এবং অ্যান্টি-Sm পরীক্ষা করা হয়।\nঅ্যান্টি-dsDNA এবং অ্যান্টি-Sm হলো SLE-এর জন্য অত্যন্ত নির্দিষ্ট (হাইডলি স্পেসিফিক) মার্কার।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Nature of arthritis and Jaccoud arthropathy in SLE",
+    "answer": "Arthritis in SLE is non-erosive; deforming non-erosive arthropathy is called Jaccoud arthropathy",
+    "explanation_bn": "রিউমাটয়েড আর্থ্রাইটিসের মতো SLE-এর আর্থ্রাইটিস হাড় ক্ষয় (bone erosion) করে না, এটি নন-ইরোসিভ প্রকৃতির।\nলুপাসে লিগামেন্ট ও ক্যাপসুলের শিথিলতার কারণে হাতে বুটোনিয়ার বা সোয়ান-নেকের মতো বিকৃতি দেখা দিতে পারে, যাকে জ্যাকৌড আর্থ্রোপ্যাথি বলে।\nএক্স-রেতে কোনো জয়েন্ট ধ্বংস বা কার্টিলেজ ক্ষয় থাকে না এবং হাত সোজা করলে এই বিকৃতি সাময়িকভাবে ঠিক করা যায়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Most important and prognostically significant renal complication in SLE",
+    "answer": "Lupus nephritis",
+    "explanation_bn": "লুপাসের রোগীদের অসুস্থতা ও দীর্ঘমেয়াদী জটিলতার সবচেয়ে প্রধান অঙ্গভিত্তিক কারণ হলো কিডনির প্রদাহ বা লুপাস নেফ্রাইটিস।\nকিডনির গ্লোমেরুলাসে ইমিউন কমপ্লেক্স জমে প্রোটিনুরিয়া, হেমাটুরিয়া, উচ্চ রক্তচাপ ও রেনাল ফেইলিউর ঘটাতে পারে।\nচিকিৎসার সঠিক পরিকল্পনা ও তীব্রতা নির্ধারণের জন্য কিডনি বায়োপসি করা অত্যন্ত জরুরি।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Most common cardiac manifestation in SLE",
+    "answer": "Pericarditis",
+    "explanation_bn": "লুপাসে হৃদযন্ত্রের সবচেয়ে সাধারণ বহিঃপ্রকাশ হলো পেরিকার্ডাইটিস বা হৃদঝিল্লির প্রদাহ।\nএর ফলে রোগী তীব্র শ্বাসকষ্ট ও বুকে তীক্ষ্ণ ব্যথা অনুভব করে, যা সামনের দিকে ঝুঁকে বসলে কিছুটা উপশম হয়।\nএছাড়াও লিViewSet-স্যাক্স এন্ডোকার্ডাইটিস (Libman-Sacks endocarditis) নামক ইনফেকশনবিহীন ভেজিটেশন তৈরি হতে পারে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Autoantibody responsible for Neonatal Lupus and Congenital Heart Block",
+    "answer": "Anti-Ro / SSA antibody",
+    "explanation_bn": "গর্ভবতী মায়ের রক্তে অ্যান্টি-রো/এসএসএ (Anti-Ro/SSA) অ্যান্টিবডি থাকলে তা গর্ভফুলের (প্ল্যাসেন্টা) মাধ্যমে ভ্রূণের রক্তে প্রবেশ করে।\nএটি গর্ভস্থ শিশুর হৃৎপিণ্ডের কন্ডাকশন সিস্টেম (AV node) ক্ষতিগ্রস্ত করে স্থায়ী কনজেনাইটাল হার্ট ব্লক তৈরি করতে পারে।\nপাশাপাশি নবজাতকের ত্বকে ফটোসেনসিটিভ র্যাশ দেখা দেয়, যা সাধারণত কয়েক মাস পর মিলিয়ে যায়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Characteristic autoantibody found in Drug-Induced Lupus (DIL)",
+    "answer": "Anti-histone antibody (>95% cases)",
+    "explanation_bn": "কিছু নির্দিষ্ট ওষুধ (যেমন প্রোকেনামাইড, হাইড্রালাজিন, আইসোনিয়াজিড) দীর্ঘমেয়াদে ব্যবহারের ফলে ড্রাগ-ইনডিউসড লুপাস হতে পারে।\nএসব রোগীর রক্তে শতকরা ৯৫ ভাগের বেশি ক্ষেত্রে অ্যান্টি-হিস্টোন অ্যান্টিবডি পজিটিভ পাওয়া যায়।\nসন্দেহভাজন ওষুধ বন্ধ করে দিলে সাধারণত রোগের লক্ষণ ও অ্যান্টিবডি ধীরে ধীরে স্বাভাবিক হয়ে আসে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Cornerstone baseline drug for all SLE patients and its monitoring",
+    "answer": "Hydroxychloroquine (HCQ); toxicity is retinopathy (maculopathy), monitored by annual visual acuity / retinal exam",
+    "explanation_bn": "কনট্রাইন্ডিকেশন না থাকলে প্রতিটি লুপাস রোগীর আজীবন চিকিৎসার ভিত্তিপ্রস্তর হলো হাইড্রোক্সিক্লোরোকুইন (HCQ)।\nএটি ফ্লেয়ার কমায়, আয়ু বৃদ্ধি করে এবং রক্ত জমাট বাঁধার ঝুঁকি হ্রাস করে।\nতবে দীর্ঘমেয়াদী ব্যবহারে চোখের রেটিনায় বিষাক্ততা (ম্যাকুলোপ্যাথি) হওয়ার ঝুঁকি থাকায় নিয়মিত দৃষ্টিশক্তি পরীক্ষা করতে হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Induction therapy for severe proliferative lupus nephritis",
+    "answer": "Mycophenolate mofetil (MMF) or intravenous Cyclophosphamide (combined with high-dose corticosteroids)",
+    "explanation_bn": "তীব্র লুপাস নেফ্রাইটিসে (ক্লাস ৩ ও ৪) দ্রুত কিডনি রক্ষা করার জন্য উচ্চ মাত্রার স্টেরয়েডের সাথে শক্তিশালী ইমিউনোসাপ্রেসিভ ওষুধ নির্দেশিত।\nএর মধ্যে প্রথম সারির পছন্দের ওষুধ হলো ওরাল মাইকোফেনোলেট মোফেটিল (MMF) অথবা শিরায় সাইক্লোফসফামাইড ইনফিউশন।\nরোগ নিয়ন্ত্রণে আসার পর দীর্ঘমেয়াদী মেইনটেন্যান্স থেরাপিতে রূপান্তর করা হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Safe vs Avoided drugs in pregnant SLE patients",
+    "answer": "Safe: Hydroxychloroquine, Azathioprine, Low-dose Steroids; Avoided: Methotrexate, Mycophenolate mofetil, Cyclophosphamide, Leflunomide",
+    "explanation_bn": "গর্ভবতী লুপাস রোগীদের ক্ষেত্রে হাইড্রোক্সিক্লোরোকুইন চালিয়ে যাওয়া নিরাপদ এবং আবশ্যক, কারণ এটি গর্ভকালীন ফ্লেয়ার প্রতিরোধ করে।\nইমিউনোসাপ্রেসিভ হিসেবে অ্যাজাথায়োপ্রিন এবং স্বল্প মাত্রায় প্রেডনিসোলোন নিরাপদ হিসেবে নির্দেশিত।\nঅপরদিকে টেরাটোজেনিক মেথোট্রেক্সেট, এমএমএফ এবং সাইক্লোফসফামাইড গর্ভাবস্থায় সম্পূর্ণ নিষিদ্ধ।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Definition and cardinal features of Seronegative Spondyloarthritis",
+    "answer": "RF/anti-CCP negative arthritis associated with HLA-B27, male predominance, asymmetric lower limb oligoarthritis, enthesitis, and anterior uveitis",
+    "explanation_bn": "সেরোনেগেটিভ আর্থ্রাইটিস হলো এমন কিছু বাতের সমষ্টি যেখানে রক্তে রিউমাটয়েড ফ্যাক্টর ও অ্যান্টি-সিসিপি নেগেটিভ থাকে।\nএদের মূল প্যাথলজি সাইনোভিয়াম নয় বরং এনথেসাইটিস (হাড়ে টেন্ডন সংযোগস্থলের প্রদাহ)।\nশরীরের নিচের অঙ্গের জয়েন্টে অসম বাত, মেরুদণ্ডে ব্যথা এবং চোখের ইউভাইটিসের সাথে এটি ঘনিষ্ঠভাবে যুক্ত।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Classic presentation and X-ray hallmark of Ankylosing Spondylitis (AS)",
+    "answer": "Young male presenting with inflammatory back pain; X-ray hallmark is sacroiliitis, leading to bamboo spine in late stages",
+    "explanation_bn": "অ্যাঙ্কাইলোজিং স্পন্ডিলাইটিস সাধারণত ২০-৩০ বছর বয়সী তরুণদের সকালে ঘুম থেকে ওঠার পর পিঠের ব্যথার মাধ্যমে শুরু হয়।\nপেলভিসের এক্স-রেতে প্রাথমিক ও সবচেয়ে বৈশিষ্ট্যপূর্ণ ক্ষত হিসেবে স্যাক্রোইলিয়াক জয়েন্টের প্রদাহ (স্যাক্রোইলাইটিস) দেখা যায়।\nদেরিতে রোগ নির্ণয় হলে কশেরুকার সংযোগে হাড় বৃদ্ধি পেয়ে মেরুদণ্ড বাঁশের মতো শক্ত (ব্যাম্বু স্পাইন) হয়ে যায়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "First-line and refractory management of Ankylosing Spondylitis",
+    "answer": "First-line: Continuous NSAIDs + structured exercise (swimming/cycling); Refractory: anti-TNF or IL-17 inhibitors",
+    "explanation_bn": "অ্যাঙ্কাইলোজিং স্পন্ডিলাইটিসের প্রথম সারির ওষুধ হলো সর্বোচ্চ কার্যকর ডোজে এনএসএআইডি এবং নিয়মিত ফিজিক্যাল এক্সারসাইজ (সাঁতার ও সাইক্লিং)।\nব্যায়াম মেরুদণ্ডের নমনীয়তা ও স্বাভাবিক ভঙ্গি রক্ষা করতে সাহায্য করে।\nএনএসএআইডি-তে রোগ নিয়ন্ত্রণে ব্যর্থ হলে বায়োলজিক্যাল anti-TNF বা IL-17 ইনহিবিটর প্রয়োগ করতে হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Hallmark clinical features of major rheumatological diseases",
+    "answer": "Systemic Sclerosis: Skin thickening + Raynaud; Sjögren: Dry eyes + dry mouth; Polymyositis: Proximal muscle weakness; Dermatomyositis: Heliotrope rash + Gottron papules; Giant Cell Arteritis: Headache + jaw claudication; Polymyalgia Rheumatica: Shoulder/hip girdle stiffness; Behçet's: Oral + genital ulcers + uveitis",
+    "explanation_bn": "বাতব্যাধিগুলোর সুনির্দিষ্ট ক্লিনিক্যাল বৈশিষ্ট্যের মধ্যে সিস্টেমেিক স্ক্লেরোসিসে চামড়া শক্ত হওয়া ও রেনডস ফেনোমেনন অন্যতম।\nশোগ্রেন সিন্ড্রোমে চোখ ও মুখের শুষ্কতা, পলিমায়োসাইটিসে কাঁধ ও ঊরুর পেশির দুর্বলতা এবং ডার্মাটোমায়োসাইটিসে চোখের পাতায় বেগুনি র্যাশ দেখা যায়।\nজায়ান্ট সেল আর্টারাইটিসে চিবানোর সময় চোয়ালে ব্যথা ও মাথাব্যথা এবং বেহসেট রোগে মুখের ও যৌনাঙ্গের পুনরাবৃত্তিমূলক ক্ষত থাকে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Diagnostic autoantibodies for Sjögren syndrome",
+    "answer": "Anti-Ro (SSA) and Anti-La (SSB)",
+    "explanation_bn": "শোগ্রেন সিন্ড্রোম শনাক্তকরণের প্রধান সেরোলজিক্যাল মার্কার হলো অ্যান্টি-রো (SSA) এবং অ্যান্টি-লা (SSB) অ্যান্টিবডি।\nএসব অটোঅ্যান্টিবডি লালাগ্রন্থি ও অশ্রুগ্রন্থির লিম্ফোসাইটিক অনুপ্রবেশ ও ধ্বংসের সাথে সংশ্লিষ্ট।\nঅ্যান্টি-লা অ্যান্টিবডি থাকলে সিস্টেমিক জটিলতা ও সেকেন্ডারি ভাস্কুলাইটিসের ঝুঁকি বৃদ্ধি পায়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Diagnostic hallmark autoantibody for Mixed Connective Tissue Disease (MCTD)",
+    "answer": "Anti-U1 RNP (high titre)",
+    "explanation_bn": "মিক্সড কানেক্টিভ টিস্যু ডিজিজ (MCTD) নিশ্চিত করার একমাত্র বাধ্যতামূলক প্যাথোগনমোনিক মার্কার হলো উচ্চ মাত্রার অ্যান্টি-ইউ১ আরএনপি (Anti-U1 RNP)।\nএতে লুপাস, সিস্টেমিক স্ক্লেরোসিস ও পলিমায়োসাইটিসের বৈশিষ্ট্যের সংমিশ্রণ দেখা যায়।\nউচ্চ মাত্রার anti-U1 RNP উপস্থিত থাকলে তা পালমোনারি আর্টারিয়াল হাইপারটেনশনের ঝুঁকির পূর্বাভাস দেয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Specific autoantibodies distinguishing Limited vs Diffuse Systemic Sclerosis",
+    "answer": "Limited systemic sclerosis: Anti-centromere antibody; Diffuse systemic sclerosis: Anti-topoisomerase I (Anti-Scl-70)",
+    "explanation_bn": "লিমিটেড কিউটেনিয়াস সিস্টেমিক স্ক্লেরোসিসে (CREST সিন্ড্রোম) অ্যান্টি-সেন্ট্রোমিয়ার অ্যান্টিবডি প্রধানত পজিটিভ থাকে (৬০-৮০%)।\nবিপরীতে ডিফিউজ সিস্টেমিক স্ক্লেরোসিসে অ্যান্টি-টপোআইসোমারেজ ১ (Anti-Scl-70) অ্যান্টিবডি পাওয়া যায়।\nঅ্যান্টি-Scl-70 পজিটিভিটি ফুসফুসের মারাত্মক ফাইব্রোসিস (ILD) ও দ্রুত অগ্রগামী ত্বকের ক্ষতির সাথে জড়িত।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Specific autoantibodies for Polymyositis and Dermatomyositis",
+    "answer": "Polymyositis / Antisynthetase syndrome: Anti-Jo-1; Dermatomyositis: Anti-Mi-2",
+    "explanation_bn": "পলিমায়োসাইটিস ও অ্যান্টিসিন্থেটেজ সিন্ড্রোমের প্রধান মার্কার হলো অ্যান্টি-জো-১ (Anti-Jo-1), যা ফুসফুসের প্রদাহ ও মেকানিকস হ্যান্ডসের সাথে যুক্ত।\nঅন্যদিকে ডার্মাটোমায়োসাইটিসের জন্য অত্যন্ত সুনির্দিষ্ট অ্যান্টিবডি হলো অ্যান্টি-এমআই-২ (Anti-Mi-2)।\nঅ্যান্টি-Mi-2 পজিটিভ রোগীদের সাধারণত ক্ল্যাসিক ত্বকের র্যাশ থাকে এবং তারা স্টেরয়েড চিকিৎসায় খুব ভালো সাড়া দেয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Diagnostic laboratory criteria antibodies for Antiphospholipid Syndrome (APS)",
+    "answer": "Lupus anticoagulant, Anticardiolipin antibody, and Anti-β2 glycoprotein I (anti-β2 GPI)",
+    "explanation_bn": "অ্যান্টিফসফোলিপিড সিন্ড্রোম (APS) নিশ্চিত করতে এই তিনটি অ্যান্টিবডির যেকোনো একটির ১২ সপ্তাহের ব্যবধানে দুবার উপস্থিতি আবশ্যক।\nলুপাস অ্যান্টিকোয়াগুল্যান্ট পরীক্ষায় সবচেয়ে শক্তিশালী থ্রম্বোটিক ঝুঁকির ইঙ্গিত দেয়।\nএসব অ্যান্টিবডির উপস্থিতির ফলে অস্বাভাবিক রক্ত জমাট বাঁধা (আর্টারিয়াল ও ভেনাস থ্রম্বোসিস) এবং বারবার গর্ভপাত ঘটে থাকে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "ANCA patterns in small-vessel vasculitides (GPA, MPA, EGPA)",
+    "answer": "GPA: c-ANCA / PR3; MPA: p-ANCA / MPO; EGPA: p-ANCA / MPO",
+    "explanation_bn": "গ্র্যানুলোমেটোসিস উইথ পলিঅ্যাঞ্জাইটিসে (GPA) সাইটোপ্লাজমিক c-ANCA (anti-PR3) সুনির্দিষ্টভাবে পজিটিভ পাওয়া যায়।\nমাইক্রোস্কোপিক পলিঅ্যাঞ্জাইটিস (MPA) এবং ইওসিনোফিলিক গ্র্যানুলোমেটোসিস উইথ পলিঅ্যাঞ্জাইটিসে (EGPA) পেরিনিউক্লিয়ার p-ANCA (anti-MPO) প্রধান।\nএই অ্যান্টিবডিগুলো ছোট রক্তনালির নেক্রোটাইজিং ভাস্কুলাইটিসের তীব্রতা নির্দেশ করে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Characteristic antibody in Goodpasture disease (anti-GBM disease)",
+    "answer": "Anti-GBM (anti-glomerular basement membrane) antibody",
+    "explanation_bn": "গুডপ্যাশ্চার ডিজিজে টাইপ ৪ কোলাজেনের আলফা-৩ চেইনের বিরুদ্ধে অ্যান্টি-জিবিএম অটোঅ্যান্টিবডি তৈরি হয়।\nএটি কিডনির গ্লোমেরুলার এবং ফুসফুসের অ্যালভিওলার বেসমেন্ট মেমব্রেনকে সরাসরি ধ্বংস করে।\nফলে দ্রুত অগ্রগামী গ্লোমেরুলোনেফ্রাইটিস (RPGN) এবং ফুসফুসে মারাত্মক রক্তক্ষরণ (পালমোনারি হেমোরেজ) ঘটে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Routine baseline and ongoing monitoring tests required for all DMARDs",
+    "answer": "Complete Blood Count (CBC), Liver Function Tests (LFT), and eGFR / Serum Creatinine",
+    "explanation_bn": "সকল প্রকার ডিমার্ড (DMARDs) ব্যবহারের সময় নিয়মিত রক্তকণিকা (CBC), লিভার এনজাইম (ALT/AST) এবং কিডনির কার্যকারিতা (ক্রিয়েটিনিন) পর্যবেক্ষণ করা বাধ্যতামূলক।\nকারণ এসব ওষুধ অস্থিমজ্জা দমন করে রক্তশূন্যতা ও সংক্রমণ বাড়াতে পারে এবং লিভার বা কিডনির বিষাক্ততা তৈরি করতে পারে।\nচিকিৎসা শুরুর প্রথম কয়েক মাস প্রতি ২-৪ সপ্তাহে এবং স্থিতিশীল অবস্থায় প্রতি ২-৩ মাস পর এই টেস্টগুলো করাতে হয়।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Specific monitoring required for Hydroxychloroquine, Leflunomide, and Cyclosporine A",
+    "answer": "Hydroxychloroquine: Visual function / retinal examination; Leflunomide and Cyclosporine A: Blood pressure monitoring",
+    "explanation_bn": "হাইড্রোক্সিক্লোরোকুইন চোখের রেটিনায় জমে ম্যাকুলার ক্ষতি করতে পারে, তাই ব্যবহারের আগে এবং ৫ বছর পর থেকে নিয়মিত রেটিনা পরীক্ষা জরুরি।\nলেফ্লুনোমাইড এবং সাইক্লোস্পোরিন এ ভাস্কুলার রেজিস্ট্যান্স বৃদ্ধি করে রক্তচাপ বাড়িয়ে দিতে পারে।\nতাই এই দুটি ওষুধ গ্রহণের সময় প্রতি ভিজিটে নিয়মিত রক্তচাপ মাপা আবশ্যক।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Mnemonic for radiographic (X-ray) features of Osteoarthritis",
+    "answer": "LOSS: L = Loss of joint space (asymmetrical), O = Osteophytes, S = Subchondral sclerosis, S = Subchondral cysts",
+    "explanation_bn": "অস্টিওআর্থ্রাইটিসের ক্লাসিক এক্স-রে বৈশিষ্ট্যগুলো মনে রাখার সহজ সংক্ষেপ হলো LOSS।\nL দিয়ে অসম জয়েন্ট স্পেস কমে যাওয়া, O দিয়ে জয়েন্টের প্রান্তে নতুন হাড় বৃদ্ধি বা অস্টিওফাইট বোঝায়।\nপ্রথম S দিয়ে অতিরিক্ত চাপের কারণে কার্টিলেজের নিচের হাড় ঘন হওয়া (স্ক্লেরোসিস) এবং দ্বিতীয় S দিয়ে সাবকনড্রাল সিস্টকে নির্দেশ করে।"
+  },
+  {
+    "topic": "Rheumatology",
+    "question": "Gold standard investigation for cervical spondylosis with radiculopathy or myelopathy",
+    "answer": "MRI of cervical spine",
+    "explanation_bn": "সারভাইকাল স্পন্ডাইলোসিসের কারণে স্নায়ুমূল (রেডিকুলোপ্যাথি) বা সুষুম্নাকাণ্ড (মায়েলোপ্যাথি) সংকুচিত হলে এমআরআই (MRI) হলো গোল্ড স্ট্যান্ডার্ড পরীক্ষা।\nএমআরআই ইন্টারভার্টিব্রাল ডিস্ক প্রোল্যাপ্স, অস্টিওফাইটের চাপ এবং স্পাইনাল কর্ডের ক্ষতি সুস্পষ্টভাবে প্রদর্শন করে।\nসাধারণ এক্স-রে কেবল হাড়ের পরিবর্তন দেখালেও নরম স্নায়ু টিস্যু দেখতে এমআরআই অপরিহার্য।"
+  }
+]

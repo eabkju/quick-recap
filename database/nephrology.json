@@ -1,0 +1,188 @@
+[
+  {
+    "topic": "Nephrology",
+    "question": "Hallmark urine cast in nephritic syndrome",
+    "answer": "RBC cast",
+    "explanation_bn": "নেফ্রাইটিক সিন্ড্রোমে গ্লোমেরুলার ক্যাপিলারি প্রাচীরে তীব্র প্রদাহের কারণে লোহিত রক্তকণিকা (RBC) ফিল্টার হয়ে রেনাল টিউবিউলে প্রবেশ করে।\nটিউবিউলের ভেতরে ট্যাম-হর্সফল মিউকাস প্রোটিনের সাথে আটকে গিয়ে এগুলো বৈশিষ্ট্যপূর্ণ RBC কাস্ট তৈরি করে।\nপ্রস্রাবে RBC কাস্টের উপস্থিতি গ্লোমেরুলার প্রদাহের (গ্লোমেরুলোনেফ্রাইটিস) চূড়ান্ত প্রমাণ।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Hallmark urine finding in nephrotic syndrome",
+    "answer": "Massive proteinuria (> 3.5 g/24 hours or urine protein:creatinine ratio > 300-350 mg/mmol)",
+    "explanation_bn": "নেফ্রোটিক সিন্ড্রোমের প্রধান প্যাথোফিজিওলজিক্যাল বৈশিষ্ট্য হলো গ্লোমেরুলার ফিল্ট্রেশন মেমব্রেনের ক্ষতিজনিত ব্যাপক প্রোটিন নির্গমন।\nদৈনিক প্রস্রাবে প্রোটিনের পরিমাণ ৩.৫ গ্রামের বেশি নির্গত হলে তাকে ম্যাসিভ প্রোটিনুরিয়া বলা হয়।\nএর ফলস্বরূপ রক্তে অ্যালবুমিন কমে যায় (হাইপোঅ্যালবুমিনেমিয়া) এবং সারা শরীরে মারাত্মক ফোলা ভাব (ইডেমা) দেখা দেয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Most common cause of nephrotic syndrome in children vs adults",
+    "answer": "Children: Minimal change disease (MCD); Adults: Membranous nephropathy",
+    "explanation_bn": "শিশুদের ক্ষেত্রে নেফ্রোটিক সিন্ড্রোমের প্রায় ৮০-৯০% কারণ হলো মিনিমাল চেঞ্জ ডিজিজ (MCD), যা স্টেরয়েড চিকিৎসায় দ্রুত নিরাময় হয়।\nঅন্যদিকে প্রাপ্তবয়স্কদের ক্ষেত্রে নন-ডায়াবেটিক প্রাইমারি নেফ্রোটিক সিন্ড্রোমের সবচেয়ে সাধারণ কারণ হলো মেমব্রেনাস নেফ্রোপ্যাথি।\nপ্রাপ্তবয়স্কদের মেমব্রেনাস নেফ্রোপ্যাথি সাধারণত অ্যান্টি-পিএলএ২আর (anti-PLA2R) অ্যান্টিবডির সাথে জড়িত।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Major thrombotic complication of nephrotic syndrome and its cause",
+    "answer": "Hypercoagulability (venous thromboembolism, especially renal vein thrombosis)",
+    "explanation_bn": "নেফ্রোটিক সিন্ড্রোমে প্রস্রাবের সাথে প্রাকৃতিক জমাট-প্রতিরোধক প্রোটিন যেমন অ্যান্টিকনভালসেন্ট অ্যান্টিকোগুল্যান্ট অ্যান্টিথ্রম্বিন III বেরিয়ে যায়।\nএকই সাথে যকৃত ক্ষতিপূরণ হিসেবে অতিরিক্ত ফাইব্রিনোজেন ও অন্যান্য ক্লটিং ফ্যাক্টর তৈরি করে।\nফলস্বরূপ রক্ত দ্রুত জমাট বাঁধার ঝুঁকিতে পড়ে এবং রেনাল ভেইন থ্রম্বোসিস বা পালমোনারি এমবোলিজম দেখা দিতে পারে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Most common causative organism of urinary tract infections (UTI)",
+    "answer": "Escherichia coli (E. coli)",
+    "explanation_bn": "কমিউনিটিতে অর্জিত মূত্রনালির ইনফেকশনের (UTI) শতকরা ৭০ থেকে ৯০ ভাগ ঘটনার জন্যই দায়ী হলো এসচেরিকিয়া কোলাই (E. coli)।\nএই কোলনিক ব্যাকটেরিয়াগুলো মূত্রনালির মিউকোসায় তাদের বিশেষ পাইলির (P-fimbriae) মাধ্যমে শক্তভাবে আটকে থাকে।\nনারীদের মূত্রনালি ছোট হওয়ায় এটি সহজে মূত্রথলিতে আরোহণ করে সিস্টাইটিস তৈরি করে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Classic clinical triad of acute pyelonephritis",
+    "answer": "Loin pain (flank pain), fever (often with rigors), and renal angle tenderness",
+    "explanation_bn": "অ্যাকিউট পাইলোনেফ্রাইটিস হলো কিডনির প্যারেনকাইমা ও পেলভিসের তীব্র ব্যাকটেরিয়াল ইনফেকশন।\nএর তিনটি প্রধান ক্লাসিক লক্ষণ হলো কাঁপুনি দিয়ে উচ্চ তাপমাত্রার জ্বর, কোমরের এক বা উভয় পাশে তীব্র ব্যথা এবং রেনাল অ্যাঙ্গেলে চাপ দিলে অসহ্য ব্যথা অনুভূত হওয়া।\nপাশাপাশি বমি ভাব ও প্রস্রাবে তীব্র জ্বালাপোড়াও প্রায়ই বিদ্যমান থাকে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "First-line empirical antibiotics for uncomplicated cystitis in women",
+    "answer": "Trimethoprim or Nitrofurantoin",
+    "explanation_bn": "অজটিল লোয়ার ইউটিআই বা সিস্টাইটিসের চিকিৎসায় প্রথম সারির সবচেয়ে কার্যকর ওরাল অ্যান্টিবায়োটিক হলো নাইট্রোফিউরানটয়েন বা ট্রাইমিথোপ্রিম।\nনাইট্রোফিউরানটয়েন প্রস্রাবে উচ্চ ঘনমাত্রায় নিষ্কৃত হয়ে মূত্রথলির ব্যাকটেরিয়াকে দ্রুত ধ্বংস করে কিন্তু রক্তে শোষণ কম হওয়ায় পার্শ্বপ্রতিক্রিয়া কম থাকে।\nচিকিৎসার স্বাভাবিক কোর্স সাধারণত ৩ থেকে ৫ দিনের হয়ে থাকে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Most common cause of sterile pyuria (pus cells with negative standard culture)",
+    "answer": "Renal tuberculosis (Genitourinary TB)",
+    "explanation_bn": "প্রস্রাবে শ্বেত রক্তকণিকা (পুঁজের কোষ) উপস্থিত কিন্তু সাধারণ ব্যাকটেরিয়াল কালচারে কোনো জীবাণু না বাড়লে তাকে স্টেরাইল পাইউরিয়া বলে।\nউন্নয়নশীল বিশ্বে এর সবচেয়ে সাধারণ এবং গুরুত্বপূর্ণ কারণ হলো কিডনির যক্ষ্মা বা রেনাল টিউবারকিউলোসিস।\nএছাড়াও ক্ল্যামাইডিয়া সংক্রমণ, পাথর বা পূর্বে অ্যান্টিবায়োটিক সেবনের কারণেও এটি হতে পারে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Clinical indications where asymptomatic bacteriuria MUST be treated",
+    "answer": "Pregnant women and infants (also prior to invasive urological procedures)",
+    "explanation_bn": "সাধারণ প্রাপ্তবয়স্কদের ক্ষেত্রে লক্ষণহীন ব্যাকটেরিয়ার উপস্থিতি (অ্যাসিম্পটোমেটিক ব্যাকটেরিউরিয়া) থাকলে চিকিৎসার প্রয়োজন হয় না।\nতবে গর্ভবতী নারীদের ক্ষেত্রে এটি চিকিৎসা না করলে পাইলোনেফ্রাইটিস, অপরিণত প্রসব এবং কম ওজনের শিশুর চরম ঝুঁকি তৈরি হয়।\nতাই গর্ভবতীদের ক্ষেত্রে রুটিন স্ক্রিনিং করে অ্যান্টিবায়োটিক চিকিৎসা দেওয়া বাধ্যতামূলক।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Antibiotics contraindicated or avoided for UTI during pregnancy",
+    "answer": "Trimethoprim and Quinolones (Fluoroquinolones)",
+    "explanation_bn": "ট্রাইমিথোপ্রিম একটি ফলেট অ্যান্টাগনিস্ট হওয়ায় গর্ভাবস্থার প্রথম ট্রাইমেস্টারে নিউরাল টিউব ডিফেক্টের মারাত্মক ঝুঁকি তৈরি করে।\nকুইনোলোন জাতীয় ওষুধ (যেমন সিপ্রোফ্লক্সাসিন) ভ্রূণের তরুণাস্থি ও জয়েন্টের বিকাশ বাধাগ্রস্ত করে এবং আর্টিকুলার কার্টিলেজের ক্ষতি করে।\nতাই গর্ভকালীন ইউটিআই-তে এই ওষুধগুলো পরিহার করে নিরাপদ সেফালেক্সিন বা অ্যামোক্সিসিলিন ব্যবহার করা হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Gestational timing when Nitrofurantoin must be avoided",
+    "answer": "At term (36–42 weeks' gestation)",
+    "explanation_bn": "গর্ভাবস্থার শেষ সময় বা প্রসবের ঠিক আগে (৩৬ সপ্তাহের পর) নাইট্রোফিউরানটয়েন সম্পূর্ণ পরিহার করতে হয়।\nকারণ নবজাতকের অপরিণত লোহিত রক্তকণিকায় অপর্যাপ্ত এনজাইম সুরক্ষার কারণে এই ওষুধটি নবজাতকের মারাত্মক হিমোলাইটিক অ্যানিমিয়া ঘটাতে পারে।\nতবে প্রথম ও দ্বিতীয় ট্রাইমেস্টারে ইউটিআই-এর চিকিৎসায় এটি নিরাপদভাবে ব্যবহার করা যায়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "First-line antibiotics for acute pyelonephritis",
+    "answer": "Cefalexin (or Cefuroxime/Ceftriaxone) or Ciprofloxacin",
+    "explanation_bn": "পাইলোনেফ্রাইটিস কিডনির গভীর টিস্যুর সংক্রমণ হওয়ায় টিস্যুতে ভালো প্রবেশ করে এমন ব্রড-স্পেকট্রাম অ্যান্টিবায়োটিক প্রয়োজন।\nসিপ্রোফ্লক্সাসিনের মতো ফ্লুরোকুইনোলোন বা দ্বিতীয়/তৃতীয় প্রজন্মের সেফালোস্পোরিন (যেমন ওরাল সেফালেক্সিন বা ইনজেকশন সেফট্রায়াক্সন) প্রথম পছন্দ।\nনাইট্রোফিউরানটয়েন কিডনি টিস্যুতে কার্যকর ঘনত্বে পৌঁছায় না বলে পাইলোনেফ্রাইটিসে ব্যবহার করা যায় না।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Initial imaging investigation indicated for recurrent or complicated UTI",
+    "answer": "Renal tract ultrasound or CT scan",
+    "explanation_bn": "বারবার ইউটিআই বা জটিল ইনফেকশনের ক্ষেত্রে মূত্রনালির কোনো অ্যানাটমিক্যাল বাধা, পাথর বা অ্যাবসেস আছে কি না তা দেখার জন্য আল্ট্রাসনোগ্রাফি প্রথম পরীক্ষা।\nকিডনি ও মূত্রথলির আল্ট্রাসাউন্ড পাথর, হাইড্রোনেফ্রোসিস এবং অবশিষ্টাংশ প্রস্রাব (PVR) মূল্যায়ন করে।\nআরও জটিল বা সন্দেহজনক ক্ষেত্রে কন্ট্রাস্টবিহীন সিটি (Non-contrast CT KUB) সবচেয়ে নির্ভুল তথ্য দেয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Most effective conservative prophylactic measure for preventing recurrent UTI",
+    "answer": "Adequate fluid intake (≥ 2 Litres / day)",
+    "explanation_bn": "ঘন ঘন ইউটিআই প্রতিরোধ করার সবচেয়ে কার্যকর প্রাকৃতিক ও নিরাপদ ব্যবস্থা হলো পর্যাপ্ত পরিমাণে পানি পান করা (দৈনিক কমপক্ষে ২ লিটার)।\nবেশি পানি খেলে ঘন ঘন প্রস্রাবের মাধ্যমে মূত্রথলিতে ব্যাকটেরিয়ার ঘনত্ব কমে এবং মূত্রনালি থেকে জীবাণু স্বাভাবিকভাবে ধুয়ে বেরিয়ে যায়।\nএছাড়াও সহবাসের পরপরই মূত্রত্যাগ এবং ব্যক্তিগত স্বাস্থ্যবিধি বজায় রাখাও গুরুত্বপূর্ণ প্রতিরোধমূলক কৌশল।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Most common overall cause and most common glomerular cause of Chronic Kidney Disease (CKD)",
+    "answer": "Overall most common: Diabetes mellitus (Diabetic nephropathy); Glomerular cause: IgA nephropathy",
+    "explanation_bn": "বিশ্বজুড়ে ক্রনিক কিডনি ডিজিজ (CKD) এবং শেষ ধাপের কিডনি ফেইলিউরের প্রধানতম কারণ হলো ডায়াবেটিসজনিত কিডনি রোগ।\nঅন্যদিকে গ্লোমেরুলার রোগগুলোর মধ্যে সবচেয়ে সাধারণ কারণ হলো আইজিএ নেফ্রোপ্যাথি (IgA nephropathy)।\nএছাড়াও অনিয়ন্ত্রিত উচ্চ রক্তচাপ CKD-এর দ্বিতীয় প্রধানতম কারণ হিসেবে বিবেচিত হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Earliest major cause of anaemia in CKD",
+    "answer": "Erythropoietin (EPO) deficiency",
+    "explanation_bn": "কিডনি ক্ষতিগ্রস্ত হওয়ার সাথে সাথে পেরিটিউবুলার ইন্টারস্টিশিয়াল ফাইব্রোব্লাস্ট থেকে এরিথ্রোপোয়েটিন হরমোন উৎপাদন হ্রাস পায়।\nএরিথ্রোপোয়েটিনের অভাবে অস্থিমজ্জায় লোহিত রক্তকণিকা তৈরি কমে গিয়ে নর্মোসাইটিক নর্মোক্রোমিক অ্যানিমিয়া সৃষ্টি হয়।\nসাধারণত CKD স্টেজ ৩ থেকে এই রক্তস্বল্পতা সুস্পষ্টভাবে শুরু হয় এবং এক্সোজেনাস ইরিথ্রোপোয়েটিন ইনজেকশন দিয়ে এর চিকিৎসা করতে হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Definition and eGFR threshold of Stage 5 CKD (End-Stage Renal Disease)",
+    "answer": "eGFR < 15 mL/min/1.73 m² or patient receiving chronic dialysis",
+    "explanation_bn": "যখন কোনো কিডনি রোগীর আনুমানিক গ্লোমেরুলার ফিল্ট্রেশন রেট (eGFR) প্রতি মিনিটে ১৫ মিলিমিটারের নিচে নেমে যায়, তখন তাকে স্টেজ ৫ সিকেডি বলে।\nএটি কিডনি বিকল হওয়ার চূড়ান্ত পর্যায় বা এন্ড-স্টেজ রেনাল ডিজিজ (ESRD)।\nএই পর্যায়ে রোগীকে বাঁচিয়ে রাখতে কিডনি প্রতিস্থাপন অথবা নিয়মিত ডায়ালাইসিস শুরু করা অপরিহার্য হয়ে পড়ে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Best single predictor of CKD progression",
+    "answer": "Proteinuria (or albuminuria)",
+    "explanation_bn": "প্রস্রাবে প্রোটিন নির্গমনের পরিমাণ (প্রোটিনুরিয়া বা অ্যালবুমিনুরিয়া) কিডনি ক্ষয়ের হার পূর্বাভাস করার সবচেয়ে শক্তিশালী নির্দেশক।\nঅতিরিক্ত প্রোটিন ফিল্টার হওয়ার সময় রেনাল টিউবিউল ও ইন্টারস্টিশিয়ামে প্রদাহ ও ফাইব্রোসিস বৃদ্ধি করে।\nACE ইনহিবিটর বা ARB দিয়ে প্রোটিনুরিয়া কমাতে পারলে কিডনি রোগ অগ্রসর হওয়ার গতি উল্লেখযোগ্যভাবে শ্লথ হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Investigations required to evaluate Renal Osteodystrophy in CKD",
+    "answer": "Serum Calcium, Phosphate, Parathyroid Hormone (PTH), and Vitamin D (1,25-dihydroxycholecalciferol)",
+    "explanation_bn": "CKD-তে কিডনি ভিটামিন ডি সক্রিয় করতে ব্যর্থ হয় এবং ফসফেট ধরে রাখে, ফলে হাইপোক্যালসেমিয়া ও হাইপারফসফেটেমিয়া হয়।\nএর প্রতিক্রিয়ায় প্যারাথাইরয়েড গ্রন্থি অতিরিক্ত PTH নিঃসরণ করে সেকেন্ডারি হাইপারপ্যারাথাইরয়েডিজম ও হাড়ের অবক্ষয় তৈরি করে।\nতাই হাড় ও মিনারেল ডিজঅর্ডার পর্যবেক্ষণে ক্যালসিয়াম, ফসফেট, ভিটামিন ডি এবং ইনট্যাক্ট PTH পরিমাপ আবশ্যক।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Threshold indication for urgent Nephrology referral in CKD",
+    "answer": "eGFR < 30 mL/min/1.73 m² (Stage 4 or 5 CKD)",
+    "explanation_bn": "কিডনি কার্যক্ষমতা কমে eGFR ৩০ এর নিচে নামলে রোগীকে অবিলম্বে বিশেষজ্ঞ নেফ্রোলজিস্টের কাছে রেফার করতে হয়।\nএই পর্যায়ে রক্তস্বল্পতা, অ্যাসিডোসিস ও হাড়ের জটিলতা মারাত্মক আকার ধারণ করে।\nএছাড়াও ভবিষ্যৎ রেনাল রিপ্লেসমেন্ট থেরাপির প্রস্তুতি হিসেবে আগে থেকেই এভি ফিস্টুলা (AV fistula) তৈরি করার পরিকল্পনা নেওয়া হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Hallmark ultrasound findings in Chronic Kidney Disease (CKD)",
+    "answer": "Bilateral small, shrunken kidneys with loss of corticomedullary differentiation and increased echogenicity",
+    "explanation_bn": "দীর্ঘস্থায়ী কিডনি রোগে আল্ট্রাসনোগ্রাফির প্রধান বৈশিষ্ট্য হলো কিডনির আকার স্বাভাবিকের চেয়ে ছোট (< ৯ সেমি) হয়ে যাওয়া।\nকিডনির কর্টেক্স ও মেডুলার মধ্যবর্তী স্বাভাবিক পার্থক্য নষ্ট হয়ে যায় এবং টিস্যুর ইকোজেনিসিটি বৃদ্ধি পায়।\nতবে ডায়াবেটিক নেফ্রোপ্যাথি ও পলিসিস্টিক কিডনি রোগে ব্যতিক্রম হিসেবে কিডনির আকার স্বাভাবিক বা বড় থাকতে পারে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Hallmark urine findings distinguishing Acute Tubular Necrosis (ATN) from Glomerular AKI",
+    "answer": "ATN: Muddy brown granular casts and renal tubular epithelial cells; Glomerular AKI: Dysmorphic RBCs and RBC casts",
+    "explanation_bn": "তীব্র ইস্কেমিয়া বা টক্সিনের কারণে একিউট টিউবুলার নেক্রোসিস (ATN) হলে মৃত টিউবুলার কোষ জমে কাদামাটির মতো বাদামি (muddy brown) কাস্ট তৈরি হয়।\nবিপরীতে গ্লোমেরুলার প্রদাহজনিত একিউট কিডনি ইনজুরিতে (গ্লোমেরুলোনেফ্রাইটিস) প্রস্রাবে ফ্রেশ বা ভাঙা লোহিত রক্তকণিকা ও RBC কাস্ট পাওয়া যায়।\nএটি প্রস্রাব মাইক্রোস্কোপির মাধ্যমে একে অপর থেকে আলাদা করার অন্যতম প্রধান ভিত্তি।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Urine sodium concentration in Pre-renal AKI vs Acute Tubular Necrosis (ATN)",
+    "answer": "Pre-renal AKI: Urine Sodium < 20 mmol/L; ATN: Urine Sodium > 40 mmol/L",
+    "explanation_bn": "প্রি-রেনাল একেআই-তে কিডনির টিউবিউল অক্ষত থাকায় শরীর জল ও সোডিয়াম ধরে রাখতে সোডিয়াম শোষণ বাড়িয়ে দেয়, ফলে প্রস্রাবে সোডিয়াম ২০-এর নিচে থাকে।\nকিন্তু এটিএন-এ টিউবিউলার কোষ ক্ষতিগ্রস্ত হওয়ায় সোডিয়াম পুনরায় শোষণ করার ক্ষমতা নষ্ট হয়ে যায় এবং প্রস্রাবে সোডিয়াম ৪০-এর বেশি বেরিয়ে যায়।\nএকইভাবে ফ্র্যাকশনাল এক্সক্রিশন অব সোডিয়াম (FeNa) প্রি-রেনালে <১% এবং এটিএন-এ >২% হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Types of Renal Replacement Therapy and the most common complication of Peritoneal Dialysis",
+    "answer": "Types: Haemodialysis and Peritoneal Dialysis; Most common PD complication: Peritonitis (bacterial infection)",
+    "explanation_bn": "রেনাল রিপ্লেসমেন্ট থেরাপির মূল দুটি রূপ হলো রক্ত ফিল্টার করার হিমোডায়ালাইসিস এবং পেটের পেরিটোনিয়াল মেমব্রেন ব্যবহারের পেরিটোনিয়াল ডায়ালাইসিস।\nপেরিটোনিয়াল ডায়ালাইসিসের সবচেয়ে সাধারণ এবং প্রধান ক্ষতিকর জটিলতা হলো ব্যাকটেরিয়াল পেরিটোনাইটিস।\nক্যাথেটার দিয়ে জীবাণু প্রবেশের ফলে তরল ঘোলাটে হওয়া, পেটে তীব্র ব্যথা এবং জ্বর দেখা দেয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Emergency and life-threatening indication for immediate dialysis in Acute Kidney Injury (AKI)",
+    "answer": "Refractory hyperkalaemia (Serum Potassium > 6.5 mmol/L resistant to medical therapy)",
+    "explanation_bn": "AKI-তে জরুরি ভিত্তিতে ডায়ালাইসিস শুরুর সবচেয়ে গুরুত্বপূর্ণ প্রাণঘাতী কারণ হলো চিকিৎসায় সাড়া না দেওয়া অতিরিক্ত পটাশিয়াম (রিফ্র্যাক্টরি হাইপারক্যালেমিয়া)।\nউচ্চ পটাশিয়াম মারাত্মক কার্ডিয়াক অ্যারিথমিয়া ও কার্ডিয়াক অ্যারেস্ট ঘটাতে পারে।\nএছাড়াও তীব্র পালমোনারি ইডেমা, রিফ্র্যাক্টরি মেটাবলিক অ্যাসিডোসিস এবং ইউরেমিক এনসেফালোপ্যাথিতেও জরুরি ডায়ালাইসিস প্রয়োজন।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Most common type of renal stone overall and its radiographic appearance",
+    "answer": "Calcium oxalate stone (~75-80% of all stones); Radio-opaque on X-ray",
+    "explanation_bn": "কিডনি পাথরের মধ্যে সবচেয়ে সাধারণ রূপ হলো ক্যালসিয়াম অক্সালেট পাথর (প্রায় ৭৫-৮০ ভাগ ক্ষেত্রে)।\nএগুলো এক্স-রে কেইউবি (X-ray KUB) ফিল্মে সুস্পষ্টভাবে রেডিও-অপেক বা সাদা রঙের ছায়া হিসেবে দৃশ্যমান হয়।\nপর্যাপ্ত পানি পান না করা, অতিরিক্ত অক্সালেট সমৃদ্ধ খাবার এবং হাইপারক্যালসিউরিয়া এর প্রধান ঝুঁকির কারণ।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Most common radiolucent renal stone",
+    "answer": "Uric acid (urate) stone",
+    "explanation_bn": "ইউরিক অ্যাসিড পাথর সাধারণ পেটের এক্স-রেতে দেখা যায় না, অর্থাৎ এটি ক্লাসিক রেডিওলুসেন্ট (radiolucent) পাথর।\nতবে সিটি স্ক্যানে (CT KUB) বা আল্ট্রাসনোগ্রাফিতে এই পাথরগুলো অত্যন্ত স্পষ্ট ধরা পড়ে।\nঅম্লীয় প্রস্রাব (ইউরিন পিএইচ < ৫.৫) এবং গাউট রোগীদের মধ্যে এই পাথর সৃষ্টির প্রবণতা সবচেয়ে বেশি।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Semi-opaque renal stone with ground-glass appearance on X-ray",
+    "answer": "Cystine stone",
+    "explanation_bn": "সিসটিনুরিয়া নামক জন্মগত মেটাবলিক ত্রুটির কারণে রেনাল টিউবিউল সিসটিন অ্যামিনো অ্যাসিড শোষণ করতে পারে না।\nফলে প্রস্রাবে অতিরিক্ত সিসটিন জমে রেনাল স্টোন তৈরি করে, যার ভেতর সালফার অণু বিদ্যমান থাকে।\nসালফারের উপস্থিতির কারণে এটি এক্স-রেতে হালকা অস্বচ্ছ বা গ্রাউন্ড-গ্লাস (ground-glass semi-opaque) রূপ প্রদর্শন করে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Composition, causative organism, and urine pH associated with Staghorn calculi",
+    "answer": "Composition: Struvite (magnesium ammonium phosphate / triple phosphate); Organism: Proteus species; Urine pH: Alkaline (>7.0)",
+    "explanation_bn": "স্ট্যাগহর্ন ক্যালকুলাস বা হরিণের শিং আকৃতির পাথর মূলত ম্যাগনেসিয়াম অ্যামোনিয়াম ফসফেট বা স্ট্রুভাইট দিয়ে গঠিত।\nইউরিয়েজ উৎপাদনকারী প্রোটিয়াস প্রজাতির ব্যাকটেরিয়ার সংক্রমণে ইউরিয়া ভেঙে অ্যামোনিয়া তৈরি হওয়ায় প্রস্রাবের পিএইচ ক্ষারীয় হয়ে যায়।\nএই ক্ষারীয় মাধ্যমে স্ট্রুভাইট দ্রুত স্ফটিকায়িত হয়ে সম্পূর্ণ রেনাল পেলভিস ও ক্যালিক্স ঢেকে ফেলে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Most common cause of painful haematuria vs most important cause of painless haematuria",
+    "answer": "Painful haematuria: Ureteric calculus (stone); Painless haematuria: Urinary tract malignancy (Bladder cancer or Renal cell carcinoma)",
+    "explanation_bn": "প্রস্রাবে ব্যথাসহ রক্ত যাওয়ার সবচেয়ে সাধারণ কারণ হলো ইউরেটারে পাথর আটকে তীব্র রেনাল কোলিক ব্যথা তৈরি হওয়া।\nবিপরীতে সম্পূর্ণ ব্যথাহীন কিন্তু দৃশ্যমান রক্তপাতের (Painless macroscopic haematuria) ক্ষেত্রে প্রথম সন্দেহ করতে হবে মূত্রথলির ক্যান্সার বা কিডনি ক্যান্সার।\n৫০ বছরের বেশি বয়সী যে কারও ব্যথাহীন রক্তপাত দেখা দিলে জরুরি সিস্টোস্কোপি ও সিটি স্ক্যান দ্বারা ক্যান্সার বাতিল করা বাধ্যতামূলক।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Most common glomerular cause of microscopic haematuria worldwide",
+    "answer": "IgA nephropathy (Berger disease)",
+    "explanation_bn": "বিশ্বব্যাপী গ্লোমেরুলার উৎসের মাইক্রোস্কোপিক হেমাটুরিয়ার সবচেয়ে সাধারণ কারণ হলো আইজিএ নেফ্রোপ্যাথি।\nসাধারণত উচ্চ শ্বাসতন্ত্রের ভাইরাল ইনফেকশনের ১-২ দিনের মধ্যে তরুণদের প্রস্রাবের রঙ চা বা কোকের মতো হয়ে যায় (সিনফ্যারেনজাইটিক হেমাটুরিয়া)।\nকিডনি বায়োপসিতে মেসাঞ্জিয়ামে অনাক্রম্য আইজিএ (IgA) অ্যান্টিবডি জমা হতে দেখা যায়।"
+  }
+]
