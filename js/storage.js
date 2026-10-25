@@ -158,10 +158,18 @@ export const Storage = {
 
   // Settings
   getTheme() {
-    return localStorage.getItem(STORAGE_KEYS.SETTINGS + '_theme') || 'system';
+    return localStorage.getItem(STORAGE_KEYS.SETTINGS + '_theme') || 'sepia';
   },
 
   setTheme(theme) {
     localStorage.setItem(STORAGE_KEYS.SETTINGS + '_theme', theme);
+  },
+
+  getFontSize() {
+    return localStorage.getItem(STORAGE_KEYS.SETTINGS + '_font_size') || 'normal';
+  },
+
+  setFontSize(size) {
+    localStorage.setItem(STORAGE_KEYS.SETTINGS + '_font_size', size);
   }
 };

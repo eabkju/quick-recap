@@ -39,25 +39,69 @@ class QuickRecapApp {
     this.renderHome();
   }
 
-  // Theme Management
+  // Theme & Reading Ergonomics Management
   setupTheme() {
-    const saved = Storage.getTheme();
-    if (saved === 'dark' || (saved === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-      document.documentElement.setAttribute('data-theme', 'dark');
-    } else {
-      document.documentElement.removeAttribute('data-theme');
+    let savedTheme = Storage.getTheme();
+    if (savedTheme === 'system') {
+      savedTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'sepia';
     }
+    this.applyTheme(savedTheme, false);
+    this.applyFontSize(Storage.getFontSize());
+  }
+
+  applyTheme(theme, save = true) {
+    if (!['light', 'sepia', 'dark'].includes(theme)) {
+      theme = 'sepia';
+    }
+    document.documentElement.setAttribute('data-theme', theme);
+    if (save) Storage.setTheme(theme);
+
+    // Sync header button UI
+    const iconEl = document.getElementById('theme-toggle-icon');
+    const labelEl = document.getElementById('theme-toggle-label');
+    const themeMeta = document.querySelector('meta[name="theme-color"]');
+
+    if (theme === 'sepia') {
+      if (iconEl) iconEl.textContent = '📜';
+      if (labelEl) labelEl.textContent = 'Sepia';
+      if (themeMeta) themeMeta.setAttribute('content', '#f4ecdc');
+    } else if (theme === 'dark') {
+      if (iconEl) iconEl.textContent = '🌙';
+      if (labelEl) labelEl.textContent = 'Night';
+      if (themeMeta) themeMeta.setAttribute('content', '#121417');
+    } else {
+      if (iconEl) iconEl.textContent = '☀️';
+      if (labelEl) labelEl.textContent = 'Day';
+      if (themeMeta) themeMeta.setAttribute('content', '#f6f5f0');
+    }
+
+    // Sync in-card reader pills if study view is active
+    document.querySelectorAll('.reader-pill[data-set-theme]').forEach(pill => {
+      pill.classList.toggle('active', pill.getAttribute('data-set-theme') === theme);
+    });
   }
 
   toggleTheme() {
-    const current = document.documentElement.getAttribute('data-theme');
-    const next = current === 'dark' ? 'light' : 'dark';
-    if (next === 'dark') {
-      document.documentElement.setAttribute('data-theme', 'dark');
-    } else {
-      document.documentElement.removeAttribute('data-theme');
-    }
-    Storage.setTheme(next);
+    const current = document.documentElement.getAttribute('data-theme') || 'sepia';
+    let next = 'sepia';
+    if (current === 'sepia') next = 'light';
+    else if (current === 'light') next = 'dark';
+    else next = 'sepia';
+    this.applyTheme(next, true);
+  }
+
+  applyFontSize(size) {
+    if (!['normal', 'large', 'xlarge'].includes(size)) size = 'normal';
+    document.documentElement.classList.remove('font-scale-normal', 'font-scale-large', 'font-scale-xlarge');
+    document.documentElement.classList.add(`font-scale-${size}`);
+    Storage.setFontSize(size);
+  }
+
+  cycleFontSize() {
+    const current = Storage.getFontSize();
+    const next = current === 'normal' ? 'large' : (current === 'large' ? 'xlarge' : 'normal');
+    this.applyFontSize(next);
+    return next;
   }
 
   // Load Database Manifest and Chapters
@@ -116,6 +160,26 @@ class QuickRecapApp {
 
   getQuestionKey(q) {
     return `${q.chapterId || 'gen'}::${q.question}`;
+  }
+
+  getChapterIcon(chapterId = '', title = '') {
+    const text = `${chapterId} ${title}`.toLowerCase();
+    if (text.includes('cardio')) return '🫀';
+    if (text.includes('endo')) return '🩸';
+    if (text.includes('gastro')) return '🍽️';
+    if (text.includes('haem') || text.includes('hem')) return '🔬';
+    if (text.includes('nephro') || text.includes('renal')) return '🩺';
+    if (text.includes('neuro')) return '🧠';
+    if (text.includes('resp') || text.includes('pulmo') || text.includes('chest')) return '🫁';
+    if (text.includes('rheuma') || text.includes('joint') || text.includes('bone')) return '🦴';
+    return '📘';
+  }
+
+  cleanChapterTitle(title = '') {
+    return title
+      .replace(/ (Rapid Recall|Quick Recap)/gi, '')
+      .replace(/ All \d+ Explained/gi, '')
+      .trim();
   }
 
   setProgressBar(percent) {
@@ -269,14 +333,17 @@ class QuickRecapApp {
       const completedCount = (prog.completed || []).length;
       const percent = ch.count ? Math.round((completedCount / ch.count) * 100) : 0;
       const lastIndex = prog.lastIndex || 0;
+      const icon = this.getChapterIcon(ch.id, ch.title);
+      const cleanTitle = this.cleanChapterTitle(ch.title);
 
       return `
         <div class="chapter-card" data-chapter-id="${ch.id}">
           <div class="chapter-card-header">
-            <div>
-              <div class="chapter-title">${this.escapeHtml(ch.title)}</div>
+            <div class="chapter-icon-box">${icon}</div>
+            <div class="chapter-header-text">
+              <div class="chapter-title">${this.escapeHtml(cleanTitle)}</div>
               <div class="text-muted" style="font-size: 0.8rem; margin-top: 0.2rem;">
-                ${ch.count} Questions • ${completedCount} Completed (${percent}%)
+                ${ch.count} High-Yield Items • ${completedCount} Read
               </div>
             </div>
             <span class="chapter-badge">${percent}%</span>
@@ -585,14 +652,33 @@ class QuickRecapApp {
 
     const questionKey = this.getQuestionKey(q);
     const isBookmarked = Storage.isFlagged(questionKey);
+    const currentTheme = document.documentElement.getAttribute('data-theme') || 'sepia';
+    const currentFontSize = Storage.getFontSize();
+    const fontSizeLabel = currentFontSize === 'xlarge' ? 'A++' : (currentFontSize === 'large' ? 'A+' : 'A');
 
     this.appRoot.innerHTML = `
       <div class="study-viewport">
         <div class="study-card selectable" id="study-card-element">
           <div class="study-card-top">
-            <span class="study-counter">QUESTION ${currentNum} OF ${total}</span>
-            <div style="display: flex; gap: 0.5rem; align-items: center;">
-              <span class="chapter-badge" style="font-size: 0.7rem;">${q.topic || 'General'}</span>
+            <div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+              <span class="study-counter">Q ${currentNum}/${total}</span>
+              <span class="chapter-badge" style="font-size: 0.72rem;">${q.topic || 'General'}</span>
+            </div>
+
+            <div class="reader-tools-cluster">
+              <!-- Theme Temperature Mode Selector -->
+              <div class="reader-theme-pills" title="Reading Color Temperature">
+                <button type="button" class="reader-pill ${currentTheme === 'light' ? 'active' : ''}" data-set-theme="light" title="Daylight (Soft Warm)">☀️</button>
+                <button type="button" class="reader-pill ${currentTheme === 'sepia' ? 'active' : ''}" data-set-theme="sepia" title="Sepia Paper (Eye Relax)">📜</button>
+                <button type="button" class="reader-pill ${currentTheme === 'dark' ? 'active' : ''}" data-set-theme="dark" title="Night Charcoal">🌙</button>
+              </div>
+
+              <!-- Font Size Scaler -->
+              <button type="button" class="reader-font-btn" id="btn-font-toggle" title="Adjust Font Size (A / A+ / A++)">
+                <span id="font-size-indicator">${fontSizeLabel}</span>
+              </button>
+
+              <!-- Star Bookmark -->
               <button class="icon-btn ${isBookmarked ? 'active' : ''}" id="btn-toggle-flag" title="Flag as Important">
                 ${isBookmarked ? '★' : '☆'}
               </button>
@@ -604,7 +690,9 @@ class QuickRecapApp {
 
           <!-- Answer as Subheadline -->
           <div class="study-subheadline-box">
-            <div class="study-subheadline-label">High-Yield Answer</div>
+            <div class="study-subheadline-label">
+              <span>🎯</span> High-Yield Key Answer
+            </div>
             <div class="study-subheadline-text">${q.answer}</div>
           </div>
 
@@ -620,11 +708,11 @@ class QuickRecapApp {
         <!-- Touch Swipe & Action Footer -->
         <div class="study-nav-footer">
           <button class="btn btn-secondary" id="btn-prev-q" ${this.currentIndex === 0 ? 'disabled style="opacity:0.4"' : ''}>
-            ← Previous
+            ← Prev
           </button>
           
           <div class="swipe-hint">
-            <span>👉 Swipe right to next</span>
+            <span>👉 Swipe card left/right</span>
           </div>
 
           <button class="btn btn-primary" id="btn-next-q">
@@ -651,6 +739,25 @@ class QuickRecapApp {
       if (btn) {
         btn.classList.toggle('active', active);
         btn.textContent = active ? '★' : '☆';
+      }
+    });
+
+    // Reader theme pills
+    document.querySelectorAll('.reader-pill[data-set-theme]').forEach(pill => {
+      pill.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const targetTheme = pill.getAttribute('data-set-theme');
+        this.applyTheme(targetTheme, true);
+      });
+    });
+
+    // Font size toggler
+    document.getElementById('btn-font-toggle')?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const newScale = this.cycleFontSize();
+      const indicator = document.getElementById('font-size-indicator');
+      if (indicator) {
+        indicator.textContent = newScale === 'xlarge' ? 'A++' : (newScale === 'large' ? 'A+' : 'A');
       }
     });
   }
