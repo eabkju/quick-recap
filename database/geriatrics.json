@@ -1,0 +1,80 @@
+[
+  {
+    "topic": "Geriatrics",
+    "question": "Fundamental physiological concept of ageing",
+    "answer": "Progressive decrease in physiological reserve and homeostatic capacity",
+    "explanation_bn": "বয়োবৃদ্ধি বা বার্ধক্যের মূল ভিত্তি হলো শরীরের প্রতিটি অঙ্গের অতিরিক্ত রিজার্ভ ক্ষমতা এবং হোমিওস্ট্যাটিক নিয়ন্ত্রণ ক্রমান্বয়ে হ্রাস পাওয়া।\nবিশ্রামরত অবস্থায় প্রবীণ ব্যক্তির শরীর আপাতদৃষ্টিতে স্বাভাবিক মনে হলেও যেকোনো সংক্রমণ, সার্জারি বা মানসিক চাপে অঙ্গগুলো দ্রুত অকার্যকর হয়ে পড়ে।\nএর ফলে সামান্য রোগেও ডিকম্পেনসেশন এবং জটিলতা অনেক বেশি ঘটে।"
+  },
+  {
+    "topic": "Geriatrics",
+    "question": "Age-related changes in body composition and their pharmacological impact",
+    "answer": "Decreased lean body mass and total body water, increased body fat; alters drug distribution",
+    "explanation_bn": "বার্ধক্যে কঙ্কাল পেশি এবং মোট শরীরের পানির পরিমাণ উল্লেখযোগ্যভাবে কমে যায়, কিন্তু চর্বির (বডি ফ্যাট) অনুপাত বৃদ্ধি পায়।\nএর ফলে পানিতে দ্রবণীয় ড্রাগের (যেমন ডিগক্সিন, জেন্টামাইসিন) ডিস্ট্রিবিউশন ভলিউম কমে গিয়ে রক্তে ঘনমাত্রা বাড়ে ও বিষক্রিয়ার ঝুঁকি বৃদ্ধি পায়।\nঅপরদিকে চর্বিতে দ্রবণীয় ড্রাগের (যেমন ডায়াজেপাম) শরীরে জমে থাকার মেয়াদ (হাফ-লাইফ) অনেক দীর্ঘায়িত হয়।"
+  },
+  {
+    "topic": "Geriatrics",
+    "question": "Age-related homeostatic vulnerability: Thermoregulation, thirst, and blood pressure control",
+    "answer": "Reduced thirst and temperature regulation (risk of dehydration/hypothermia); blunted baroreceptor reflex (postural hypotension)",
+    "explanation_bn": "বয়স্কদের হাইপোথ্যালামাসের তৃষ্ণা কেন্দ্র দুর্বল হয়ে যাওয়ায় পর্যাপ্ত পানি পানের তাগিদ কমে ডিহাইড্রেশন হয়।\nতাপ নিয়ন্ত্রণ ব্যবস্থা দুর্বল হওয়ায় সামান্য শীতে হাইপোথার্মিয়া এবং গরমে হিট স্ট্রোকে আক্রান্ত হওয়ার প্রবণতা অনেক বেশি থাকে।\nএছাড়া ক্যারোটিড সাইনাসের ব্যারোরিসেপ্টর সংবেদনশীলতা কমে যাওয়ায় শোয়া থেকে দাঁড়ালে রক্তচাপ কমে পোস্টুরাল হাইপোটেনশন ও পড়ে যাওয়ার ঝুঁকি বাড়ে।"
+  },
+  {
+    "topic": "Geriatrics",
+    "question": "Age-related changes in the neuromuscular and skeletal systems",
+    "answer": "Sarcopenia (loss of muscle mass/strength causing frailty) and decreased bone density (osteoporosis and fractures)",
+    "explanation_bn": "বয়সের সাথে পেশির তন্তু কমে যাওয়া এবং শক্তি হ্রাস পাওয়াকে সারকোপেনিয়া (Sarcopenia) বলা হয় যা শারীরিক দুর্বলতা (frailty) তৈরি করে।\nঅস্টিওব্লাস্টের চেয়ে অস্টিওক্লাস্টের কার্যকারিতা বেশি হওয়ায় হাড়ের খনিজ ঘনত্ব কমে অস্টিওপোরোসিস হয়।\nসামান্য আঘাত বা পড়ে যাওয়াতেই প্রবীণদের ফিমারের ঘাড় (হিপ ফ্র্যাকচার) বা কশেরুকা ভেঙে যাওয়ার ঝুঁকি বহুগুণ বেড়ে যায়।"
+  },
+  {
+    "topic": "Geriatrics",
+    "question": "Cardiovascular and respiratory changes in normal ageing",
+    "answer": "Arterial stiffness raising systolic BP/pulse pressure; decreased chest wall compliance and vital capacity",
+    "explanation_bn": "বয়সের সাথে বড় রক্তনালীর প্রাচীরে ইলাস্টিন কমে কোলাজেন জমায় আর্টারিয়াল স্টিফনেস বাড়ে, ফলে আইসোলেটেড সিস্টোলিক হাইপারটেনশন ও পালস প্রেশার বৃদ্ধি পায়।\nবুকের পাঁজরের জয়েন্ট শক্ত হয়ে বুকের প্রাচীরের নমনীয়তা (কমপ্লায়েন্স) কমে যায়।\nএর ফলে ভাইটাল ক্যাপাসিটি এবং ফুসফুসের রিজার্ভ হ্রাস পেয়ে নিউমোনিয়া বা শ্বাসকষ্টে রোগী দ্রুত ক্লান্ত হয়ে পড়ে।"
+  },
+  {
+    "topic": "Geriatrics",
+    "question": "Renal physiological decline with age and clinical relevance",
+    "answer": "Decreased renal cortical mass, renal blood flow and GFR; requires dosage adjustments",
+    "explanation_bn": "৪০ বছর বয়সের পর থেকে প্রতি দশকে গ্লোমেরুলার ফিল্ট্রেশন রেট (GFR) প্রতি বছর প্রায় ১ mL/min হারে কমতে থাকে।\nপেশি ক্ষয়ের কারণে বয়স্ক রোগীর সিরাম ক্রিয়েটিনিন আপাতদৃষ্টিতে স্বাভাবিক দেখালেও প্রকৃত জিএফআর অনেক কম থাকতে পারে।\nতাই কিডনি দিয়ে নির্গত হওয়া ওষুধগুলোর (অ্যান্টিবায়োটিক, ডিগক্সিন, ডায়াবেটিসের ওষুধ) সঠিক ডোজ সমন্বয় অত্যন্ত গুরুত্বপূর্ণ।"
+  },
+  {
+    "topic": "Geriatrics",
+    "question": "Cognitive ageing myth vs reality: Is dementia a normal part of ageing?",
+    "answer": "No. Reaction time slows, but dementia and delirium are ALWAYS pathological",
+    "explanation_bn": "স্বাভাবিক বার্ধক্যে তথ্য প্রক্রিয়াকরণ ও প্রতিক্রিয়ার সময় কিছুটা ধীরগতি হতে পারে, তবে প্রাত্যহিক জীবনের স্বাধীনতা অক্ষুণ্ণ থাকে।\nডিমেনশিয়া (স্মৃতিনাশ) বা ডিলিরিয়াম (তীব্র মানসিক বিভ্রান্তি) কোনো অবস্থাতেই স্বাভাবিক বার্ধক্যের অংশ নয়, এগুলো সর্বদা রোগগত বা প্যাথলজিক্যাল।\nএগুলোকে সাধারণ বার্ধক্যজনিত ধরে চিকিৎসা না করা গুরুতর অবহেলা হিসেবে গণ্য হয়।"
+  },
+  {
+    "topic": "Geriatrics",
+    "question": "Sensory changes of ageing: Presbyopia and Presbycusis",
+    "answer": "Presbyopia is loss of lens accommodation for near vision; Presbycusis is bilateral sensorineural hearing loss",
+    "explanation_bn": "চোখের লেন্স শক্ত হয়ে যাওয়ার কারণে কাছের দৃষ্টিতে ফোকাস করার ক্ষমতা কমে যাওয়াকে প্রেসবায়োপিয়া (Presbyopia) বলে।\nককলিয়ার হেয়ার সেল ক্ষয়প্রাপ্ত হয়ে উচ্চ কম্পাঙ্কের শব্দ শোনার ক্ষমতা কমে উভয় কানে সেন্সরি-নিউরাল বধিরতাকে প্রেসবাইকিউসিস (Presbycusis) বলে।\nএ দুটি সেন্সরি ঘাটতি বয়স্কদের একাকীত্ব, বিভ্রান্তি এবং পড়ে যাওয়ার ঝুঁকি বহুগুণ বাড়িয়ে দেয়।"
+  },
+  {
+    "topic": "Geriatrics",
+    "question": "Major risk factors and multidisciplinary prevention of falls in older adults",
+    "answer": "Multifactorial risks: muscle weakness, gait/balance impairment, polypharmacy, visual deficits; prevented by exercises, med review, hazard removal",
+    "explanation_bn": "প্রবীণদের পড়ে যাওয়া কখনোই একক কারণে ঘটে না; এটি সারকোপেনিয়া, দৃষ্টিশক্তি হ্রাস, শোবার ঘর ও বাথরুমের প্রতিবন্ধকতা এবং সিডেটিভ ওষুধের সম্মিলিত ফল।\nপড়ে যাওয়ার মারাত্মক পরিণতির মধ্যে রয়েছে হিপ ফ্র্যাকচার, সাবডিউরাল হেমাটোমা এবং পড়ে যাওয়ার ভয়ে হাঁটাচলা বন্ধ করে সম্পূর্ণ পরনির্ভরশীলতা।\nপ্রতিরোধে শক্তি ও ভারসাম্যমূলক ব্যায়াম, অতিরিক্ত ক্ষতিকর ওষুধ প্রত্যাহার (পলिफার্মেসি রিভিউ) এবং বাড়ির মেঝে ও আলোর পরিবেশ নিরাপদ করা আবশ্যক।"
+  },
+  {
+    "topic": "Geriatrics",
+    "question": "The classic Geriatric Giants (the 'Four I's' and commonly added fifth)",
+    "answer": "Immobility, Instability (falls), Incontinence, Intellectual impairment (dementia/delirium), and Iatrogenesis",
+    "explanation_bn": "জেরিয়াট্রিক জায়ান্টস হলো বয়স্ক রোগীদের প্রধান পাঁচটি অক্ষমতাজনিত স্বাস্থ্য সংকট যা বার্নার্ড আইজ্যাকস সংজ্ঞায়িত করেছিলেন।\nঅচলতা (ইমোবিলিটি) বেডসোর ও ডিপ ভেইন থ্রম্বোসিস তৈরি করে; অস্থিরতা (ইনস্ট্যাবিলিটি) বারবার পড়ে যাওয়ার কারণ।\nইউরিনারি ইনকন্টিনেন্স, বুদ্ধিবৃত্তিক বৈকল্য এবং একাধিক ওষুধের পার্শ্বপ্রতিক্রিয়াজনিত ক্ষতি (আয়াট্রোজেনেসিস) রোগীর জীবনযাত্রার মান ধ্বংস করে।"
+  },
+  {
+    "topic": "Geriatrics",
+    "question": "Fundamental clinical principle regarding urinary incontinence in the elderly",
+    "answer": "Urinary incontinence is NOT a normal consequence of ageing; it is a treatable condition",
+    "explanation_bn": "প্রবীণদের মূত্রথলির ধারণক্ষমতা কিছুটা কমে এবং রেসিডুয়াল ভলিউম বাড়ে, তবে প্রস্রাব ধরে রাখতে না পারা কখনোই স্বাভাবিক বার্ধক্যের অংশ নয়।\nএটি একটি নির্দিষ্ট রোগ বা প্রতিকারযোগ্য শারীরিক সমস্যা যা সঠিক কারণ নির্ণয়ের মাধ্যমে নিরাময় বা নিয়ন্ত্রণ করা সম্ভব।\nলজ্জা বা ভুলের কারণে রোগীরা প্রকাশ না করায় চিকিৎসকের সক্রিয়ভাবে এটি জিজ্ঞাসা করে মূল্যায়ন করা উচিত।"
+  },
+  {
+    "topic": "Geriatrics",
+    "question": "Types of chronic urinary incontinence: Urge, Stress, Overflow, and Functional",
+    "answer": "Urge (detrusor overactivity), Stress (sphincter incompetence), Overflow (retention/high PVR), Functional (mobility/cognitive barrier)",
+    "explanation_bn": "আর্জ ইনকন্টিনেন্স হলো ডেট্রুসার পেশির অতিসক্রিয়তায় হঠাৎ তীব্র বেগের সাথে প্রস্রাব লিক হওয়া (ব্লাডার ট্রেইনিং/অ্যান্টিকোলিনার্জিক চিকিৎসা)।\nস্ট্রেস ইনকন্টিনেন্স হলো কাশি, হাঁচি বা হাসলে পেটের চাপে সামান্য প্রস্রাব বের হওয়া যা পেলভিক ফ্লোর পেশির দুর্বলতায় ঘটে (কেগেল এক্সারসাইজ চিকিৎসা)।\nওভারফ্লো ইনকন্টিনেন্সে প্রস্রাব আটকে থলি ভরে ফোঁটায় ফোঁটায় ঝরে; আর ফাংশনাল ইনকন্টিনেন্সে রোগী শারীরিক অক্ষমতার কারণে সময়মতো বাথরুমে পৌঁছাতে পারে না।"
+  },
+  {
+    "topic": "Geriatrics",
+    "question": "Reversible causes of acute urinary incontinence: The DIAPPERS mnemonic",
+    "answer": "Delirium, Infection (UTI), Atrophic vaginitis, Pharmaceuticals, Psychological, Excess urine, Restricted mobility, Stool impaction",
+    "explanation_bn": "হঠাৎ প্রস্রাব নিয়ন্ত্রণে অক্ষমতা দেখা দিলে স্থায়ী ধরে নেওয়ার আগে এই আটটি প্রতিবর্তনযোগ্য কারণ (DIAPPERS) অবশ্যই মূল্যায়ন করতে হয়।\nতীব্র ডিলিরিয়াম, মূত্রনালীর ইনফেকশন (UTI), মেনোপজ-পরবর্তী অ্যাট্রফিক ভ্যাজাইনাইটিস এবং মূত্রবর্ধক/সিডেটিভ ওষুধ প্রধান কারণ।\nএছাড়া সাইকোলজিক্যাল ডিপ্রেশন, অতিরিক্ত প্রস্রাব (ডায়াবেটিস), হাঁটাচলার সীমাবদ্ধতা এবং মলাশয়ে মল জমে পাথর হওয়া (স্টুল ইমপ্যাকশন) ব্লাডার সংকুচিত করে ইনকন্টিনেন্স ঘটায়।"
+  }
+]

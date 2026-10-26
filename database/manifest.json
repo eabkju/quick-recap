@@ -36,12 +36,30 @@
     ]
   },
   {
+    "id": "environmental_medicine",
+    "filename": "environmental_medicine.json",
+    "title": "Environmental Medicine",
+    "count": 9,
+    "topics": [
+      "Environmental Medicine"
+    ]
+  },
+  {
     "id": "gastroenterology",
     "filename": "gastroenterology.json",
     "title": "Gastroenterology",
     "count": 46,
     "topics": [
       "Gastroenterology"
+    ]
+  },
+  {
+    "id": "geriatrics",
+    "filename": "geriatrics.json",
+    "title": "Geriatrics",
+    "count": 13,
+    "topics": [
+      "Geriatrics"
     ]
   },
   {
@@ -113,15 +131,15 @@
     "title": "Respiratory Quick Recap All 70 Explained",
     "count": 70,
     "topics": [
-      "Pneumonia",
-      "Asthma and COPD",
-      "Upper Respiratory Tract Infection (URTI)",
-      "Bronchiectasis",
-      "Approach to Dyspnea",
-      "Lung Cancer",
       "Tuberculosis (TB)",
       "Respiratory Failure",
-      "Pleural Diseases"
+      "Pleural Diseases",
+      "Bronchiectasis",
+      "Pneumonia",
+      "Upper Respiratory Tract Infection (URTI)",
+      "Approach to Dyspnea",
+      "Asthma and COPD",
+      "Lung Cancer"
     ]
   },
   {

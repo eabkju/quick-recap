@@ -1,0 +1,56 @@
+[
+  {
+    "topic": "Environmental Medicine",
+    "question": "Mechanisms of human heat loss and the most effective mechanism in hot environments",
+    "answer": "Evaporation (sweating - most effective in hot weather), Radiation, Convection, and Conduction",
+    "explanation_bn": "মানবদেহ থেকে চারভাবে তাপ পরিবেশে নির্গত হয়: রেডিয়েশন, কনভেকশন, কন্ডাকশন এবং ইভাপোরেশন।\nপরিবেশের তাপমাত্রা যখন শরীরের তাপমাত্রার কাছাকাছি বা বেশি হয়, তখন রেডিয়েশন ও কনভেকশন অকার্যকর হয়ে পড়ে।\nএই অবস্থায় ঘাম বাষ্পীভবন (ইভাপোরেশন) প্রক্রিয়াই শরীর ঠান্ডা রাখার একমাত্র এবং সর্বাধিক কার্যকর প্রাকৃতিক পদ্ধতি।"
+  },
+  {
+    "topic": "Environmental Medicine",
+    "question": "Key clinical distinction between Heat Exhaustion and Heat Stroke",
+    "answer": "Heat stroke features core temp ≥ 40°C with CNS dysfunction; mental status is normal in heat exhaustion",
+    "explanation_bn": "হিট এক্সহশনে ঘামের মাধ্যমে পানি ও লবণের ঘাটতি হয়ে দুর্বলতা, মাথাব্যথা ও বমি বমি ভাব হয়, কিন্তু মানসিক অবস্থা (কগনিশন) সম্পূর্ণ স্বাভাবিক থাকে।\nঅপরদিকে হিট স্ট্রোক হলো একটি মেডিকেল ইমার্জেন্সি যেখানে শরীরের থার্মোরেগুলেশন ভেঙে গিয়ে তাপমাত্রা ৪০°C বা তার বেশি ওঠে।\nমানসিক বিভ্রান্তি, ভুল বকা, খিঁচুনি বা অচেতনতার মতো সিএনএস কর্মহীনতা (CNS dysfunction) হিট স্ট্রোকের প্রধান বৈশিষ্ট্য।"
+  },
+  {
+    "topic": "Environmental Medicine",
+    "question": "Classification of cold injuries: Freezing vs Non-freezing tissue injuries",
+    "answer": "Frostbite is freezing tissue injury; Trench foot and chilblains are non-freezing cold injuries",
+    "explanation_bn": "হিমাঙ্কের নিচের তাপমাত্রায় টিস্যুর ভেতরে বরফের ক্রিস্টাল তৈরি হয়ে রক্তনালী জমাট বেঁধে যে ক্ষতি হয় তাকে ফ্রস্টবাইট (Frostbite) বলে।\nঅপরদিকে হিমাঙ্কের ঠিক উপরে ভেজা ও স্যাঁতসেঁতে ঠান্ডায় দীর্ঘদিন পা থাকলে যে ক্ষতি হয় তা হলো ট্রেঞ্চ ফুট (Trench foot)।\nচিলব্লেইনস (Chilblains) হলো চরম ঠান্ডায় ত্বকের ক্ষুদ্র রক্তনালীর প্রদাহজনিত লালচে চুলকানিযুক্ত ক্ষত; এ দুটিই নন-ফ্রিজিং কোল্ড ইনজুরি।"
+  },
+  {
+    "topic": "Environmental Medicine",
+    "question": "Altitude threshold for acute altitude illness and proven pharmacological prevention",
+    "answer": "Rapid ascent above approximately 2,500 m; prevention is gradual ascent and Acetazolamide",
+    "explanation_bn": "সমুদ্রপৃষ্ঠ থেকে প্রায় ২,৫০০ মিটার (৮,২০০ ফুট) এর বেশি উচ্চতায় দ্রুত আরোহণ করলে কম বায়ুমণ্ডলীয় চাপ ও হাইপোক্সিয়ার কারণে অলটিটিউড সিকনেস হয়।\nসবচেয়ে কার্যকর প্রতিরোধ হলো ধীরে ধীরে উচ্চতায় ওঠা (অ্যাক্লিম্যাটাইজেশন) এবং প্রতিদিন ৩০০-৫০০ মিটারের বেশি না ঘুমানো।\nওষুধের মধ্যে কার্বনিক অ্যানহাইড্রেজ ইনহিবিটর অ্যাসিটাজোলামাইড (Acetazolamide) বাইকার্বনেট নির্গমন ঘটিয়ে হাইপারভেন্টিলেশন ত্বরান্বিত করে রোগ প্রতিরোধ করে।"
+  },
+  {
+    "topic": "Environmental Medicine",
+    "question": "Clinical features and initial management of Acute Mountain Sickness (AMS)",
+    "answer": "Headache with nausea, dizziness, fatigue or insomnia; stop ascent and descend if symptoms worsen",
+    "explanation_bn": "উচ্চতায় ওঠার ৬ থেকে ১২ ঘণ্টার মধ্যে অক্সিজেনের অভাবে মাথাব্যথা, বমি বমি ভাব, মাথা ঘোরা ও অনিদ্রা দেখা দেয়।\nলক্ষণ দেখা দিলে তৎক্ষণাৎ আরোহণ স্থগিত (stop ascent) করতে হবে এবং বিশ্রাম নিতে হবে।\nযদি বিশ্রাম ও সাধারণ ব্যথানাশকে লক্ষণ ভালো না হয় বা বাড়তে থাকে, তবে দ্রুত নিচে নেমে আসা (descend) একমাত্র নিরাপদ সমাধান।"
+  },
+  {
+    "topic": "Environmental Medicine",
+    "question": "Clinical triad and urgent treatment of High Altitude Cerebral Oedema (HACE)",
+    "answer": "Ataxia + altered consciousness; immediate descent, oxygen and high-dose Dexamethasone",
+    "explanation_bn": "হাইড-অলটিটিউড সেরিব্রাল ইডিমা (HACE) হলো তীব্র ব্রেন ইডিমার কারণে সৃষ্ট জীবনঘাতী জরুরি অবস্থা।\nএর ক্লাসিক্যাল লক্ষণ হলো মাতালের মতো হাঁটা (অ্যাটাক্সিয়া) এবং দ্রুত মানসিক বিভ্রান্তি বা কোমা।\nচিকিৎসায় অবিলম্বে নিচে নামিয়ে আনা (immediate descent), উচ্চ প্রবাহের অক্সিজেন এবং ভ্যাসোজেনিক ইডিমা কমাতে ডেক্সামেথাসন প্রয়োগ আবশ্যক।"
+  },
+  {
+    "topic": "Environmental Medicine",
+    "question": "Clinical presentation and management of High Altitude Pulmonary Oedema (HAPE)",
+    "answer": "Dyspnoea at rest, cough, hypoxaemia and crackles; immediate descent, oxygen, and Nifedipine if delayed",
+    "explanation_bn": "হাইপোক্সিক পালমোনারি ভ্যাসোকনস্ট্রিকশনের কারণে ফুসফুসের কৈশিকনালীতে উচ্চচাপ সৃষ্টি হয়ে অ্যালভিওলাইতে ফ্লুইড জমে HAPE হয়।\nরোগীর বিশ্রামের সময়ও শ্বাসকষ্ট, কাশি, গোলাপি ফেনা ও বুকে ক্র্যাকলস পাওয়া যায়।\nতাত্ক্ষণিক নিচে নামানো এবং অক্সিজেন থেরাপির পাশাপাশি পালমোনারি ধমনীর চাপ কমাতে ক্যালসিয়াম চ্যানেল ব্লকার নিফেডিপিন (Nifedipine) ব্যবহৃত হয়।"
+  },
+  {
+    "topic": "Environmental Medicine",
+    "question": "Pathophysiological differences between Freshwater and Saltwater drowning",
+    "answer": "Freshwater causes hemodilution, hemolysis, hyperkalemia & cardiac arrest; Saltwater causes alveolar fluid shift & pulmonary oedema",
+    "explanation_bn": "মিষ্টি পানি (Freshwater) হাইপোটোনিক হওয়ায় ফুসফুস থেকে দ্রুত রক্তস্রোতে শোষিত হয়ে রক্তের পরিমাণ বৃদ্ধি (হিমোডাইলিউশন) ও লোহিত রক্তকণিকা ভেঙে ফেলে।\nRBC লাইসিসের কারণে তীব্র হাইপারক্যালেমিয়া ঘটে যা আকস্মিক ভেন্ট্রিকুলার ফিব্রিলেশন ও কার্ডিয়াক অ্যারেস্টের দিকে নিয়ে যায়।\nঅপরদিকে সমুদ্রের লবণাক্ত পানি (Saltwater) হাইপারটোনিক হওয়ায় রক্তনালী থেকে পানি ফুসফুসের অ্যালভিওলাইতে টেনে এনে তীব্র পালমোনারি ইডিমা ও শ্বাসরোধ ঘটায়।"
+  },
+  {
+    "topic": "Environmental Medicine",
+    "question": "Difference between Dry Drowning and Wet Drowning and primary cause of drowning death",
+    "answer": "Dry drowning involves fatal laryngospasm without water entering lungs; most common cause of death is Asphyxia",
+    "explanation_bn": "ড্রাই ড্রাউনিংয়ে পানির সামান্য স্পর্শে ল্যারিঙ্কসের তীব্র খিঁচুনি (laryngospasm) হয়, ফলে ফুসফুসে পানি না ঢুকেই শ্বাসনালী বন্ধ হয়ে যায় (প্রায় ১০-১৫% ক্ষেত্রে)।\nওয়েট ড্রাউনিংয়ে প্রচুর পানি শ্বাসনালী ও ফুসফুসে প্রবেশ করে অ্যালভিওলাই ডুবিয়ে দেয়।\nড্রাউনিং মিষ্টি পানিতে হোক বা লবণাক্ত পানিতে, মৃত্যুর চূড়ান্ত ও প্রধান কারণ হলো অক্সিজেন স্বল্পতাজনিত শ্বাসরোধ (Asphyxia)।"
+  }
+]

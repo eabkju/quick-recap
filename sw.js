@@ -1,4 +1,4 @@
-const CACHE_NAME = 'quick-recap-v10';
+const CACHE_NAME = 'quick-recap-v11';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -12,7 +12,9 @@ const ASSETS_TO_CACHE = [
   './database/dermatology.json',
   './database/endocrinology.json',
   './database/envenomation.json',
+  './database/environmental_medicine.json',
   './database/gastroenterology.json',
+  './database/geriatrics.json',
   './database/haematology.json',
   './database/immunology.json',
   './database/infectious_diseases.json',
