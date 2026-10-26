@@ -1,0 +1,62 @@
+[
+  {
+    "topic": "Toxicology",
+    "question": "Classic target organ complication in paracetamol overdose",
+    "answer": "Hepatic failure",
+    "explanation_bn": "প্যারাসিটামলের বিষাক্ত মেটাবোলাইট NAPQI গ্লুটাথিয়ন নিঃশেষ করে হেপাটোসাইটে তীব্র নেক্রোসিস ঘটায়।\nএর ফলে ওভারডোজের ২৪-৭২ ঘণ্টার মধ্যে একিউট লিভার ফেইলিওর এবং লিভার এনজাইম (ALT/AST) মারাত্মক বৃদ্ধি পায়।\nচিকিৎসায় সময়মতো প্রতিষেধক এন-অ্যাসিটাইলসিস্টাইন (NAC) প্রয়োগ জীবন রক্ষাকারী।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Characteristic early symptoms and signs of salicylate toxicity",
+    "answer": "Tinnitus + hyperventilation",
+    "explanation_bn": "অ্যাসপিরিন বা স্যালিসাইলেট বিষক্রিয়ার প্রাথমিক ও বৈশিষ্ট্যপূর্ণ লক্ষণ হলো কানে ভোঁ ভোঁ শব্দ হওয়া (টিনিটাস)।\nএকই সাথে এটি মস্তিষ্কের শ্বাসকেন্দ্র সরাসরি উদ্দীপিত করায় রোগী দ্রুত ও জোরে শ্বাস নেয় (হাইপারভেন্টিলেশন)।\nএর ফলে প্রাথমিক রেসপিরেটরি অ্যালকালোসিস তৈরি হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Clinical features and ECG changes in Tricyclic Antidepressant (TCA) overdose",
+    "answer": "Anticholinergic features + seizures; wide QRS, hypotension, ventricular arrhythmia",
+    "explanation_bn": "ট্রাইসাইক্লিক অ্যান্টিডিপ্রেসেন্ট (TCA) বিষক্রিয়ায় শুষ্ক মুখ, ডাইলেটেড পিউপিল এবং প্রস্রাব আটকে থাকার মতো অ্যান্টিকোলিনার্জিক লক্ষণ দেখা দেয়।\nকার্ডিয়াক মায়োসাইটে ফাস্ট সোডিয়াম চ্যানেল ব্লক করার কারণে ইসিজিতে QRS কমপ্লেক্স চওড়া (> 100 ms) হয়ে যায়।\nএর ফলে মারাত্মক হাইপোটেনশন, খিঁচুনি এবং ভেন্ট্রিকুলার ট্যাকাইকার্ডিয়া হতে পারে; চিকিৎসায় সোডিয়াম বাইকার্বনেট দেওয়া হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Clinical features of acute and chronic lithium toxicity",
+    "answer": "GI upset + coarse tremor, ataxia, myoclonus",
+    "explanation_bn": "বাইপোলার ডিসঅর্ডারে ব্যবহৃত লিথিয়ামের থেরাপিউটিক উইন্ডো খুব সংকীর্ণ (0.4-1.0 mmol/L)।\nটক্সিসিটি শুরু হলে বমি ও ডায়রিয়ার মতো গ্যাস্ট্রোইনটেস্টাইনাল উপসর্গ দেখা দেয়।\nপরবর্তীতে নিউরোটক্সিসিটির কারণে কোর্স ট্রেমর (হাত কাঁপা), অ্যাটাক্সিয়া (টলমল হাঁটা), মায়োক্লোনাস ও বিভ্রান্তি তৈরি হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Clinical presentation and specific danger of beta-blocker overdose",
+    "answer": "Bradycardia + hypotension; propranolol may cause seizures",
+    "explanation_bn": "বিটা-ব্লকার অতিরিক্ত মাত্রায় সেবনে হৃদস্পন্দন কমে ব্রাডিকার্ডিয়া এবং রক্তচাপ কমে সিভিয়ার হাইপোটেনশন হয়।\nপ্রোপ্রানোলল লিপিড-সলিবল হওয়ায় রক্ত-মস্তিষ্ক প্রাচীর ভেদ করে কেন্দ্রীয় স্নায়ুতন্ত্রে ঢুকে খিঁচুনি ঘটাতে পারে।\nমারাত্মক ওভারডোজে নির্দিষ্ট প্রতিষেধক হিসেবে হাই-ডোজ গ্লুকাগন (Glucagon) ব্যবহার করা হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Distinguishing clinical presentation of Calcium Channel Blocker (CCB) toxicity",
+    "answer": "Hypotension, bradycardia/heart block + hyperglycaemia",
+    "explanation_bn": "ক্যালসিয়াম চ্যানেল ব্লকার ওভারডোজে হাইপোটেনশন এবং ব্রাডিকার্ডিয়া বা বিভিন্ন ধরনের হার্ট ব্লক সৃষ্টি হয়।\nপ্যানক্রিয়াসের বিটা-কোষে ক্যালসিয়াম ইনফ্লাক্স আটকে দেওয়ায় ইনসুলিন নিঃসরণ ব্যাহত হয়ে রক্তে গ্লুকোজ বেড়ে যায় (হাইপারগ্লাইসেমিয়া)।\nএই হাইপারগ্লাইসেমিয়া দেখে একে ক্লিনিক্যালি বিটা-ব্লকার টক্সিসিটি থেকে আলাদা করা যায়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Clinical and cardiac manifestations of digoxin or oleander poisoning",
+    "answer": "GI symptoms + arrhythmias; atrial tachycardia with AV block, hyperkalaemia, yellow vision (Xanthopsia)",
+    "explanation_bn": "ডিগক্সিন বা করবী ফুলের (ওলিয়েন্ডার) বিষক্রিয়ায় প্রথমে বমি বমি ভাব, বমি ও পেটে ব্যথা শুরু হয়।\nসবচেয়ে বৈশিষ্ট্যপূর্ণ কার্ডিয়াক অ্যারিথমিয়া হলো ভেন্ট্রিকুলার একটোপিকস এবং AV ব্লক সহ অ্যাট্রিয়াল ট্যাকাইকার্ডিয়া (PAT with block)।\nএছাড়া Na+/K+ ATPase ব্লকের কারণে হাইপারক্যালেমিয়া এবং চোখের দৃষ্টিতে হলুদ বা সবুজ আভা (Xanthopsia) দেখা দেয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Phases and major complications of acute iron poisoning",
+    "answer": "Haematemesis/black stool -> shock, acidosis; delayed hepatic failure",
+    "explanation_bn": "আয়রন বিষক্রিয়ায় গ্যাস্ট্রিক মিউকোসার সরাসরি ক্ষতের কারণে রক্তবমি (হেমাটেমেসিস) ও কালো পায়খানা দেখা দেয়।\nএরপর ফ্লুইড লস এবং মাইটোকন্ড্রিয়াল টক্সিসিটির কারণে হাইপোভোলেমিক শক এবং তীব্র মেটাবলিক অ্যাসিডোসিস হয়।\nরোগী কিছুটা স্থিতিশীল হওয়ার পর ২-৪ দিনের মধ্যে বিলম্বে তীব্র হেপাটিক ফেইলিওর সৃষ্টি হতে পারে; প্রতিষেধক হলো ডেফেরক্সামিন।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Major life-threatening risk in insulin or sulfonylurea overdose",
+    "answer": "Prolonged hypoglycaemia -> seizures/coma",
+    "explanation_bn": "ইনসুলিন বা সালফোনাইলইউরিয়া ডায়াবেটিস ওষুধের ওভারডোজে রক্তে শর্করার মাত্রা বিপজ্জনকভাবে কমে যায়।\nসালফোনাইলইউরিয়ার অর্ধায়ু দীর্ঘ হওয়ায় দীর্ঘস্থায়ী এবং পুনরাবৃত্তিমূলক হাইপোগ্লাইসেমিয়া সৃষ্টি করে।\nমস্তিষ্কে গ্লুকোজের অভাবে রোগীর অচেতনতা, খিঁচুনি এবং দীর্ঘস্থায়ী কোমা ও ব্রেন ড্যামেজ হতে পারে।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Rare but life-threatening metabolic complication of metformin overdose",
+    "answer": "Lactic acidosis",
+    "explanation_bn": "মেটফরমিন অতিরিক্ত মাত্রায় জমলে মাইটোকন্ড্রিয়াল রেসপিরেটরি চেইনের কমপ্লেক্স-১ বাধাগ্রস্ত হয়।\nএর ফলে পাইরুভেট থেকে ল্যাকটেট রূপান্তর অস্বাভাবিক বেড়ে গিয়ে মেটফরমিন-অ্যাসোসিয়েটেড ল্যাকটিক অ্যাসিডোসিস (MALA) ঘটে।\nবিশেষ করে রেনাল ফেইলিওর বা হাইপোপারফিউশনে তীব্র অ্যাসিডোসিসের কারণে মৃত্যুর ঝুঁকি বাড়ে; ডায়ালাইসিস কার্যকর চিকিৎসা।"
+  }
+]

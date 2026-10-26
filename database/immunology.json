@@ -1,0 +1,146 @@
+[
+  {
+    "topic": "Immunology",
+    "question": "Primary site of B-cell maturation",
+    "answer": "Bone marrow",
+    "explanation_bn": "বি-লিম্ফোসাইট বা B-সেল অস্থিমজ্জা (Bone marrow)-তেই উৎপত্তি লাভ করে এবং এখানেই এর পরিপক্বতা (maturation) সম্পন্ন হয়।\nপরিপক্ব B কোষগুলো পরবর্তীতে রক্ত ও লসিকার মাধ্যমে সেকেন্ডারি লিম্ফয়েড অঙ্গে স্থানান্তরিত হয়।\nএখানেই অ্যান্টিবডি রিসেপ্টর সমৃদ্ধ কার্যকরী ইমিউন সেল তৈরি হয়।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Primary site of T-cell maturation",
+    "answer": "Thymus",
+    "explanation_bn": "টি-লিম্ফোসাইটের প্রিকার্সর সেল অস্থিমজ্জায় তৈরি হলেও তাদের পরিপক্বতা ও নির্বাচন থাইমাস (Thymus) গ্রন্থিতে ঘটে।\nথাইমাসে পজিটিভ ও নেগেটিভ সিলেকশনের মাধ্যমে অটোইমিউনিটি প্রতিরোধকারী সক্ষম টি-সেল গঠিত হয়।\nবয়ঃবৃদ্ধির সাথে সাথে থাইমাস সংকুচিত (ইনভোলিউশন) হতে থাকে।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Secondary lymphoid organs in humans",
+    "answer": "Lymph nodes, spleen and MALT (mucosa-associated lymphoid tissue)",
+    "explanation_bn": "সেকেন্ডারি লিম্ফয়েড অঙ্গগুলোতেই অ্যান্টিজেন ও ইমিউন কোষের মধ্যে প্রধান মিথস্ক্রিয়া ও রোগ প্রতিরোধ প্রতিক্রিয়া শুরু হয়।\nএর মধ্যে লিম্ফ নোড লসিকা ফিল্টার করে, প্লীহা (স্প্লিন) রক্তের অ্যান্টিজেন ও প্যাথোজেন ফিল্টার করে।\nএবং MALT (যেমন টনসিল, পেয়ার্স প্যাচ) মিউকোসাল পৃষ্ঠে প্রথম প্রতিরক্ষা গড়ে তোলে।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Effector cells of innate immunity",
+    "answer": "Neutrophils, macrophages, NK cells, eosinophils, basophils and mast cells",
+    "explanation_bn": "সহজাত বা ইননেট ইমিউনিটি হলো শরীরের দ্রুত ও অ-নির্দিষ্ট প্রথম সারির প্রতিরক্ষা ব্যবস্থা।\nনিউট্রোফিল ও ম্যাক্রোফেজ ফ্যাগোসাইটোসিসের মাধ্যমে জীবাণু ধ্বংস করে এবং এনকে (NK) সেল টিউমার ও ভাইরাস-আক্রান্ত কোষ ধ্বংস করে।\nইওসিনোফিল, বেসোফিল ও মাস্ট সেল মূলত প্যারাসাইট সংক্রমণ ও অ্যালার্জিক প্রতিক্রিয়ায় কাজ করে।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Effector cells of adaptive immunity",
+    "answer": "B cells and T cells",
+    "explanation_bn": "অর্জিত বা অ্যাডাপ্টিভ ইমিউনিটি অত্যন্ত নির্দিষ্ট (specific) এবং ইমিউনোলজিক্যাল মেমোরি তৈরি করে।\nবি-সেল প্লাজমা কোষে রূপান্তরিত হয়ে অ্যান্টিবডি তৈরি করে হিউমোরাল ইমিউনিটি প্রদান করে।\nটি-সেল (যেমন CD4+ হেল্পার টি এবং CD8+ সাইটোটক্সিক টি) সেল-মেডিয়েটেড ইমিউনিটি পরিচালনা করে।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Key characteristics of Immunoglobulin G (IgG)",
+    "answer": "Most abundant serum immunoglobulin; crosses placenta; opsonisation and complement activation",
+    "explanation_bn": "সিরামে সবচেয়ে বেশি পরিমাণে বিদ্যমান অ্যান্টিবডি হলো আইজিজি (IgG, প্রায় ৭৫-৮০%)।\nএটি একমাত্র ইমিউনোগ্লোবুলিন যা প্ল্যাসেন্টা বা গর্ভফুল অতিক্রম করে নবজাতককে নিষ্ক্রিয় প্রতিরোধ ক্ষমতা প্রদান করে।\nএটি জীবাণুকে অপসোনাইজেশন করে ফ্যাগোসাইটোসিস সহজ করে এবং ক্লাসিক্যাল কমপ্লিমেন্ট পাথওয়ে সক্রিয় করে।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Key characteristics of Immunoglobulin A (IgA)",
+    "answer": "Main mucosal/secretory antibody; present in saliva, tears and colostrum",
+    "explanation_bn": "আইজিএ (IgA) হলো মানবদেহের প্রধান সিক্রেটরি ও মিউকোসাল ইমিউনোগ্লোবুলিন।\nএটি লালা, চোখের জল, বুকের দুধ (কোলোস্ট্রাম) এবং অন্ত্র ও শ্বাসতন্ত্রের মিউকাসে ডাইমার আকারে ক্ষরিত হয়।\nএটি মিউকোসাল পৃষ্ঠে ব্যাকটেরিয়া ও ভাইরাসের সংযুক্তি রোধ করে প্রথম সারির সুরক্ষা দেয়।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Key characteristics of Immunoglobulin M (IgM)",
+    "answer": "First antibody in primary response; strongest complement activator",
+    "explanation_bn": "যেকোনো নতুন সংক্রমণে বা প্রাইমারি ইমিউন রেসপন্সে রক্তে সবার আগে আইজিএম (IgM) অ্যান্টিবডি তৈরি হয়।\nএটি পেন্টামার (পাঁচটি ইউনিটের গঠন) আকারের হওয়ায় এর ১০টি অ্যান্টিজেন-বাইন্ডিং সাইট থাকে।\nউচ্চ অ্যাভিডিটির কারণে এটি সবচেয়ে শক্তিশালী কমপ্লিমেন্ট অ্যাক্টিভেটর হিসেবে কাজ করে।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Key characteristics of Immunoglobulin E (IgE)",
+    "answer": "Allergy, anaphylaxis and defence against helminths",
+    "explanation_bn": "আইজিই (IgE) মাস্ট সেল এবং বেসোফিলের উচ্চ এফিনিটি Fc রিসেপ্টরের সাথে যুক্ত থাকে।\nঅ্যালার্জেন প্রবেশ করলে এটি মাস্ট সেল ডিগ্র্যানুলেশন ঘটিয়ে হিস্টামিন নিঃসরণ করে অ্যালার্জি ও অ্যানাফাইল্যাক্সিস তৈরি করে।\nএছাড়া হেলমিন্থ বা কৃমির বিরুদ্ধে ইওসিনোফিল সক্রিয় করে প্রতিরক্ষা প্রদান করে।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Key characteristic and function of Immunoglobulin D (IgD)",
+    "answer": "B-cell receptor",
+    "explanation_bn": "আইজিডি (IgD) খুব সামান্য পরিমাণে সিরামে নির্গত হয় এবং এর মূল ভূমিকা হলো সেল-সারফেস রিসেপ্টর হিসেবে।\nপরিপক্ব কিন্তু অবিবাহিত (naïve) বি-কোষের ঝিল্লিতে এটি IgM-এর সাথে সহ-প্রকাশিত থাকে।\nএটি বি-সেল অ্যাক্টিভেশন এবং অ্যান্টিজেন রিকগনিশনে সংকেত প্রেরণে ভূমিকা রাখে।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Mechanism and clinical examples of Type I hypersensitivity",
+    "answer": "IgE-mediated; anaphylaxis, allergic rhinitis and asthma",
+    "explanation_bn": "টাইপ-১ অতিসংবেদনশীলতা তাৎক্ষণিক (immediate) এবং IgE অ্যান্টিবডি দ্বারা পরিচালিত হয়।\nঅ্যালার্জেনের সাথে IgE যুক্ত হয়ে মাস্ট সেল থেকে হিস্টামিন, লিউকোট্রিন নিঃসরণ ঘটায়।\nএর ক্লাসিক্যাল উদাহরণ হলো অ্যানাফাইল্যাক্সিস, অ্যালার্জিক রাইনাইটিস (খড়জ্বর) এবং ব্রঙ্কিয়াল অ্যাজমা।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Mechanism and clinical examples of Type II hypersensitivity",
+    "answer": "IgG/IgM against cells or receptors; autoimmune haemolytic anaemia, Goodpasture syndrome and myasthenia gravis",
+    "explanation_bn": "টাইপ-২ অতিসংবেদনশীলতা হলো সাইটোটক্সিক বা রিসেপ্টর-টার্গেটেড প্রতিক্রিয়া, যা IgG বা IgM দ্বারা ঘটে।\nঅ্যান্টিবডি নির্দিষ্ট কোষের পৃষ্ঠের অ্যান্টিজেন বা রিসেপ্টরের সাথে আবদ্ধ হয়ে কোষ ধ্বংস বা কার্যকলাপে ব্যাঘাত ঘটায়।\nঅটোইমিউন হেমোলাইটিক অ্যানিমিয়া, গুডপাসচার সিন্ড্রোম এবং মায়াস্থেনিয়া গ্র্যাভিস এর উৎকৃষ্ট উদাহরণ।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Mechanism and clinical examples of Type III hypersensitivity",
+    "answer": "Immune-complex deposition; SLE, serum sickness and post-streptococcal glomerulonephritis",
+    "explanation_bn": "টাইপ-৩ হলো ইমিউন-কমপ্লেক্স মেডিয়েটেড অতিসংবেদনশীলতা, যেখানে অ্যান্টিজেন-অ্যান্টিবডি কমপ্লেক্স রক্তনালী বা টিস্যুতে জমা হয়।\nজমা হওয়া কমপ্লেক্স কমপ্লিমেন্ট সক্রিয় করে নিউট্রোফিল আকর্ষণ করে টিস্যু প্রদাহ ও ক্ষতি ঘটায়।\nসিস্টেমিক লুপাস এরিথেমাটোসাস (SLE), সিরাম সিকনেস এবং পোস্ট-স্ট্রেপ্টোকক্কাল গ্লোমেরুলোনেফ্রাইটিস (PSGN) এর উদাহরণ।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Mechanism and clinical examples of Type IV hypersensitivity",
+    "answer": "T-cell mediated; contact dermatitis, tuberculin test and type 1 diabetes mellitus",
+    "explanation_bn": "টাইপ-৪ অতিসংবেদনশীলতা কোনো অ্যান্টিবডি দ্বারা নয়, বরং সংবেদনশীল টি-সেল দ্বারা পরিচালিত হয় (Delayed type)।\nটি-সেল সাইটোকাইন নিঃসৃত করে ম্যাক্রোফেজকে সক্রিয় করে ২৪ থেকে ৭২ ঘণ্টার মধ্যে প্রদাহ সৃষ্টি করে।\nকন্টাক্ট ডার্মাটাইটিস, টিউবারকুলিন (ম্যান্টোক্স) স্কিন টেস্ট এবং টাইপ ১ ডায়াবেটিস মেলিটাস এর প্রধান উদাহরণ।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Predominant infections seen in B-cell deficiency",
+    "answer": "Recurrent encapsulated bacterial infections",
+    "explanation_bn": "বি-কোষ বা অ্যান্টিবডির ঘাটতি (যেমন X-লিঙ্কড অ্যাগামাগ্লোবুলিনেমিয়া) হলে অপসোনাইজেশন দুর্বল হয়ে পড়ে।\nএর ফলে ক্যাপসুলযুক্ত ব্যাকটেরিয়া (Streptococcus pneumoniae, Haemophilus influenzae, Neisseria) দ্বারা বারবার সংক্রমণ হয়।\nরোগীদের ফুসফুসে বারবার নিউমোনিয়া, সাইনোসাইটিস এবং ওটাইটিস মিডিয়া দেখা দেয়।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Predominant infections seen in T-cell deficiency",
+    "answer": "Viral, fungal and opportunistic infections",
+    "explanation_bn": "টি-কোষের ঘাটতিতে (যেমন ডিজর্জ সিন্ড্রোম বা এইচআইভি/এইডস) সেল-মেডিয়েটেড ইমিউনিটি ভেঙে পড়ে।\nফলে ভাইরাস (CMV, HSV, VZV), ছত্রাক (Candida, Pneumocystis jirovecii) এবং অন্যান্য সুবিধাবাদী জীবাণু আক্রমণ করে।\nশিশুদের ক্ষেত্রে ওজন না বাড়া (failure to thrive) এবং বারবার মারাত্মক সংক্রমণ প্রকাশ পায়।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Manifestations and classic example of combined immunodeficiency",
+    "answer": "Severe recurrent bacterial, viral and fungal infections; classic example: SCID",
+    "explanation_bn": "কম্বাইন্ড ইমিউনোডেফিসিয়েন্সিতে বি-সেল এবং টি-সেল উভয়ের কার্যকারিতাই নষ্ট হয়ে যায়।\nএর ফলে রোগী ব্যাকটেরিয়া, ভাইরাস ও ফাঙ্গাস সব ধরনের জীবাণু দিয়েই মারাত্মক পুনরাবৃত্তিমুখী সংক্রমণে ভোগে।\nএর সবচেয়ে মারাত্মক রূপ হলো সিভিয়ার কম্বাইন্ড ইমিউনোডেফিসিয়েন্সি (SCID), যা প্রাথমিক অস্থিমজ্জা প্রতিস্থাপন ছাড়া মারাত্মক হতে পারে।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Infection pattern and example disease of phagocyte defect",
+    "answer": "Deep bacterial/fungal abscesses; chronic granulomatous disease",
+    "explanation_bn": "ফ্যাগোসাইটিক কোষ (নিউট্রোফিল/ম্যাক্রোফেজ) ত্রুটিতে অনুজীব ধ্বংসের অক্সিডেটিভ বার্স্ট ব্যাহত হয়।\nএর ফলে ক্যাটালেজ-পজিটিভ ব্যাকটেরিয়া (Staph aureus) ও ফাঙ্গাস (Aspergillus) দ্বারা গভীর টিস্যু ও অঙ্গে ফোঁড়া (abscess) তৈরি হয়।\nএর প্রধান ক্লাসিক্যাল উদাহরণ হলো ক্রনিক গ্র্যানুলোমেটাস ডিজিজ (CGD)।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Characteristic infection in terminal complement (C5–C9) deficiency",
+    "answer": "Recurrent Neisseria infection",
+    "explanation_bn": "কমপ্লিমেন্ট সিস্টেমের শেষ অংশ C5 থেকে C9 মিলে মেমব্রেন অ্যাটাক কমপ্লেক্স (MAC) গঠন করে ব্যাকটেরিয়াল লাইসিস ঘটায়।\nএই টার্মিনাল উপাদানগুলোর ঘাটতি থাকলে পাতলা প্রাচীরবিশিষ্ট নেইসেরিয়া ব্যাকটেরিয়ার বিরুদ্ধে প্রতিরক্ষা নষ্ট হয়।\nফলে রোগীদের বারবার মেনিনগোকক্কাল মেনিনজাইটিস বা ডিসেমিনেটেড গনোকক্কাল ইনফেকশন দেখা দেয়।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Clinical condition caused by C1 esterase inhibitor deficiency",
+    "answer": "Hereditary angioedema",
+    "explanation_bn": "সি১ এস্টারেজ ইনহিবিটরের বংশগত ঘাটতি বা অকার্যকারিতায় ব্র্যাডিকাইনিন অতিরিক্ত বৃদ্ধি পায়।\nএর ফলে কোনো চুলকানি বা আর্টিকেরিয়া ছাড়াই পুনরাবৃত্তিমূলক মুখ, ঠোঁট, ল্যারিংস এবং অন্ত্রের অ্যানজিওইডিমা (ফোলা) হয়।\nল্যারিঞ্জিয়াল ইডিমা শ্বাসনালী বন্ধ করে দিয়ে শ্বাসরোধের মাধ্যমে জীবননাশের কারণ হতে পারে।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Kinetics and diagnostic significance of C-reactive protein (CRP)",
+    "answer": "Rises rapidly in acute inflammation, especially bacterial infection",
+    "explanation_bn": "সিআরপি (CRP) হলো লিভার থেকে উৎপন্ন একটি একিউট ফেজ রিঅ্যাক্ট্যান্ট যা ইন্টারলিউকিন-৬ এর প্রভাবে নিঃসৃত হয়।\nতীব্র প্রদাহ বা ব্যাকটেরিয়াল ইনফেকশনে এটি ৪ থেকে ৬ ঘণ্টার মধ্যে দ্রুত বাড়তে শুরু করে এবং ৪৮ ঘণ্টায় শীর্ষে পৌঁছায়।\nইনফেকশন সেরে গেলে এর মাত্রা দ্রুত স্বাভাবিক হয়ে আসে, তাই রোগ নির্ণয় ও চিকিৎসা ফলোআপে এটি অত্যন্ত নির্ভরযোগ্য।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Kinetics and influencing factors of Erythrocyte Sedimentation Rate (ESR)",
+    "answer": "Rises slowly and is influenced by anaemia, pregnancy and age",
+    "explanation_bn": "ইএসআর (ESR) প্রদাহের প্রতিক্রিয়ায় ধীরে বাড়ে এবং প্রদাহ কমার পরও স্বাভাবিক হতে কয়েক সপ্তাহ সময় নেয়।\nএটি প্লাজমা প্রোটিন বিশেষ করে ফাইব্রিনোজেন জমার ওপর নির্ভরশীল যা লোহিত রক্তকণিকাকে রুলো (Rouleaux) গঠনে সহায়তা করে।\nরক্তশূন্যতা (অ্যানিমিয়া), গর্ভাবস্থা এবং বার্ধক্যের কারণে কোনো সংক্রমণ ছাড়াও ESR স্বাভাবিকের চেয়ে বেশি হতে পারে।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Inflammatory marker pattern in SLE (Systemic Lupus Erythematosus)",
+    "answer": "ESR often raised with relatively normal CRP; marked CRP rise suggests infection",
+    "explanation_bn": "এসএলই (SLE) ডিজিজ ফ্লেয়ারে সাধারণত ইএসআর (ESR) অনেক বেশি থাকে কিন্তু সিআরপি (CRP) স্বাভাবিক বা সামান্য বৃদ্ধি পায়।\nএর কারণ টাইপ ১ ইন্টারফেরন লিভারে CRP উৎপাদনকে প্রতিহত করে।\nলুপাস রোগীর CRP উল্লেখযোগ্যভাবে বৃদ্ধি পেলে তা রোগের নিজস্ব ফ্লেয়ার নয়, বরং ইন্টারকারেন্ট ব্যাকটেরিয়াল ইনফেকশনের ইঙ্গিত দেয়।"
+  },
+  {
+    "topic": "Immunology",
+    "question": "Clinical significance of a very high CRP level (> 100 mg/L)",
+    "answer": "Severe bacterial infection or sepsis",
+    "explanation_bn": "সিআরপির মান অত্যন্ত বেশি হওয়া (বিশেষ করে ১০০ mg/L এর বেশি) মারাত্মক ব্যাকটেরিয়াল ইনফেকশন বা সেপসিসের ইঙ্গিতবাহী।\nসাধারণ ভাইরাল সংক্রমণে সাধারণত CRP এত তীব্র মাত্রায় ওঠে না।\nএছাড়া গুরুতর সিস্টেমিক ভাস্কুলাইটিস বা বড় ধরনের টিস্যু নেক্রোসিসেও উচ্চ সিআরপি দেখা যেতে পারে।"
+  }
+]

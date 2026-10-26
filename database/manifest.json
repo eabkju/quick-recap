@@ -45,6 +45,15 @@
     ]
   },
   {
+    "id": "immunology",
+    "filename": "immunology.json",
+    "title": "Immunology",
+    "count": 24,
+    "topics": [
+      "Immunology"
+    ]
+  },
+  {
     "id": "infectious_diseases",
     "filename": "infectious_diseases.json",
     "title": "Infectious Diseases",
@@ -57,7 +66,7 @@
     "id": "nephrology",
     "filename": "nephrology.json",
     "title": "Nephrology",
-    "count": 55,
+    "count": 68,
     "topics": [
       "Nephrology"
     ]
@@ -95,15 +104,15 @@
     "title": "Respiratory Quick Recap All 70 Explained",
     "count": 70,
     "topics": [
-      "Respiratory Failure",
-      "Upper Respiratory Tract Infection (URTI)",
-      "Tuberculosis (TB)",
-      "Pneumonia",
       "Bronchiectasis",
-      "Lung Cancer",
+      "Tuberculosis (TB)",
+      "Approach to Dyspnea",
+      "Respiratory Failure",
       "Asthma and COPD",
+      "Pneumonia",
       "Pleural Diseases",
-      "Approach to Dyspnea"
+      "Upper Respiratory Tract Infection (URTI)",
+      "Lung Cancer"
     ]
   },
   {
@@ -113,6 +122,15 @@
     "count": 104,
     "topics": [
       "Rheumatology"
+    ]
+  },
+  {
+    "id": "toxicology",
+    "filename": "toxicology.json",
+    "title": "Toxicology",
+    "count": 10,
+    "topics": [
+      "Toxicology"
     ]
   }
 ]

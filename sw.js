@@ -1,4 +1,4 @@
-const CACHE_NAME = 'quick-recap-v8';
+const CACHE_NAME = 'quick-recap-v9';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -13,13 +13,15 @@ const ASSETS_TO_CACHE = [
   './database/endocrinology.json',
   './database/gastroenterology.json',
   './database/haematology.json',
+  './database/immunology.json',
   './database/infectious_diseases.json',
   './database/nephrology.json',
   './database/neurology_rapid_recall_all_46_explained.json',
   './database/nutrition_and_metabolism.json',
   './database/psychiatry.json',
   './database/respiratory_rapid_recall_all_70_explained.json',
-  './database/rheumatology.json'
+  './database/rheumatology.json',
+  './database/toxicology.json'
 ];
 
 self.addEventListener('install', (event) => {

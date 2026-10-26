@@ -328,5 +328,83 @@
     "question": "What is the single most common cause of hypercalcaemia in outpatients vs hospitalized inpatients?",
     "answer": "Outpatients: Primary Hyperparathyroidism (> 90%); Hospitalized Inpatients: Malignancy (bony metastases or PTHrP secretion)",
     "explanation_bn": "বহির্বিভাগে আসা সুস্থ রোগীদের হাইপারক্যালসেমিয়ার প্রধান কারণ হলো প্রাইমারি হাইপারপ্যারাথাইরয়েডিজম (প্যারাথাইরয়েড অ্যাডিনোমা)। অন্যদিকে হাসপাতালে ভর্তি গুরুতর রোগীদের ক্ষেত্রে প্রধান কারণ হলো ক্যান্সার বা ম্যালিগন্যান্সি (হাড়ে মেটাস্ট্যাসিস বা PTHrP তৈরি)।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Clinical features of hypercalcaemia",
+    "answer": "\"Bones, stones, abdominal groans and psychiatric overtones\" with polyuria and constipation",
+    "explanation_bn": "হাইপারক্যালসেমিয়ার ক্লাসিক্যাল লক্ষণ মনে রাখার জনপ্রিয় সূত্র হলো 'Bones, stones, groans and psychiatric moans'।\nক্যালসিয়াম বৃদ্ধির ফলে হাড়ে ব্যথা ও অস্টিওপোরোসিস (bones), কিডনিতে পাথর (stones), কোষ্ঠকাঠিন্য ও পেটে তীব্র ব্যথা (groans) এবং বিভ্রান্তি বা বিষণ্ণতা (moans) হয়।\nঅতিরিক্ত ক্যালসিয়াম কিডনির পানি ধরে রাখার ক্ষমতা নষ্ট করায় নেফ্রোজেনিক ডায়াবেটিস ইনসিপিডাসের মতো পলিইউরিয়া ও পলিডিপসিয়া দেখা দেয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Immediate and definitive management of severe hypercalcaemia",
+    "answer": "IV 0.9% saline followed by IV bisphosphonate; calcitonin gives rapid but short-lived reduction",
+    "explanation_bn": "মারাত্মক হাইপারক্যালসেমিয়ার চিকিৎসায় ডিহাইড্রেশন দূর করতে এবং রেনাল ক্যালসিয়াম রেচন বাড়াতে প্রথমে প্রচুর পরিমাণে IV নরমাল স্যালাইন (0.9% NaCl) দিতে হয়।\nএরপর দীর্ঘমেয়াদে অস্টিওক্লাস্ট দমন করে ক্যালসিয়াম কমাতে IV বিসফসফোনেট (যেমন জোলিড্রোনিক এসিড বা প্যামিড্রোনাইট) প্রয়োগ করা হয়।\nক্যালসিটোনিন কয়েক ঘণ্টার মধ্যেই দ্রুত ক্যালসিয়াম কমায়, তবে অল্প সময়ে ট্যাকাইফাইল্যাক্সিস তৈরি হওয়ায় এটি কেবল প্রাথমিক ইমার্জেন্সি ব্রিজ হিসেবে ব্যবহৃত হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Common causes of hypomagnesaemia",
+    "answer": "Alcohol misuse, diarrhoea/malabsorption, PPIs, diuretics, aminoglycosides and cisplatin",
+    "explanation_bn": "দীর্ঘমেয়াদী অ্যালকোহল সেবন, ক্রনিক ডায়রিয়া বা ম্যালঅ্যাবজরপশন সিন্ড্রোম হাইপোম্যাগনেসিমিয়ার প্রধান গ্যাস্ট্রোইনটেস্টাইনাল কারণ।\nওষুধের মধ্যে লুপ বা থায়াজাইড মূত্রবর্ধক (ডাইইউরেটিক্স) এবং দীর্ঘদিন প্রোটন পাম্প ইনহিবিটর (PPI) সেবনে ম্যাগনেসিয়াম হ্রাস পায়।\nএছাড়া কিডনির জন্য ক্ষতিকর ওষুধ যেমন অ্যামিনোগ্লাইকোসাইড অ্যান্টিবায়োটিক এবং সিসপ্লাটিন কেমোথেরাপির রেনাল ম্যাগনেসিয়াম লস ঘটায়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Clinical clues and complications of hypomagnesaemia",
+    "answer": "Tetany, seizures, torsades de pointes, hypocalcaemia and refractory hypokalaemia",
+    "explanation_bn": "রক্তে ম্যাগনেসিয়াম কমে গেলে স্নায়ু ও পেশির উত্তেজনা বৃদ্ধি পেয়ে টিটানি, মাংসপেশিতে টান এবং খিঁচুনি দেখা দেয়।\nইসিজিতে কিউটি ব্যবধান (QT interval) দীর্ঘায়িত হয়ে বিপজ্জনক ভেন্ট্রিকুলার অ্যারিথমিয়া 'টরসেডস ডি পয়েন্টস' (Torsades de pointes) হতে পারে।\nসবচেয়ে গুরুত্বপূর্ণ হলো, ম্যাগনেসিয়াম ঠিক না করা পর্যন্ত হাইপোক্যালসেমিয়া এবং রিফ্র্যাক্টরি হাইপোক্যালেমিয়া পটাশিয়াম বা ক্যালসিয়াম দিয়েও স্বাভাবিক করা যায় না।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Treatment of severe or symptomatic hypomagnesaemia",
+    "answer": "Treat with IV magnesium (magnesium sulphate)",
+    "explanation_bn": "তীব্র বা উপসর্গযুক্ত হাইপোম্যাগনেসিমিয়া দেখা দিলে তাৎক্ষণিকভাবে ইন্ট্রাভেনাস (IV) ম্যাগনেসিয়াম সালফেট ইনফিউশন দিতে হয়।\nবিশেষ করে অ্যারিথমিয়া বা খিঁচুনির মতো জীবনঘাতী জটিলতায় দ্রুত অথচ সতর্কভাবে স্লো IV ম্যাগনেসিয়াম প্রয়োগ আবশ্যক।\nলক্ষণবিহীন মৃদু ক্ষেত্রে ওরাল ম্যাগনেসিয়াম সল্ট দিয়ে ঘাটতি পূরণ করা যেতে পারে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Normal reference ranges for Arterial Blood Gas (ABG)",
+    "answer": "pH 7.35–7.45; PaCO2 35–45 mmHg; HCO3- 22–26 mmol/L",
+    "explanation_bn": "ধমনীর রক্ত গ্যাস (ABG) বিশ্লেষণে স্বাভাবিক pH মাত্রা হলো ৭.৩৫ থেকে ৭.৪৫।\nকার্বন ডাই-অক্সাইডের আংশিক চাপ (PaCO2) স্বাভাবিকভাবে ৩৫–৪৫ mmHg এবং সিরাম বাইকার্বনেট (HCO3-) ২২–২৬ mmol/L থাকে।\nএই তিনটি প্রধান মান পর্যবেক্ষণ করেই মেটাবলিক বা রেসপিরেটরি অ্যাসিডোসিস এবং অ্যালকালোসিস সঠিকভাবে চিহ্নিত করা হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Definition and primary laboratory finding of metabolic acidosis",
+    "answer": "Decreased serum bicarbonate (↓ HCO3-) with pH < 7.35",
+    "explanation_bn": "মেটাবলিক অ্যাসিডোসিস হলো এমন একটি অবস্থা যেখানে রক্তে বাইকার্বনেট (HCO3-) হ্রাস পায় এবং রক্তের pH ৭.৩৫ এর নিচে নেমে যায়।\nশরীর ক্ষতিপূরণ (compensation) করার জন্য ফুসফুসের মাধ্যমে দ্রুত ও গভীর শ্বাস ফেলে (Kussmaul breathing) কার্বন ডাই-অক্সাইড বের করে দেয়।\nঅ্যানায়ন গ্যাপের পরিমাণের ওপর ভিত্তি করে একে হাই অ্যানায়ন গ্যাপ বা নরমাল অ্যানায়ন গ্যাপে ভাগ করা হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Causes of high anion gap metabolic acidosis (HAGMA)",
+    "answer": "DKA, lactic acidosis, uraemia, salicylate, methanol, ethylene glycol",
+    "explanation_bn": "হাই অ্যানায়ন গ্যাপ মেটাবলিক অ্যাসিডোসিস সাধারণত শরীরে অ্যাসিডিক মেটাবোলাইটের আধিক্যের কারণে ঘটে (GOLDMARK/MUDPILES)।\nডায়াবেটিক কিটোঅ্যাসিডোসিস (DKA), টিস্যু হাইপোক্সিয়ার কারণে ল্যাকটিক অ্যাসিডোসিস এবং কিডনি ব্যর্থতায় ইউরেমিয়া প্রধান অন্তর্নিহিত কারণ।\nবিষক্রিয়ার ক্ষেত্রে অ্যাসপিরিন (স্যালিসাইলেট), বিষাক্ত কাঠ-অ্যালকোহল মিথানল এবং অ্যান্টিফ্রিজ ইথিলিন গ্লাইকল সেবনে HAGMA হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Causes of normal anion gap metabolic acidosis (NAGMA / Hyperchloraemic)",
+    "answer": "Diarrhoea, Renal Tubular Acidosis (RTA)",
+    "explanation_bn": "নরমাল অ্যানায়ন গ্যাপ মেটাবলিক অ্যাসিডোসিসে বাইকার্বনেট কমে গেলে সমপরিমাণ ক্লোরাইড বেড়ে বৈদ্যুতিক নিরপেক্ষতা বজায় থাকে (হাইপারক্লোরেমিক)।\nতীব্র ডায়রিয়ার কারণে অন্ত্র থেকে প্রচুর পরিমাণে ক্ষারীয় বাইকার্বনেট বের হয়ে যাওয়া এর সর্বাধিক পরিচিত কারণ।\nএছাড়া রেনাল টিউবিউলার অ্যাসিডোসিস (RTA)-এ কিডনি নালী বাইকার্বনেট পুনঃশোষণ বা হাইড্রোজেন আয়ন নিঃসরণে ব্যর্থ হলেও NAGMA তৈরি হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Definition and causes of metabolic alkalosis",
+    "answer": "Increased serum bicarbonate (↑ HCO3-); caused by vomiting, diuretics, hypokalaemia, hyperaldosteronism",
+    "explanation_bn": "মেটাবলিক অ্যালকালোসিসে রক্তে বাইকার্বনেটের মাত্রা বেড়ে যায় (HCO3- > 26 mmol/L) এবং pH ৭.৪৫ ছাড়িয়ে যায়।\nতীব্র বমি বা ন্যাসোগ্যাস্ট্রিক সাকশনে পাকস্থলীর হাইড্রোক্লোরিক অ্যাসিড বের হয়ে যাওয়া এর মূল কারণ।\nএছাড়া ডাইইউরেটিক্স ব্যবহার, হাইপোক্যালেমিয়া এবং অতিরিক্ত অ্যালডোস্টেরন হরমোন কিডনি দিয়ে হাইড্রোজেন অপচয় ঘটিয়ে ক্ষারত্ব বৃদ্ধি করে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Definition and causes of respiratory acidosis",
+    "answer": "Increased arterial carbon dioxide (↑ PaCO2); caused by COPD, CNS depression, neuromuscular weakness",
+    "explanation_bn": "ফুসফুস পর্যাপ্ত ভেন্টিলেশন করতে না পারলে রক্তে কার্বন ডাই-অক্সাইড জমে গিয়ে (PaCO2 > 45 mmHg) রেসপিরেটরি অ্যাসিডোসিস হয়।\nতীব্র সিওপিডি (COPD) এবং অপিওয়েড বা সিডেটিভ ওভারডোজে শ্বাসকেন্দ্র নিস্তেজ হয়ে পড়া এর সাধারণ কারণ।\nএছাড়া গুলেন-বারে সিন্ড্রোম, মায়াস্থেনিয়া গ্র্যাভিস বা ডায়াফ্রামের স্নায়বিক দুর্বলতায় শ্বাস নিতে না পারলেও এটি ঘটে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Definition and causes of respiratory alkalosis",
+    "answer": "Decreased arterial carbon dioxide (↓ PaCO2); caused by anxiety, hypoxaemia, pulmonary embolism, sepsis, pregnancy",
+    "explanation_bn": "অতিরিক্ত দ্রুত শ্বাসপ্রশ্বাসের (হাইপারভেন্টিলেশন) ফলে রক্ত থেকে অতিরিক্ত কার্বন ডাই-অক্সাইড বের হয়ে PaCO2 কমে গেলে রেসপিরেটরি অ্যালকালোসিস হয়।\nতীব্র উদ্বেগ বা প্যানিক অ্যাটাক, উচ্চতাজনিত হাইপোক্সিয়া এবং পালমোনারি এমবোলিজমে শ্বাসহার বেড়ে এ অবস্থা হয়।\nএছাড়া সেপসিসের প্রাথমিক পর্যায়ে এবং গর্ভাবস্থায় প্রজেস্টেরন হরমোনের প্রভাবেও মৃদু রেসপিরেটরি অ্যালকালোসিস হতে পারে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Characteristic mixed acid-base disorder in salicylate (aspirin) poisoning",
+    "answer": "Respiratory alkalosis + high anion gap metabolic acidosis",
+    "explanation_bn": "স্যালিসাইলেট (অ্যাসপিরিন) বিষক্রিয়া একটি ক্লাসিক্যাল মিশ্র অ্যাসিড-বেস ডিসঅর্ডার প্রদর্শন করে।\nপ্রাথমিকভাবে এটি সরাসরি মস্তিষ্কের শ্বাসকেন্দ্র উদ্দীপিত করে হাইপারভেন্টিলেশনের মাধ্যমে রেসপিরেটরি অ্যালকালোসিস তৈরি করে।\nপরবর্তীতে সেলুলার মেটাবলিজমে অক্সিডেটিভ ফসফোরাইলেশন বাধাগ্রস্ত করে কিটোঅ্যাসিড ও ল্যাকটিক অ্যাসিড জমিয়ে হাই অ্যানায়ন গ্যাপ মেটাবলিক অ্যাসিডোসিস ঘটায়।"
   }
 ]
