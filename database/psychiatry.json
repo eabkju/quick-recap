@@ -112,5 +112,77 @@
     "question": "How is Obsessive-Compulsive Personality Disorder (OCPD) distinguished from OCD?",
     "answer": "OCPD is ego-syntonic (perfectionism and rigidity seen as desirable by the patient), whereas OCD is ego-dystonic (obsessions/compulsions cause distress and are recognized as irrational)",
     "explanation_bn": "ওসিপিডি (OCPD) হলো একটি ব্যক্তিত্বের বৈশিষ্ট্য যা 'ইগো-সিনটোনিক' (ego-syntonic), যেখানে ব্যক্তি তার অতিরিক্ত নিখুঁতভাব ও নিয়মনিষ্ঠাকে সঠিক ও উপযুক্ত মনে করেন। কিন্তু ওসিডি (OCD) হলো 'ইগো-ডিস্টোনিক', যেখানে অনাকাঙ্ক্ষিত চিন্তা ও আচরণগুলো রোগীর নিজের কাছেই চরম যন্ত্রণাদায়ক মনে হয়।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the defining clinical feature of Dissociative Disorders?",
+    "answer": "Disruption or breakdown in the normal integration of memory, identity, consciousness, or perception",
+    "explanation_bn": "ডিসোসিয়েটিভ ডিসঅর্ডার (Dissociative Disorders) হলো এমন এক ধরনের মানসিক অবস্থা যেখানে ব্যক্তির স্মৃতি, আত্মপরিচয় (identity), চেতনা বা বাহ্যিক উপলব্ধির স্বাভাবিক সমন্বয় ভেঙে যায়। মারাত্মক মানসিক ট্রমা বা চাপের প্রতিক্রিয়া হিসেবে অবচেতন মন এই আত্মরক্ষামূলক অবস্থা তৈরি করে।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is Conversion disorder (Functional Neurological Symptom Disorder)?",
+    "answer": "Motor or sensory neurological symptoms without an identifiable neurological/structural disease, often linked to psychological conflict or stress",
+    "explanation_bn": "কনভার্সন ডিসঅর্ডারে (Conversion disorder) রোগীর অঙ্গ অসাড় হওয়া, অন্ধত্ব বা প্যারালাইসিসের মতো স্নায়বিক লক্ষণ দেখা যায়, কিন্তু কোনো শারীরিক স্নায়ুরোগ পাওয়া যায় না। তীব্র মানসিক চাপ, অবদমিত দ্বন্দ্ব বা মানসিক আঘাত শারীরিক স্নায়বিক লক্ষণে রূপান্তরিত (converted) হয়ে প্রকাশ পায়।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the fundamental hallmark feature that distinguishes psychosis from neurosis?",
+    "answer": "Loss of reality contact/testing and impaired insight",
+    "explanation_bn": "সাইকোসিস (Psychosis) এবং নিউরোসিসের (Neurosis) মধ্যে মূল পার্থক্য হলো বাস্তবতার সাথে সংযোগ হারানো এবং ইনসাইট বা অন্তর্দৃষ্টি লোপ পাওয়া। সাইকোসিসের রোগী ডিলুশন বা হ্যালুসিনেশনকে বাস্তব মনে করেন এবং স্বীকার করেন না যে তিনি অসুস্থ, কিন্তু নিউরোসিসের রোগীর বাস্তবতাবোধ ঠিক থাকে এবং তিনি নিজের কষ্ট উপলব্ধি করতে পারেন।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the most prevalent anxiety disorder in the general population?",
+    "answer": "Generalized Anxiety Disorder (GAD)",
+    "explanation_bn": "উদ্বেগজনিত রোগগুলোর মধ্যে সবচেয়ে সাধারণ হলো জেনারেলাইজড অ্যাংজাইটি ডিসঅর্ডার (GAD)। এতে রোগী কোনো নির্দিষ্ট কারণ ছাড়াই প্রতিদিনের সাধারণ কাজকর্ম বা বিষয় নিয়ে কমপক্ষে ৬ মাস ধরে অতিরিক্ত, অনিয়ন্ত্রিত ও দীর্ঘস্থায়ী উদ্বেগে ভোগেন, যার সাথে মাংসপেশির টান ও অস্থিরতা থাকে।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the central clinical feature of Panic Disorder?",
+    "answer": "Recurrent, unpredictable episodic panic attacks with persistent worry about future attacks",
+    "explanation_bn": "প্যানিক ডিসঅর্ডারের প্রধান বৈশিষ্ট্য হলো হঠাৎ তীব্র ভয় বা চরম আতঙ্কের পুনরাবৃত্তিমূলক আক্রমণ (panic attacks), যা কোনো আপাত কারণ ছাড়াই ঘটে। এতে বুক ধড়ফড়, শ্বাসকষ্ট, ঘাম এবং আসন্ন মৃত্যুর ভয় হয়। রোগী পরবর্তীতে আবার এমন অ্যাটাক হওয়ার ভয় (anticipatory anxiety) করতে থাকেন।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is Anhedonia, and of which psychiatric disorder is it a core cardinal symptom?",
+    "answer": "Loss of interest or pleasure in previously enjoyable activities; core symptom of Major Depressive Disorder",
+    "explanation_bn": "অ্যানহেডোনিয়া (Anhedonia) হলো পূর্বে আনন্দদায়ক লাগত এমন সব কাজকর্ম বা শখের প্রতি আগ্রহ ও আনন্দের সম্পূর্ণ অনুভূতিহীনতা। এটি মেজর ডিপ্রেসিভ ডিসঅর্ডার (Major Depressive Disorder) বা বিষণ্ণতার অন্যতম প্রধান নির্দেশক লক্ষণ।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the most common postpartum psychiatric disorder, typically occurring within the first week after delivery?",
+    "answer": "Postpartum blues (Baby blues)",
+    "explanation_bn": "সন্তান প্রসবের পর সবচেয়ে প্রচলিত মানসিক অবস্থা হলো পোস্টপার্টাম ব্লুজ বা বেবি ব্লুজ, যা প্রায় ৫০-৮০% প্রসূতি মায়ের মধ্যে দেখা যায়। সন্তান জন্মের ৩-৫ দিনের মধ্যে মেজাজের ওঠানামা, সামান্য কারণে কান্না ও মৃদু উদ্বেগ দেখা দেয়, যা সাধারণত পর্যাপ্ত বিশ্রাম ও পারিবারিক সাপোর্টে ১-২ সপ্তাহের মধ্যে নিজে থেকেই ভালো হয়ে যায়।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "Which severe psychiatric condition occurring shortly after childbirth is considered a medical and psychiatric emergency?",
+    "answer": "Puerperal (Postpartum) psychosis",
+    "explanation_bn": "পোস্টপার্টাম সাইকোসিস হলো প্রসব-পরবর্তী এক বিরল কিন্তু প্রাণঘাতী জরুরি অবস্থা (psychiatric emergency)। সাধারণত প্রসবের প্রথম দুই সপ্তাহের মধ্যে তীব্র বিভ্রান্তি, দৃষ্টিভ্রম (hallucinations), ভ্রান্ত বিশ্বাস (delusions) এবং নবজাতক বা নিজের ক্ষতি করার মানসিক প্রবণতা দেখা দেয়। এতে রোগীকে অবিলম্বে হাসপাতালে ভর্তি করে চিকিৎসা দেওয়া জরুরি।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the most common eating disorder in adolescent girls characterized by food restriction, low body weight, and distorted body image?",
+    "answer": "Anorexia nervosa",
+    "explanation_bn": "কিশোরীদের মধ্যে সবচেয়ে প্রচলিত গুরুতর ইটিং ডিসঅর্ডার হলো অ্যানোরেক্সিয়া নার্ভোসা (Anorexia nervosa)। রোগীরা প্রচণ্ড রোগা হওয়া সত্ত্বেও নিজেদের মোটা মনে করেন (distorted body image) এবং মোটা হওয়ার তীব্র ভয়ে অনাহারে থেকে বিপজ্জনকভাবে ওজন কমিয়ে ফেলেন। এর ফলে অ্যামেনোরিয়া, অপুষ্টি ও ইলেক্ট্রোলাইট ভারসাম্যহীনতা ঘটে।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is Russell's sign, and in which psychiatric eating disorder is it characteristically found?",
+    "answer": "Calluses or abrasions on the knuckles/dorsal hand caused by repeated self-induced vomiting; characteristic of Bulimia nervosa",
+    "explanation_bn": "রাসেলস সাইন (Russell's sign) হলো হাতের আঙুলের পেছনের গিঁটে (knuckles) শক্ত কড়া বা ঘর্ষণের ক্ষতচিহ্ন। বুলিমিয়া নার্ভোসার রোগীরা অতিরিক্ত খাওয়ার পর গলায় আঙুল দিয়ে বারবার বমি করার চেষ্টা করার সময় দাঁতের সাথে আঙুলের ঘষা লেগে এই ক্ষত সৃষ্টি হয়।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the first-line evidence-based psychological treatment for Bulimia nervosa?",
+    "answer": "Cognitive Behavioural Therapy (CBT)",
+    "explanation_bn": "বুলিমিয়া নার্ভোসার প্রথম সারির সর্বোত্তম চিকিৎসা হলো কগনিটিভ বিহেভিয়ারাল থেরাপি (CBT-ED)। এটি রোগীর খাওয়ার অনিয়ন্ত্রিত আবেগ (binge eating), বমি করার প্রবণতা এবং শারীরিক গঠন নিয়ে অস্বাস্থ্যকর চিন্তাভাবনা পরিবর্তন করতে সাহায্য করে।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "Which medication is the first-line mood stabilizer of choice for Bipolar Disorder?",
+    "answer": "Lithium",
+    "explanation_bn": "বাইপোলার ডিসঅর্ডারের ম্যানিয়া এবং বিষণ্ণতার পর্ব নিয়ন্ত্রণে সবচেয়ে নির্ভরযোগ্য এবং প্রথম সারির মুড স্ট্যাবিলাইজার হলো লিথিয়াম (Lithium)। এটি দীর্ঘমেয়াদী মুড স্থিতিশীল রাখতে এবং রোগীদের আত্মহত্যার প্রবণতা কমাতে অত্যন্ত কার্যকর। এর থেরাপিউটিক উইন্ডো সংকীর্ণ হওয়ায় নিয়মিত রক্তের লিথিয়াম মাত্রা পরীক্ষা করা আবশ্যক।"
   }
 ]

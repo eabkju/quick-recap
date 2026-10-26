@@ -45,6 +45,15 @@
     ]
   },
   {
+    "id": "infectious_diseases",
+    "filename": "infectious_diseases.json",
+    "title": "Infectious Diseases",
+    "count": 25,
+    "topics": [
+      "Infectious Diseases"
+    ]
+  },
+  {
     "id": "nephrology",
     "filename": "nephrology.json",
     "title": "Nephrology",
@@ -66,7 +75,7 @@
     "id": "psychiatry",
     "filename": "psychiatry.json",
     "title": "Psychiatry",
-    "count": 19,
+    "count": 31,
     "topics": [
       "Psychiatry"
     ]
@@ -77,15 +86,15 @@
     "title": "Respiratory Quick Recap All 70 Explained",
     "count": 70,
     "topics": [
+      "Asthma and COPD",
       "Pleural Diseases",
-      "Tuberculosis (TB)",
       "Approach to Dyspnea",
       "Pneumonia",
       "Respiratory Failure",
       "Lung Cancer",
-      "Bronchiectasis",
-      "Asthma and COPD",
-      "Upper Respiratory Tract Infection (URTI)"
+      "Upper Respiratory Tract Infection (URTI)",
+      "Tuberculosis (TB)",
+      "Bronchiectasis"
     ]
   },
   {

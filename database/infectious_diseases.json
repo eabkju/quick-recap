@@ -1,0 +1,152 @@
+[
+  {
+    "topic": "Infectious Diseases",
+    "question": "In the microscopic diagnosis of malaria, what is the role of thick vs thin blood films?",
+    "answer": "Thick film is most sensitive for detecting parasites; thin film identifies the specific Plasmodium species and quantifies parasitemia",
+    "explanation_bn": "ম্যালেরিয়া নির্ণয়ে থিক ও থিন ব্লাড ফিল্মের যৌথ ব্যবহার অপরিহার্য। থিক ফিল্মে রক্তের সেলগুলো জমে থাকে বলে কম সংখ্যক প্যারাসাইট থাকলেও সহজে শনাক্ত করা যায় (সবচেয়ে সংবেদনশীল)। অন্যদিকে থিন ফিল্মে লোহিত রক্তকণিকা অক্ষত থাকে বলে প্লাজমোডিয়ামের নির্দিষ্ট প্রজাতি (যেমন falciparum বা vivax) স্পষ্টভাবে চেনা যায়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What is the drug of choice for severe or complicated Plasmodium falciparum malaria?",
+    "answer": "Intravenous (IV) artesunate",
+    "explanation_bn": "সিভিয়ার ফ্যালসিপেরাম ম্যালেরিয়ার প্রথম সারির জীবনরক্ষাকারী ওষুধ হলো শিরায় প্রয়োগকৃত আর্টেসুনেট (IV artesunate)। এটি কুইনিনের চেয়ে দ্রুত প্যারাসাইট ধ্বংস করে এবং হাইপোগ্লাইসেমিয়ার ঝুঁকি কমায়। রোগী মুখে খাওয়ার মতো অবস্থায় এলে পূর্ণাঙ্গ ACT কোর্স সম্পন্ন করতে হয়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "Which drug eradicates dormant liver hypnozoites in Plasmodium vivax and ovale malaria to prevent relapse, and what test must precede its use?",
+    "answer": "Primaquine; must be preceded by G6PD enzyme deficiency testing",
+    "explanation_bn": "প্লাজমোডিয়াম ভাইভ্যাক্স ও ওভালের ক্ষেত্রে যকৃতে সুপ্ত অবস্থায় থাকা হিপনোজয়েট (hypnozoites) ধ্বংস করে পুনরায় রোগ সংক্রমণ (relapse) প্রতিরোধ করতে প্রিমাকুইন (Primaquine) দেওয়া হয়। তবে প্রিমাকুইন শুরু করার আগে অবশ্যই G6PD এনজাইমের মাত্রা পরীক্ষা করতে হয়, কারণ G6PD ঘাটতি থাকলে মারাত্মক হিমোলাইটিক অ্যানিমিয়া হতে পারে।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What two critical diagnostic parameters does the GeneXpert MTB/RIF assay simultaneously detect in suspected tuberculosis?",
+    "answer": "Mycobacterium tuberculosis (MTB) DNA and resistance to Rifampicin (rpoB gene mutation)",
+    "explanation_bn": "জিনএক্সপার্ট (GeneXpert MTB/RIF) হলো একটি দ্রুত অটোমেটেড পিসিআর পরীক্ষা যা মাত্র ২ ঘণ্টার মধ্যে কফে টিবি জীবাণুর (MTB) উপস্থিতি শনাক্ত করে। একই সাথে এটি টিবির সবচেয়ে গুরুত্বপূর্ণ ওষুধ রিফাম্পিসিন প্রতিরোধী জিনগত মিউটেশন (rifampicin resistance) শনাক্ত করে এমডিআর-টিবি দ্রুত নির্ণয় করতে পারে।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What is the classic toxic side effect of the anti-tubercular drug Ethambutol?",
+    "answer": "Retrobulbar/Optic neuritis with loss of visual acuity and red-green colour blindness",
+    "explanation_bn": "অ্যান্টি-টিবি ওষুধ ইথাম্বুটলের প্রধান বিষাক্ত প্রতিক্রিয়া হলো অপটিক নিউরাইটিস (Optic neuritis)। এর ফলে দৃষ্টিশক্তি কমে যায় এবং রোগী বিশেষ করে লাল ও সবুজ রঙের পার্থক্য বুঝতে পারেন না (red-green color blindness)। চোখের কোনো সমস্যা দেখা দিলেই অবিলম্বে এই ওষুধ বন্ধ করতে হয়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "Which diagnostic test is most sensitive and recommended for early diagnosis of Dengue fever during days 1 to 5?",
+    "answer": "Dengue NS1 antigen test",
+    "explanation_bn": "ডেঙ্গু জ্বরের প্রথম ১ থেকে ৫ দিনের মধ্যে সবচেয়ে নির্ভরযোগ্য এবং প্রথম সারির পরীক্ষা হলো ডেঙ্গু NS1 অ্যান্টিজেন টেস্ট। জ্বরের প্রাথমিক পর্যায়ে ভাইরাসের প্রোটিন রক্তে সর্বোচ্চ থাকে। ৫ম দিনের পর থেকে অ্যান্টিবডি (IgM এবং IgG) টেস্ট বেশি কার্যকর হয়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "In monitoring a patient with Dengue fever, which laboratory parameter is more critical than platelet count for detecting plasma leakage and shock?",
+    "answer": "Serial Hematocrit (HCT / Packed Cell Volume)",
+    "explanation_bn": "ডেঙ্গু রোগীদের ক্ষেত্রে শুধু প্লাটিলেট কাউন্টের চেয়েও হেমাটোক্রিট (Hematocrit/HCT) মনিটরিং বেশি গুরুত্বপূর্ণ। ডেঙ্গুতে প্লাজমা লিকেজ শুরু হলে রক্তে তরল কমে গিয়ে হেমাটোক্রিট ২০% বা তার বেশি বেড়ে যায় (hemoconcentration), যা ডেঙ্গু শক সিন্ড্রোমের প্রথম সতর্কবার্তা নির্দেশ করে।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What is the pathognomonic clinical hallmark of Measles (Rubeola) found inside the oral cavity?",
+    "answer": "Koplik spots on the buccal mucosa opposite the lower molars",
+    "explanation_bn": "হাম বা মিসেলসের প্যাথোগ্নমোনিক লক্ষণ হলো কপ্লিক স্পটস (Koplik spots)। ত্বকে হামের র‍্যাশ ওঠার ১-২ দিন আগে গালের ভেতরের মিউকোসায় নিচের মোলার দাঁতের বিপরীতে ক্ষুদ্র সাদাটে বা নীলচে দানা দেখা যায়, যা লবণ ছিটানোর মতো দেখায়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What is the most definitive and best diagnostic test for Enteric (Typhoid) fever during the first week of illness?",
+    "answer": "Blood culture (positive in 80–90% in week 1)",
+    "explanation_bn": "টাইফয়েড বা এন্টেরিক জ্বরের প্রথম সপ্তাহে রোগ নিশ্চিত করার জন্য ব্লাড কালচার (Blood culture) হলো গোল্ড স্ট্যান্ডার্ড পরীক্ষা। প্রথম সপ্তাহে রক্তে সালমোনেলার উপস্থিতি বেশি থাকে। দ্বিতীয় সপ্তাহ থেকে ইউরিন ও স্টুল কালচার এবং অ্যান্টিবডি টেস্ট করা হয়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "Which anatomical organ is the primary reservoir in chronic carriers of Salmonella typhi (Typhoid carriers)?",
+    "answer": "Gallbladder",
+    "explanation_bn": "টাইফয়েড জীবাণু (Salmonella typhi)-এর ক্রনিক ক্যারিয়ারদের ক্ষেত্রে জীবাণুর প্রধান আশ্রয়স্থল হলো পিত্তথলি (Gallbladder)। বিশেষ করে যাদের পিত্তথলিতে পাথর (gallstones) থাকে, তাদের গলব্লাডারের বায়োফিল্মে সালমোনেলা দীর্ঘদিন বেঁচে থেকে মলের মাধ্যমে জীবাণু ছড়ায়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What is the insect vector responsible for transmitting Visceral Leishmaniasis (Kala-azar)?",
+    "answer": "Female sandfly (Phlebotomus argentipes)",
+    "explanation_bn": "কালাজ্বর বা ভিসেরাল লেইশম্যানিয়াসিস ছড়ায় স্ত্রী স্যান্ডফ্লাই (Phlebotomus) বা বেলেমাছির কামড়ের মাধ্যমে। এরা সাধারণত দোআঁশ মাটির ভেজা ফাটলে বা পুরনো কাঁচা বাড়িতে বাস করে এবং রক্ত চোষার সময় লেইশম্যানিয়া ডনোভানি প্যারাসাইট মানুষের শরীরে প্রবেশ করায়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What is the earliest and most characteristic physical sign of Leprosy (Hansen's disease) skin lesions?",
+    "answer": "Loss of sensation (thermal, light touch, and pain) in hypopigmented or reddish skin patches",
+    "explanation_bn": "কুষ্ঠরোগ বা লেপ্রোসির সবচেয়ে প্রথম এবং স্পষ্ট লক্ষণ হলো চামড়ার হালকা রঙের বা লালচে দাগে স্পর্শ, তাপ ও ব্যথাবোধের অনুভূতি হ্রাস বা সম্পূর্ণ বিলোপ (loss of sensation)। এটি কুষ্ঠ জীবাণু (Mycobacterium leprae) দ্বারা ত্বকের প্রান্তীয় স্নায়ু আক্রান্ত হওয়ার কারণে ঘটে।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What characteristic macroscopic appearance does the aspirated fluid from an Amoebic Liver Abscess have?",
+    "answer": "Thick, odorless, chocolate-brown 'anchovy sauce' pus",
+    "explanation_bn": "অ্যামিবিক লিভার অ্যাবসেসের পুঁজ অ্যাসপিরেশন করলে তার রং ও ঘনত্ব অবিকল 'অ্যাঙ্কোভি সস' (anchovy sauce pus) বা গলানো চকোলেটের মতো দেখায়। এন্টামিবা হিস্টোলাইটিকাজনিত যকৃৎ কোষের নেক্রোসিস ও রক্তের মিশ্রণে এই বিশেষ বৈশিষ্ট্য তৈরি হয়, যাতে সাধারণত কোনো তীব্র দুর্গন্ধ থাকে না।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What is the classic clinical presentation of Giardiasis caused by Giardia lamblia?",
+    "answer": "Malabsorption with chronic, foul-smelling, fatty/greasy, non-bloody diarrhoea (steatorrhoea), abdominal bloating, and flatulence",
+    "explanation_bn": "জিয়ার্ডিয়াসিসের প্রধান লক্ষণ হলো দীর্ঘমেয়াদী পেটের ফাঁপা ভাব, দুর্গন্ধযুক্ত চর্বিযুক্ত তৈলাক্ত পায়খানা (steatorrhoea) এবং পুষ্টির শোষণ ব্যাহত হওয়া (malabsorption)। যেহেতু জিয়ার্ডিয়া ক্ষুদ্রান্ত্রের ওপরের স্তরে লেগে থাকে এবং আলসার তৈরি করে না, তাই এই ডায়রিয়ায় রক্ত থাকে না (non-bloody diarrhea)।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What is the drug of choice for the treatment of Lymphatic Filariasis (Elephantiasis)?",
+    "answer": "Diethylcarbamazine (DEC)",
+    "explanation_bn": "ফাইলেরিয়াসিস বা গোদ রোগের প্রধান ওষুধ হলো ডাইইথাইলকার্বামাজিন (DEC)। এটি রক্তের মাইক্রোফাইলেরিয়া ধ্বংস করে এবং প্রাপ্তবয়স্ক কৃমিকেও আংশিক নিষ্ক্রিয় করে। সাধারণত এটি অ্যালবেন্ডাজলের সাথে সমন্বয় করে গণচিকিৎসায় প্রয়োগ করা হয়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What are the clinical characteristics of Candida vaginitis discharge and vaginal pH?",
+    "answer": "Thick, white, curdy/cottage cheese-like discharge with severe pruritus and normal/acidic vaginal pH (pH < 4.5)",
+    "explanation_bn": "ক্যান্ডিডা ভ্যাজাইনাইটিসের প্রধান লক্ষণ হলো তীব্র চুলকানি এবং দইয়ের মতো ঘন সাদা স্রাব (curdy white discharge)। ক্যান্ডিডা স্বাভাবিক অম্লীয় পরিবেশেই বৃদ্ধি পায়, তাই এতে যোনির স্বাভাবিক অ্যাসিডিক পিএইচ (pH < ৪.৫) বজায় থাকে, যা ট্রাইকোমোনাস বা ব্যাকটেরিয়াল ভ্যাজিনোসিস থেকে আলাদা।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What classic physical and discharge findings characterize Trichomonas vaginalis infection?",
+    "answer": "Profuse frothy yellow-green malodorous discharge with punctate mucosal hemorrhages on the cervix ('strawberry cervix')",
+    "explanation_bn": "ট্রাইকোমোনিয়াসিসের ক্লাসিক্যাল লক্ষণ হলো ফেনাযুক্ত হলুদাভ-সবুজ দুর্গন্ধময় স্রাব এবং যোনির উচ্চ পিএইচ (pH > ৪.৫)। যোনি পরীক্ষার সময় জরায়ুমুখে লালচে ফোটা ফোটা রক্তবিন্দু দেখা যায় যা দেখতে স্ট্রবেরির মতো লাগে (strawberry cervix)।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What are the typical clinical features of Bacterial Vaginosis (BV)?",
+    "answer": "Thin, homogenous, grayish-white discharge with a characteristic fishy odour (enhanced on KOH whiff test) and elevated vaginal pH (> 4.5)",
+    "explanation_bn": "ব্যাকটেরিয়াল ভ্যাজিনোসিসের প্রধান লক্ষণ হলো পাতলা একজাতীয় ধূসর-সাদা স্রাব এবং তীব্র মাছের মতো দুর্গন্ধ (fishy odour)। যোনি স্রাবে ১০% KOH যোগ করলে এই গন্ধ তীব্র হয় (Whiff test positive)। মাইক্রোস্কোপিতে এপিথেলিয়াল সেলে ব্যাকটেরিয়ার আস্তরণ বা 'ক্লু সেল' (clue cells) দেখা যায়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What clinical features distinguish the genital ulcer of Chancroid from Syphilis?",
+    "answer": "Chancroid causes a painful, soft, ragged ulcer with painful inguinal lymphadenitis (bubo), caused by Haemophilus ducreyi",
+    "explanation_bn": "চ্যানক্রয়েডের প্রধান বৈশিষ্ট্য হলো যৌনাঙ্গে অত্যন্ত যন্ত্রণাদায়ক ও নরম আলসার (painful ulcer) এবং কুঁচকিতে ফুলে ওঠা ব্যথাদায়ক লিম্ফ নোড (painful bubo)। এটি হিমোফাইলাস ডুক্রেই নামক ব্যাকটেরিয়ার সংক্রমণে হয়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What are the hallmarks of primary Syphilis genital lesion?",
+    "answer": "A single, painless, indurated ulcer (hard chancre) with clean base accompanied by painless regional lymphadenopathy",
+    "explanation_bn": "প্রাইমারি সিফিলিসের প্রধান লক্ষণ হলো ব্যথাহীন শক্ত আলসার (painless hard chancre)। এর সাথে কুঁচকিতে থাকা লিম্ফ নোডগুলোও সম্পূর্ণ ব্যথাহীনভাবে ফুলে ওঠে (painless lymphadenopathy)। এটি ট্রেপোনেমা প্যালিডাম জীবাণুর কারণে ঘটে এবং চিকিৎসা না করলেও আলসার কয়েক সপ্তাহ পর মিলিয়ে যেতে পারে।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What is the characteristic microscopic Gram-stain finding of Neisseria gonorrhoeae in urethral discharge?",
+    "answer": "Gram-negative intracellular diplococci inside polymorphonuclear neutrophils (PMNs)",
+    "explanation_bn": "গনোরিয়া নিশ্চিত করার প্রধান মাইক্রোস্কোপিক বৈশিষ্ট্য হলো পুঁজ বা স্রাবের নিউট্রোফিল কোষে গ্রাম-নেগেটিভ কিডনি আকৃতির জোড়া ব্যাকটেরিয়া বা ইন্ট্রাসেলুলার ডিপ্লোকক্কাই (Gram-negative intracellular diplococci) দেখা যাওয়া। এটি দ্রুত বেডসাইড নির্ণয়ের অত্যন্ত নির্ভরযোগ্য পদ্ধতি।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What is the recommended first-line treatment for uncomplicated Gonorrhoea?",
+    "answer": "Single-dose intramuscular (IM) Ceftriaxone (500 mg IM)",
+    "explanation_bn": "অনগ্রসর বা সাধারণ গনোরিয়ার প্রথম সারির বিশ্বস্বীকৃত চিকিৎসা হলো সেফট্রায়াক্সন ৫০০ মিগ্রা একক মাত্রায় মাংসপেশিতে ইনজেকশন (Single-dose IM Ceftriaxone)। ক্ল্যামাইডিয়ার সহ-সংক্রমণ থাকলে ডক্সিসাইক্লিন যুক্ত করা হয়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "Which primary immune cells are targeted and depleted by Human Immunodeficiency Virus (HIV)?",
+    "answer": "CD4+ T helper lymphocytes",
+    "explanation_bn": "এইচআইভি ভাইরাস মানবদেহে প্রবেশের পর মূলত CD4+ টি-লিম্ফোসাইট (T helper cells) কোষের গায়ে লেগে বংশবৃদ্ধি করে এবং ধীরে ধীরে এই কোষগুলোকে ধ্বংস করে দেয়। এর ফলে রোগীর অর্জিত রোগ প্রতিরোধ ক্ষমতা সম্পূর্ণ ভেঙে পড়ে এবং এইডস (AIDS) রোগের সৃষ্টি হয়।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "Which laboratory assay is the preferred initial screening test for HIV infection?",
+    "answer": "Fourth-generation HIV Antigen/Antibody (Ag/Ab) combination immunoassay (detects p24 antigen and HIV-1/2 antibodies)",
+    "explanation_bn": "এইচআইভি স্ক্রিনিংয়ের জন্য বর্তমান গোল্ড স্ট্যান্ডার্ড হলো ৪র্থ প্রজন্মের কম্বিনেশন টেস্ট। এটি অ্যান্টিবডি তৈরি হওয়ার আগেই ভাইরাসের p24 অ্যান্টিজেন এবং তৈরি হওয়া অ্যান্টিবডি দুটোই শনাক্ত করতে পারে, যার ফলে উইন্ডো পিরিয়ড ২-৩ সপ্তাহে নেমে আসে।"
+  },
+  {
+    "topic": "Infectious Diseases",
+    "question": "What is the preferred first-line antiretroviral therapy (ART) regimen for HIV according to WHO guidelines?",
+    "answer": "TLD regimen: Tenofovir (TDF) + Lamivudine (3TC) + Dolutegravir (DTG) as a once-daily single tablet",
+    "explanation_bn": "বিশ্ব স্বাস্থ্য সংস্থার (WHO) নির্দেশনা অনুযায়ী প্রাপ্তবয়স্কদের প্রথম সারির এইচআইভি চিকিৎসা হলো TLD রেজিমেন। এতে দুটি নিউক্লিওসাইড রিভার্স ট্রান্সক্রিপ্টেজ ইনহিবিটর (টেনোফোভির + ল্যামিভিউডিন) এবং একটি শক্তিশালী ইন্টিগ্রেজ ইনহিবিটর (ডলুটেগ্রাভির) থাকে, যা ভাইরাসের লোড দ্রুত কমাতে অত্যন্ত কার্যকর।"
+  }
+]
