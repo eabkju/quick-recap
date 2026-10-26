@@ -27,6 +27,15 @@
     ]
   },
   {
+    "id": "envenomation",
+    "filename": "envenomation.json",
+    "title": "Envenomation",
+    "count": 13,
+    "topics": [
+      "Envenomation & Snakebite"
+    ]
+  },
+  {
     "id": "gastroenterology",
     "filename": "gastroenterology.json",
     "title": "Gastroenterology",
@@ -104,15 +113,15 @@
     "title": "Respiratory Quick Recap All 70 Explained",
     "count": 70,
     "topics": [
-      "Bronchiectasis",
-      "Tuberculosis (TB)",
-      "Approach to Dyspnea",
-      "Respiratory Failure",
-      "Asthma and COPD",
       "Pneumonia",
-      "Pleural Diseases",
+      "Asthma and COPD",
       "Upper Respiratory Tract Infection (URTI)",
-      "Lung Cancer"
+      "Bronchiectasis",
+      "Approach to Dyspnea",
+      "Lung Cancer",
+      "Tuberculosis (TB)",
+      "Respiratory Failure",
+      "Pleural Diseases"
     ]
   },
   {
@@ -128,7 +137,7 @@
     "id": "toxicology",
     "filename": "toxicology.json",
     "title": "Toxicology",
-    "count": 10,
+    "count": 40,
     "topics": [
       "Toxicology"
     ]

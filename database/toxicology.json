@@ -58,5 +58,185 @@
     "question": "Rare but life-threatening metabolic complication of metformin overdose",
     "answer": "Lactic acidosis",
     "explanation_bn": "মেটফরমিন অতিরিক্ত মাত্রায় জমলে মাইটোকন্ড্রিয়াল রেসপিরেটরি চেইনের কমপ্লেক্স-১ বাধাগ্রস্ত হয়।\nএর ফলে পাইরুভেট থেকে ল্যাকটেট রূপান্তর অস্বাভাবিক বেড়ে গিয়ে মেটফরমিন-অ্যাসোসিয়েটেড ল্যাকটিক অ্যাসিডোসিস (MALA) ঘটে।\nবিশেষ করে রেনাল ফেইলিওর বা হাইপোপারফিউশনে তীব্র অ্যাসিডোসিসের কারণে মৃত্যুর ঝুঁকি বাড়ে; ডায়ালাইসিস কার্যকর চিকিৎসা।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Clinical features and specific antidote for Isoniazid (INH) poisoning",
+    "answer": "Refractory seizures; antidote is IV Pyridoxine (Vitamin B6)",
+    "explanation_bn": "আইসোনিয়াজাইড অতিরিক্ত সেবনে পাইরিডক্সিনের বিপাক বাধাগ্রস্ত হয় এবং মস্তিষ্কে গ্লুটামিক অ্যাসিড ডিকার্বোক্সিলেজ দমন করে GABA উৎপাদন কমিয়ে দেয়।\nএর ফলে সাধারণ অ্যান্টি-এপিলেপ্টিক ড্রাগে অনিয়ন্ত্রিত অবাধ্য খিঁচুনি (refractory seizures) দেখা দেয়।\nচিকিৎসায় নির্দিষ্ট অ্যান্টিডোট হিসেবে সমপরিমাণ গ্রাম-টু-গ্রাম মাত্রায় ইন্ট্রাভেনাস পাইরিডক্সিন (ভিটামিন বি৬) প্রয়োগ করা হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Classic toxic manifestations of Theophylline overdose",
+    "answer": "Tachyarrhythmias + seizures",
+    "explanation_bn": "থিওফাইলিন বিষক্রিয়ায় ফসফোডাইএস্টারেজ এনজাইম বাধা এবং অ্যাডিনোসিন রিসেপ্টর ব্লকেডের কারণে শরীরে সাইক্লিক AMP ও ক্যাটেকোলামাইন মারাত্মকভাবে বৃদ্ধি পায়।\nএর ফলে মারাত্মক সাইনাস ও ভেন্ট্রিকুলার ট্যাকাইঅ্যারিথমিয়া, গুরুতর হাইপোক্যালেমিয়া এবং রক্তচাপ কমে যাওয়া দেখা দেয়।\nএকই সাথে কেন্দ্রীয় স্নায়ুতন্ত্রের অতিরিক্ত উত্তেজনায় জীবনঘাতী খিঁচুনি সৃষ্টি হতে পারে।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Presentation of Benzodiazepine overdose and cautious role of Flumazenil",
+    "answer": "Sedation and coma with normal vitals; Flumazenil used only in selected isolated poisonings",
+    "explanation_bn": "বেনজোডায়াজেপাইন একাকী বিষক্রিয়ায় সাধারণত গভীর ঘুম, কথা জড়িয়ে যাওয়া এবং কোমা হয়, তবে শ্বাসতন্ত্র সাধারণত খুব কম দমিত হয়।\nফ্লুমাজেনিল হলো নির্দিষ্ট প্রতিষেধক, তবে ক্রনিক ব্যবহারকারী বা ট্রাইসাইক্লিক অ্যান্টিডিপ্রেসেন্টের মিশ্রণে এটি খিঁচুনি ও অ্যারিথমিয়া ঘটাতে পারে।\nতাই এটি রুটিনলি ব্যবহার না করে সাধারণ সাপোর্টিভ কেয়ার ও এয়ারওয়ে প্রোটেকশনই মূল চিকিৎসা।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Classic clinical triad of opioid toxicity and its specific antidote",
+    "answer": "Miosis (pinpoint pupils) + respiratory depression + coma; treated with IV Naloxone",
+    "explanation_bn": "অপিওয়েড টক্সিড্রোমের ক্লাসিক্যাল ট্রায়াড হলো পিন-পয়েন্ট পিউপিল (চোখের মণিসঙ্কোচন), তীব্র শ্বাসকষ্ট বা শ্বাসের হার কমে যাওয়া এবং গভীর অচেতনতা (কোমা)।\nশ্বাসতন্ত্র ব্যর্থ হয়ে হাইপোক্সিয়া ও রেসপিরেটরি অ্যারেস্টে রোগীর মৃত্যু হতে পারে।\nনির্দিষ্ট ও তাৎক্ষণিক প্রতিষেধক হলো ওপিওয়েড অ্যান্টাগনিস্ট ন্যালোক্সন (Naloxone IV/IM), যা দ্রুত শ্বাসক্রিয়া ফিরিয়ে আনে।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Features of Cocaine/MDMA/Amphetamine toxicity and management pitfall",
+    "answer": "Agitation, hyperthermia, seizures, MI; treat with benzodiazepines and cooling; avoid pure beta-blockers",
+    "explanation_bn": "কোকেন ও অ্যাম্ফিটামিন অতিরিক্ত ক্যাটেকোলামাইন নিঃসরণ ঘটিয়ে তীব্র উচ্চ রক্তচাপ, হার্ট অ্যাটাক (MI), হাইপারথার্মিয়া এবং খিঁচুনি সৃষ্টি করে।\nচিকিৎসায় স্নায়ু শান্ত করতে এবং রক্তচাপ কমাতে বেনজোডায়াজেপাইন এবং সক্রিয় কুলিং পদ্ধতি ব্যবহার করা হয়।\nআনঅপোজড আলফা-রিসেপ্টর উদ্দীপনার কারণে তীব্র করোনরি ভ্যাসোকনস্ট্রিকশন এড়াতে বিশুদ্ধ বিটা-ব্লকার প্রয়োগ সম্পূর্ণ নিষিদ্ধ।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Carbon monoxide (CO) poisoning: presentation, diagnostic trap, and therapy",
+    "answer": "Headache and confusion; pulse oximetry misleadingly normal; treat with 100% oxygen or hyperbaric O2",
+    "explanation_bn": "কার্বন মনোক্সাইড হিমোগ্লোবিনের সাথে অক্সিজেনের চেয়ে ২০০ গুণ শক্তভাবে যুক্ত হয়ে কার্বক্সিহিমোগ্লোবিন গঠন করে টিস্যু হাইপোক্সিয়া ঘটায়।\nসাধারণ পালস অক্সিমিটারে কার্বক্সিহিমোগ্লোবিনকে অক্সিহিমোগ্লোবিন ভেবে ভুলবশত স্বাভাবিক স্যাচুরেশন প্রদর্শন করে (ডায়াগনস্টিক ফাঁদ)।\nরোগীর মাথাব্যথা, বমি ও বিভ্রান্তি দেখা দেয়; কো-অক্সিমেট্রি দিয়ে রোগ নির্ণয় করে ১০০% হাই-ফ্লো অক্সিজেন বা হাইপারবারিক অক্সিজেন দিতে হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Organophosphate (OP) poisoning toxidrome and dual antidote regimen",
+    "answer": "Miosis, salivation, bronchorrhoea, diarrhoea, fasciculation; treated with Atropine + Pralidoxime",
+    "explanation_bn": "অর্গানোফসফেট এসিটাইলকোলিনএস্টারেজ এনজাইমকে স্থায়ীভাবে নিষ্ক্রিয় করে কোলিনার্জিক সংকট (SLUDGE/DUMBELS) সৃষ্টি করে।\nরোগীর চোখের মণি ছোট হওয়া, অতিরিক্ত লালাক্ষরণ, ফুসফুসে পানি জমা (ব্রঙ্কোরিয়া), ডায়রিয়া ও পেশির কাঁপুনি (ফ্যাসিকুলেশন) হয়।\nচিকিৎসায় ফুসফুসের সিক্রেশন শুকানোর জন্য প্রথমে হাই-ডোজ অ্যাট্রোপিন এবং এনজাইম পুনরুজ্জীবিত করতে প্র্যালিডক্সিম (অক্সাইম) দেওয়া হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Management difference between Carbamate and Organophosphate poisoning",
+    "answer": "Carbamate binds reversibly; treated with Atropine alone; oximes are usually unnecessary",
+    "explanation_bn": "কার্বামেট বিষক্রিয়ায় লক্ষণগুলো অর্গানোফসফেটের মতোই কোলিনার্জিক হয়, তবে কার্বামেট এসিটাইলকোলিনএস্টারেজের সাথে বিপরীতমুখী (রিভার্সিবল) বন্ধন তৈরি করে।\n২৪ থেকে ৪৮ ঘণ্টার মধ্যে এনজাইম আপনা-আপনি মুক্ত হয়ে যায়।\nতাই শুধুমাত্র অ্যাট্রোপিন দিয়ে লক্ষণ নিয়ন্ত্রণ করাই যথেষ্ট; প্র্যালিডক্সিম জাতীয় অক্সাইমের সাধারণত কোনো প্রয়োজন হয় না।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Paraquat poisoning: clinical course, screening test, and therapy limitation",
+    "answer": "Oral burns followed by lethal pulmonary fibrosis; urinary dithionite test; no proven antidote",
+    "explanation_bn": "প্যারাকোয়াট আগাছানাশক সেবনে তাৎক্ষণিক মুখ ও খাদ্যনালীর মিউকোসায় তীব্র পোড়া ক্ষত (oral burns) সৃষ্টি হয়।\nপরবর্তীতে ফুসফুসে জমে অক্সিজেন ফ্রি র‍্যাডিক্যাল তৈরি করে কয়েক দিনের মধ্যে অপরিবর্তনীয় ফুসফুস ফাইব্রোসিস ঘটায়।\nপ্রস্রাবে সোডিয়াম ডাইথায়োনাইট টেস্ট করে নিশ্চিত হওয়া যায়; কোনো নির্দিষ্ট অ্যান্টিডোট নেই এবং অক্সিজেন দিলে ফাইব্রোসিস আরও বাড়ে।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Methanol poisoning: toxic metabolite, classic ocular sign, and specific treatment",
+    "answer": "Formic acid causes snowfield blindness + HAGMA; treat with Fomepizole/ethanol + folinic acid + hemodialysis",
+    "explanation_bn": "ভেজাল মদে থাকা মিথানল লিভারের অ্যালকোহল ডিহাইড্রোজিনেজের মাধ্যমে ফরমিক অ্যাসিডে পরিণত হয়ে মারাত্মক ক্ষতি করে।\nফরমিক অ্যাসিড চোখের অপটিক নার্ভের ক্ষতি করে বৈশিষ্ট্যপূর্ণ 'তুষারপাতের মতো ঝাপসা দৃষ্টি' (snowfield vision) ও অন্ধত্ব ঘটায়।\nএনজাইম বন্ধ করতে ফোমেপিজোল বা ইথানল দেওয়া হয়, ফরমিক অ্যাসিড ভাঙতে ফলিনিক অ্যাসিড এবং রক্ত শোধনে হেমোডায়ালাইসিস করা হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Ethylene glycol poisoning: key features, urinalysis finding, and treatment",
+    "answer": "Metabolic acidosis + acute renal failure, hypocalcaemia, calcium oxalate crystals; treat with Fomepizole + dialysis",
+    "explanation_bn": "গাড়ির কুল্যান্ট বা অ্যান্টিফ্রিজে থাকা ইথিলিন গ্লাইকল বিপাক হয়ে অক্সালিক অ্যাসিড তৈরি করে।\nঅক্সালিক অ্যাসিড ক্যালসিয়ামের সাথে যুক্ত হয়ে হাইপোক্যালসেমিয়া ঘটায় এবং কিডনি নালীতে ক্যালসিয়াম অক্সালেট ক্রিস্টাল জমিয়ে রেনাল ফেইলিওর করে।\nচিকিৎসায় মেটাবলিজম আটকাতে ফোমেপিজোল/ইথানল এবং টক্সিন ও ক্রিস্টাল দ্রুত দূর করতে জরুরি হেমোডায়ালাইসিস প্রয়োজন।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Cyanide poisoning: pathophysiology, presentation, and antidotes",
+    "answer": "Inhibits cytochrome oxidase causing shock + severe lactic acidosis; treated with Hydroxocobalamin ± thiosulfate",
+    "explanation_bn": "সায়ানাইড মাইটোকন্ড্রিয়াল সাইটোক্রোম সি অক্সিডেজ আটকে দিয়ে টিস্যুর অক্সিজেন ব্যবহার সম্পূর্ণ বন্ধ করে দেয় (হিস্টোটক্সিক হাইপোক্সিয়া)।\nঅক্সিজেন থাকা সত্ত্বেও শরীর অ্যানারোবিক মেটাবলিজমে চলে গিয়ে তীব্র ল্যাকটিক অ্যাসিডোসিস, শক ও দ্রুত মৃত্যুর ঝুঁকি তৈরি করে।\nপ্রধান প্রতিষেধক হলো হাইড্রক্সোকোবালামিন (যা সায়ানাইডের সাথে যুক্ত হয়ে অবিষাক্ত সায়ানোকোবালামিন ভিটামিন বি১২ বানায়) এবং সোডিয়াম থায়োসালফেট।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Lead poisoning: classic symptoms, peripheral blood finding, and chelation",
+    "answer": "Abdominal colic, peripheral neuropathy + basophilic stippling; treated with Succimer or Calcium disodium EDTA",
+    "explanation_bn": "সীসা বিষক্রিয়ায় তীব্র পেটে ব্যথা (লেড কলিক), কবজি ঝুলে যাওয়া (রিস্ট ড্রপ/মোটর নিউরোপ্যাথি) এবং অ্যানিমিয়া দেখা দেয়।\nপেরিফেরাল ব্লাড ফিল্মে লোহিত রক্তকণিকায় বৈশিষ্ট্যপূর্ণ বেসোফিলিক স্টিপলিং (basophilic stippling) পাওয়া যায়।\nরক্তে সীসার মাত্রা বেশি হলে চিলেশন থেরাপি হিসেবে ওরাল সাক্সিমার (DMSA) অথবা ক্যালসিয়াম ডাইসোডিয়াম EDTA প্রয়োগ করা হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Characteristic neurotoxic feature of Poison Hemlock (Conium maculatum)",
+    "answer": "Ascending muscular paralysis leading to respiratory failure",
+    "explanation_bn": "হেমলক উদ্ভিদে থাকা কোনাইন (coniine) অ্যালকালয়েড নিকোটিনিক অ্যাসিটাইলকোলিন রিসেপ্টরে কিউরারে-সদৃশ ব্লকেড তৈরি করে।\nএর ফলে পায়ের পেশি থেকে শুরু হয়ে ক্রমান্বয়ে শরীরের উপরের দিকে ঊর্ধ্বমুখী পক্ষাঘাত (ascending paralysis) ঘটে।\nঅবশেষে ডায়াফ্রাম ও শ্বাসযন্ত্রের পেশি অচল হয়ে শ্বাসরোধে মৃত্যু হতে পারে (সক্রেটিসের ঐতিহাসিক বিষক্রিয়া)।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Diagnostic monitoring and specific antidote timing in Paracetamol overdose",
+    "answer": "Check serum level at ≥ 4 hours; treat with IV N-acetylcysteine (NAC)",
+    "explanation_bn": "প্যারাসিটামল বিষক্রিয়ায় ট্যাবলেট সম্পূর্ণ শোষিত হওয়ার জন্য খাওয়ার ন্যূনতম ৪ ঘণ্টা পর সিরাম প্যারাসিটামল মাত্রা পরীক্ষা করতে হয়।\nরুম্যাক-ম্যাথু নোমোগ্রাম অনুসারে মাত্রা টক্সিক লাইনের উপরে থাকলে তাৎক্ষণিকভাবে IV এন-অ্যাসিটাইলসিস্টাইন (NAC) শুরু করা আবশ্যক।\nআট ঘণ্টার মধ্যে NAC শুরু করলে বিষাক্ত NAPQI প্রশমিত হয়ে লিভার ফেইলিওর প্রায় শতভাগ প্রতিরোধ করা সম্ভব।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Salicylate overdose management and mechanism of urinary alkalinisation",
+    "answer": "Serial serum levels, ABG; IV sodium bicarbonate to alkalinise urine (pH 7.5–8.5) ± haemodialysis",
+    "explanation_bn": "স্যালিসাইলেট বিষক্রিয়ায় রক্তের মাত্রা ও এবিজি (ABG) পর্যবেক্ষণ করে তীব্রতা নির্ধারণ করা হয়।\nইন্ট্রাভেনাস সোডিয়াম বাইকার্বনেট দিয়ে রক্ত ও প্রস্রাব ক্ষারীয় (pH 7.5-8.5) করলে স্যালিসাইলেট আয়নিত হয়ে কিডনি নালী থেকে আর পুনঃশোষিত হতে পারে না (আয়ন ট্র্যাপিং)।\nতীব্র বিষক্রিয়া, পালমোনারি ইডিমা বা রেনাল ফেইলিওরে হেমোডায়ালাইসিস জীবন রক্ষাকারী চিকিৎসা।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "TCA poisoning: ECG risk criteria and specific antidote",
+    "answer": "QRS > 100 ms predicts seizures, QRS > 160 ms predicts arrhythmias; treated with IV sodium bicarbonate",
+    "explanation_bn": "ট্রাইসাইক্লিক অ্যান্টিডিপ্রেসেন্ট বিষক্রিয়ায় ইসিজিতে QRS ইন্টারভাল ১০০ মিলি-সেকেন্ড ছাড়ালে খিঁচুনি এবং ১৬০ মিলি-সেকেন্ড ছাড়ালে মারাত্মক ভেন্ট্রিকুলার ট্যাকাইকার্ডিয়ার ঝুঁকি থাকে।\nকার্ডিয়াক মায়োসাইটের ফাস্ট সোডিয়াম চ্যানেলের ওপর ব্লকেড দূর করতে হাইপারটোনিক সোডিয়াম বাইকার্বনেট (8.4% NaHCO3) IV পুশ করা হয়।\nসোডিয়াম লোড এবং রক্তের ক্ষারীয় pH ওষুধকে রিসেপ্টর থেকে বিচ্ছিন্ন করে হৃদস্পন্দন স্বাভাবিক করে।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Clinical features and management of Serotonin Syndrome",
+    "answer": "Hyperreflexia, clonus, tremor, hyperthermia; stop offending drugs, give benzodiazepines, cooling ± cyproheptadine",
+    "explanation_bn": "এসএসআরআই (SSRI), এসএনআরআই (SNRI) বা এমএওআই (MAOI) এর অতিরিক্ত প্রভাবে মস্তিষ্কে সেরোটোনিনের মাত্রা বিপজ্জনকভাবে বৃদ্ধি পায়।\nবৈশিষ্ট্যপূর্ণ লক্ষণ হলো নিউরোমাসকুলার হাইপারঅ্যাক্টিভিটি (ক্লোনাস, হাইপাররিফ্লেক্সিয়া, কাঁপুনি), অস্থিরতা এবং উচ্চ তাপমাত্রা।\nচিকিৎসায় অপরাধী ওষুধ বন্ধ করা, অস্থিরতা কমাতে বেনজোডায়াজেপাইন, শরীর ঠান্ডা করা এবং সেরোটোনিন অ্যান্টাগনিস্ট সাইপ্রোহেপ্টাডিন দেওয়া হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Specific antidote and high-dose therapy for Beta-blocker overdose",
+    "answer": "IV Glucagon (first-line antidote) + high-dose insulin euglycaemic therapy (HIET)",
+    "explanation_bn": "বিটা-ব্লকার কার্ডিয়াক বিটা-১ রিসেপ্টর ব্লক করে মারাত্মক ব্রাডিকার্ডিয়া ও পাম্প ফেইলিওর সৃষ্টি করে।\nগ্লুকাগন বিটা-রিসেপ্টরকে বাইপাস করে সরাসরি মায়োসাইটের অ্যাডিনাইলাইল সাইক্লেজকে সক্রিয় করে হৃদস্পন্দন ও সংকোচন ক্ষমতা বাড়ায়।\nপ্রতিরোধী ক্ষেত্রে হাই-ডোজ ইনসুলিন ইউগ্লাইসেমিক থেরাপি (HIET) হৃদপেশির গ্লুকোজ বিপাক পুনরুদ্ধার করে কার্ডিয়াক আউটপুট বৃদ্ধি করে।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Specific antidotes for Calcium Channel Blocker (CCB) toxicity",
+    "answer": "IV Calcium (gluconate/chloride) + high-dose insulin euglycaemic therapy (HIET)",
+    "explanation_bn": "ক্যালসিয়াম চ্যানেল ব্লকার ওভারডোজে রক্তচাপ বিপজ্জনকভাবে পড়ে যায় এবং প্যানক্রিয়াটিক ইনসুলিন বন্ধ হয়ে হাইপারগ্লাইসেমিয়া দেখা দেয়।\nমায়োসাইটে ক্যালসিয়াম ইনফ্লাক্স বাড়াতে প্রথম সারিতে ইন্ট্রাভেনাস ক্যালসিয়াম গ্লুকোনেট বা ক্যালসিয়াম ক্লোরাইড প্রয়োগ করা হয়।\nমায়োকার্ডিয়াল শক্তি সরবরাহ পুনরুদ্ধার এবং ভাস্কুলার টোন বাড়াতে হাই-ডোজ ইনসুলিন সাথে ডেক্সট্রোজ ইনফিউশন (HIET) সবচেয়ে কার্যকর চিকিৎসা।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Specific definitive antidote for severe Digoxin or Oleander toxicity",
+    "answer": "Digoxin-specific antibody fragments (Digoxin Fab / DigiFab)",
+    "explanation_bn": "ডিগক্সিন বা করবী ফুলের টক্সিনের কারণে প্রাণঘাতী ভেন্ট্রিকুলার অ্যারিথমিয়া বা উচ্চমাত্রার হাইপারক্যালেমিয়া দেখা দিলে নির্দিষ্ট অ্যান্টিডোট প্রয়োজন।\nডিগক্সিন-স্পেসিফিক অ্যান্টিবডি ফ্র্যাগমেন্টস (Fab) রক্তে মুক্ত ডিগক্সিনের সাথে সরাসরি যুক্ত হয়ে নিষ্ক্রিয় করে এবং কিডনি দিয়ে বের করে দেয়।\nFab প্রয়োগের কয়েক মিনিটের মধ্যে বিপজ্জনক কার্ডিয়াক অ্যারিথমিয়া স্বাভাবিক ছন্দ ফিরে পায়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Acute Iron toxicity: phases, investigation, and specific chelator",
+    "answer": "GI haemorrhage → shock/acidosis → delayed hepatic failure; AXR shows tablets; antidote is IV Desferrioxamine",
+    "explanation_bn": "আয়রন বিষক্রিয়ায় পেটে তীব্র ক্ষতের কারণে রক্তবমি ও কালো পায়খানা হয়, পরবর্তীতে মাইটোকন্ড্রিয়াল টক্সিসিটিতে মেটাবলিক অ্যাসিডোসিস ও বিলম্বে লিভার ফেইলিওর ঘটে।\nআয়রন ট্যাবলেট রেডিও-অপেক হওয়ায় পেটের এক্স-রেতে (AXR) পাকস্থলীতে ট্যাবলেটের উপস্থিতি শনাক্ত করা যায়।\nনির্দিষ্ট চিলেটিং অ্যান্টিডোট হলো IV ডেসফেরোক্সামিন (Desferrioxamine), যা আয়রনকে নিষ্ক্রিয় ফেরোক্সামিনে রূপান্তর করে প্রস্রাবে 'ভিন রোজে' (vin rosé) রঙে নির্গমন করে।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Management of refractory hypoglycemia in sulfonylurea overdose",
+    "answer": "IV Dextrose plus subcutaneous Octreotide",
+    "explanation_bn": "সালফোনাইলইউরিয়া প্যানক্রিয়াসের বিটা-কোষ থেকে অবিরাম ইনসুলিন ক্ষরণ করিয়ে দীর্ঘস্থায়ী ও বারবার হাইপোগ্লাইসেমিয়া ঘটায়।\nশুধুমাত্র গ্লুকোজ দিলে তা আরও বেশি ইনসুলিন ক্ষরণকে উদ্দীপিত করে প্রতিক্রিয়াশীল হাইপোগ্লাইসেমিয়া বাড়াতে পারে।\nঅকট্রিওটাইড (সোমাটোস্ট্যাটিন অ্যানালগ) ইনসুলিন নিঃসরণ সরাসরি বন্ধ করে দেয়, তাই ডেক্সট্রোজের সাথে অকট্রিওটাইড প্রয়োগ অপরিহার্য।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Severe complication of Metformin toxicity and definitive management",
+    "answer": "Metformin-associated lactic acidosis (MALA); treated with urgent haemodialysis",
+    "explanation_bn": "মেটফরমিন মাইটোকন্ড্রিয়াল চেইনে ল্যাকটেট ক্লিয়ারেন্স বাধা দিয়ে মারাত্মক মেটাবলিক অ্যাসিডোসিস ও শক তৈরি করে।\nবিশেষ করে কিডনি বিকল রোগীদের ক্ষেত্রে শরীরে মেটফরমিন জমে ড্রাগ-জনিত মৃত্যুর অন্যতম কারণ হয়।\nহেমোডায়ালাইসিস শরীর থেকে দ্রুত মেটফরমিন ফিল্টার করে বের করে দেয় এবং একই সাথে বাইকার্বনেট প্রতিস্থাপন করে অ্যাসিডোসিস সংশোধন করে।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Valproate (valproic acid) overdose specific antidote and severe toxicity management",
+    "answer": "L-carnitine ± haemodialysis",
+    "explanation_bn": "সোডিয়াম ভ্যালপ্রোয়েট অতিরিক্ত সেবনে মাইটোকন্ড্রিয়াল ফ্যাটি অ্যাসিড অক্সিডেশন ব্যাহত হয়ে হাইপারঅ্যামোনেমিয়া ও হেপাটিক এনসেফালোপ্যাথি দেখা দেয়।\nএল-কার্নিটিনের ঘাটতি পূরণ করতে নির্দিষ্ট প্রতিষেধক হিসেবে ইন্ট্রাভেনাস এল-কার্নিটাইন (L-carnitine) প্রয়োগ করা হয়।\nমারাত্মক মাত্রায় বিষক্রিয়া ও গভীর কোমা থাকলে রক্ত থেকে ওষুধ দূর করতে হেমোডায়ালাইসিস করা হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Methemoglobinemia: clinical presentation, diagnosis, and specific antidote",
+    "answer": "Cyanosis refractory to O2, chocolate-brown blood, co-oximetry; treated with IV Methylene blue",
+    "explanation_bn": "ড্যাপসোন, লোকাল অ্যানেস্থেটিক বা নাইট্রেট সেবনে হিমোগ্লোবিনের আয়রন Fe2+ থেকে Fe3+ এ জারিত হয়ে মেটহিমোগ্লোবিন তৈরি হয় যা অক্সিজেন বহন করতে পারে না।\nরোগীর রক্তের রঙ চকলেটের মতো গাঢ় বাদামী দেখায় এবং অক্সিজেন দেওয়ার পরও নীলাভ সায়ানোসিস ঠিক হয় না।\nকো-অক্সিমেট্রি দিয়ে মেটহিমোগ্লোবিনের মাত্রা নির্ণয় করে প্রতিষেধক হিসেবে ইন্ট্রাভেনাস মিথিলিন ব্লু (Methylene blue) প্রয়োগ করা হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Specific antidote for Local Anaesthetic Systemic Toxicity (LAST)",
+    "answer": "20% Intravenous Lipid emulsion",
+    "explanation_bn": "লিগনোকেইন বা বুপিভাকেইন দুর্ঘটনাবশত সরাসরি রক্তনালীতে প্রবেশ করলে মারাত্মক কার্ডিয়াক অ্যারেস্ট ও খিঁচুনি হতে পারে।\n২০% ইন্ট্রাভেনাস লিপিড ইমালশন একটি 'লিপিড সিঙ্ক' তৈরি করে লিপিড-দ্রবণীয় লোকাল অ্যানেস্থেটিককে হৃদযন্ত্র ও মস্তিষ্কের টিস্যু থেকে রক্তরসে টেনে নেয়।\nপুনরুজ্জীবন নির্দেশিকায় লোকাল অ্যানেস্থেটিক কার্ডিওটক্সিসিটিতে অবিলম্বে লিপিড রেসকিউ প্রয়োগ বাধ্যতামূলক।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Contraindications to Activated Charcoal in clinical toxicology",
+    "answer": "Ineffective in heavy metals (iron/lead), lithium, alcohols, corrosives, and unprotected airway",
+    "explanation_bn": "অ্যাক্টিভেটেড চারকোল বেশিরভাগ জৈব ওষুধকে পেটের ভেতরেই শোষণ করে আটকে রাখে, বিশেষ করে খাওয়ার ১ ঘণ্টার মধ্যে দিলে সবচেয়ে কার্যকর।\nতবে এটি হাইড্রোক্লোরিক অ্যাসিড বা ক্ষার জাতীয় ক্ষয়কারী পদার্থ (corrosives), অ্যালকোহল, আয়রন ও লিথিয়ামের বিরুদ্ধে সম্পূর্ণ অকার্যকর।\nঅচেতন বা এয়ারওয়ে প্রোটেকশন না থাকা রোগীকে এটি দিলে ফুসফুসে অ্যাসপিরেশন হয়ে মারাত্মক কেমিক্যাল নিউমোনাইটিস হতে পারে।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Indications for Whole-Bowel Irrigation (WBI) using polyethylene glycol",
+    "answer": "Body packers/stuffers, sustained-release or enteric-coated drugs, iron, and lithium",
+    "explanation_bn": "হোল-বাওয়েল ইরিগেশন হলো পলিইথিলিন গ্লাইকল ইলেকট্রোলাইট সলিউশন ন্যাসোগ্যাস্ট্রিক টিউব দিয়ে অন্ত্রে প্রবেশ করিয়ে পুরো অন্ত্র দ্রুত পরিষ্কার করা।\nমাদক চোরাচালানকারী যাদের পেটে ড্রাগের প্যাকেট থাকে (বডি প্যাকার্স) তাদের প্যাকেট ফেটে যাওয়া রোধ করতে এটি প্রধান পদ্ধতি।\nএছাড়া দীর্ঘস্থায়ী রিলিজ ড্রাগ (XR/CR), অতিরিক্ত মাত্রায় আয়রন এবং লিথিয়াম বিষক্রিয়ায় চারকোল কাজ না করায় WBI ব্যবহৃত হয়।"
+  },
+  {
+    "topic": "Toxicology",
+    "question": "Critical absolute contraindications in corrosive (acid/alkali) ingestion",
+    "answer": "Do NOT induce vomiting, do NOT perform gastric lavage, and do NOT attempt chemical neutralisation",
+    "explanation_bn": "তীব্র অ্যাসিড বা ক্ষার সেবন করলে মুখ, খাদ্যনালী ও পাকস্থলীতে রাসায়নিক ক্ষতের কারণে গভীর টিস্যু নেক্রোসিস হয়।\nবমি করালে বা গ্যাস্ট্রিক ল্যাভেজ দিলে খাদ্যনালী পুনরায় দ্বিগুণ পুড়ে গিয়ে ছিদ্র (esophageal perforation) হওয়ার মারাত্মক ঝুঁকি থাকে।\nক্ষার বা অ্যাসিডকে বিপরীত দ্রবণ দিয়ে নিউট্রালাইজ করতে গেলে রাসায়নিক তাপ উৎপন্ন হয়ে টিস্যু পোড়া আরও বাড়িয়ে দেয়; তাই আর্লি এন্ডোস্কোপি ও সার্জিক্যাল পরামর্শ জরুরি।"
   }
 ]
