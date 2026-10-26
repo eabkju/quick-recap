@@ -1,0 +1,92 @@
+[
+  {
+    "topic": "Dermatology",
+    "question": "What is the causative organism of scabies?",
+    "answer": "Sarcoptes scabiei",
+    "explanation_bn": "স্ক্যাবিস (Scabies) হলো একটি সংক্রামক চর্মরোগ যা 'সারকপটিস স্ক্যাবিয়াই' (Sarcoptes scabiei var. hominis) নামক ক্ষুদ্র মাইট বা জীবাণুর সংক্রমণের কারণে ঘটে। এই পরজীবী ত্বকের উপরিভাগে গর্ত তৈরি করে ডিম পাড়ে, যার ফলে তীব্র চুলকানি ও প্রদাহ সৃষ্টি হয়। আক্রান্ত ব্যক্তির ত্বকের সরাসরি ঘনিষ্ঠ সংস্পর্শ বা কাপড়ের মাধ্যমে এটি দ্রুত ছড়িয়ে পড়ে।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "What is the characteristic symptom of scabies?",
+    "answer": "Nocturnal pruritus",
+    "explanation_bn": "স্ক্যাবিসের প্রধান এবং সবচেয়ে পরিচিত লক্ষণ হলো রাতের বেলায় তীব্র চুলকানি (Nocturnal pruritus)। বিছানায় শরীরের তাপমাত্রা বৃদ্ধির ফলে মাইটগুলো বেশি সক্রিয় হয়ে ওঠে এবং ত্বকের ভেতর চলাফেরা করে। এই চুলকানির তীব্রতার কারণে রোগীর রাতের ঘুমের ব্যাঘাত ঘটে।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "What is the characteristic lesion of scabies?",
+    "answer": "Burrow",
+    "explanation_bn": "স্ক্যাবিসের প্যাথোগ্নমোনিক বা চারিত্রিক ক্ষত হলো 'ব্যুরো' (Burrow)। এটি ত্বকের ওপর ছোট, আঁকাবাঁকা ধূসর বা সাদা রঙের সুতার মতো লাইন হিসেবে দেখা যায়, যা মাইট খনন করে তৈরি করে। সাধারণত হাতের আঙুলের ফাঁকে, কবজিতে, বগলে ও যৌনাঙ্গের আশেপাশে এই ব্যুরো বেশি দেখা যায়।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "What is the first-line treatment for scabies?",
+    "answer": "Permethrin 5% cream",
+    "explanation_bn": "স্ক্যাবিসের প্রথম সারির ওষুধ হলো পারমেথ্রিন ৫% ক্রিম (Permethrin 5% cream)। এটি গলা থেকে পায়ের পাতা পর্যন্ত পুরো শরীরে মেখে ৮ থেকে ১৪ ঘণ্টা রেখে ধুয়ে ফেলতে হয়। পূর্ণ নিরাময় নিশ্চিত করতে সাধারণত ১ সপ্তাহ পর দ্বিতীয়বার এই ক্রিম প্রয়োগের পরামর্শ দেওয়া হয় এবং পরিবারের সকল সদস্যের একসাথে চিকিৎসা নেওয়া জরুরি।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "Which organism is the most common cause of dermatophytosis (tinea/ringworm)?",
+    "answer": "Trichophyton",
+    "explanation_bn": "ডার্মাটোফাইটোসিস বা দাদ (Tinea/Ringworm) ত্বকের একটি উপরিভাগের ছত্রাক সংক্রমণ, যার প্রধান কারণ ট্রাইকোফাইটন (Trichophyton) প্রজাতি। এই ফাঙ্গাস কেরাটিন সমৃদ্ধ অংশ যেমন ত্বক, চুল ও নখকে আক্রমণ করে। এর ফলে ত্বকে গোলাকার, চুলকানিযুক্ত ও প্রান্তভাগ উঁচু লালচে রিংয়ের মতো ক্ষত তৈরি হয়।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "What is the diagnostic test for superficial fungal infections (dermatophytosis)?",
+    "answer": "KOH microscopy showing hyphae",
+    "explanation_bn": "সুপারফিসিয়াল ফাঙ্গাল ইনফেকশন নিশ্চিত করার প্রধান ডায়াগনস্টিক পরীক্ষা হলো ১০-২০% পটাশিয়াম হাইড্রোক্সাইড (KOH) মাউন্ট মাইক্রোস্কোপি। ত্বকের ক্ষত থেকে চামড়ার আঁশ (skin scrapings) নিয়ে KOH দিয়ে স্লাইডে দেখলে ব্রাঞ্চিং হাইফি (branching fungal hyphae) স্পষ্ট দেখা যায়। এটি একটি দ্রুত ও নির্ভরযোগ্য বেডসাইড পরীক্ষা।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "What is the most common clinical type of psoriasis?",
+    "answer": "Plaque psoriasis (Psoriasis vulgaris)",
+    "explanation_bn": "সোরিয়াসিসের সবচেয়ে সাধারণ ও প্রচলিত রূপ হলো প্লাক সোরিয়াসিস (Plaque psoriasis বা Psoriasis vulgaris)। প্রায় ৮০-৯০% সোরিয়াসিস রোগী এই ধরনে আক্রান্ত হন। এতে ত্বক লাল হয়ে পুরু হয়ে যায় এবং তার ওপর রূপালী-সাদা রঙের আঁশযুক্ত প্লাক (well-demarcated erythematous plaques with silvery scales) গঠিত হয়।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "What is the characteristic clinical sign of psoriasis?",
+    "answer": "Auspitz sign",
+    "explanation_bn": "অসপিৎজ সাইন (Auspitz sign) সোরিয়াসিসের একটি ক্লাসিক্যাল ক্লিনিক্যাল লক্ষণ। সোরিয়াটিক প্লাকের ওপর থেকে রূপালী আঁশ আলতো করে তুলে ফেললে নিচে প্রসারিত ডার্মাল কৈশিকনালী থেকে বিন্দু বিন্দু রক্তক্ষরণ (pinpoint bleeding) দেখা যায়। এটি সোরিয়াসিসকে অন্যান্য আঁশযুক্ত চর্মরোগ থেকে আলাদা করতে সাহায্য করে।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "Which genetic HLA association is most strongly linked with psoriasis?",
+    "answer": "HLA-Cw6",
+    "explanation_bn": "সোরিয়াসিসের সাথে সবচেয়ে জোরালোভাবে জড়িত জিনগত ফ্যাক্টর হলো HLA-Cw6 (PSORS1 লোকাস)। যেসব রোগীর HLA-Cw6 পজিটিভ থাকে, তাদের ক্ষেত্রে কম বয়সে রোগ শুরু হওয়া এবং রোগের তীব্রতা বেশি হওয়ার সম্ভাবনা বেশি থাকে। এছাড়া এটি গাটেট সোরিয়াসিস (guttate psoriasis)-এর সাথেও ঘনিষ্ঠভাবে যুক্ত।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "What are the most common anatomical sites for plaque psoriasis?",
+    "answer": "Extensor surfaces (elbows and knees)",
+    "explanation_bn": "প্লাক সোরিয়াসিস মূলত শরীরের এক্সটেনসর বা বহির্ভাগে বেশি দেখা যায়, বিশেষ করে কনুই (elbows) এবং হাঁটুতে (knees)। এছাড়াও মাথার ত্বক (scalp), পিঠের নিচের অংশ (lumbosacral area) এবং নখে এটি সচরাচর দেখা যায়। এটি সাধারণত প্রতিসমভাবে (symmetrically) উভয় পাশে প্রকাশ পায়।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "What is the mainstay of treatment for atopic dermatitis (eczema)?",
+    "answer": "Emollients (moisturizers)",
+    "explanation_bn": "অ্যাটোপিক ডার্মাটাইটিস বা একজিমার দীর্ঘমেয়াদী চিকিৎসার মূল ভিত্তি হলো ইমোলিয়েন্ট বা ময়েশ্চারাইজার (Emollients)। এটি ক্ষতিগ্রস্ত স্কিন ব্যারিয়ার পুনর্গঠন করে এবং ত্বকের আর্দ্রতা ধরে রেখে চুলকানি ও ফ্লেয়ার-আপ কমায়। তীব্র প্রদাহের সময় এর সাথে শর্ট-টার্ম টপিক্যাল কর্টিকোস্টেরয়েড ব্যবহার করা হয়।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "What is the most common type of cutaneous adverse drug reaction?",
+    "answer": "Maculopapular rash (Morbiliform/Exanthematous drug eruption)",
+    "explanation_bn": "ওষুধের পার্শ্বপ্রতিক্রিয়াজনিত চর্মরোগের মধ্যে সবচেয়ে সাধারণ হলো ম্যাকুলোপ্যাপুলার র‍্যাশ (Maculopapular rash বা exanthematous eruption)। সাধারণত অ্যান্টিবায়োটিক বা ব্যথানাশক ওষুধ শুরু করার ৭ থেকে ১৪ দিনের মধ্যে শরীর জুড়ে লালচে ছোট দাগ ও দানা আকারে এটি প্রকাশ পায়। ওষুধ বন্ধ করার পর সাধারণত কয়েক দিনের মধ্যেই এটি সেরে যায়।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "What are the most severe and life-threatening cutaneous drug reactions?",
+    "answer": "Stevens–Johnson syndrome (SJS) and Toxic Epidermal Necrolysis (TEN)",
+    "explanation_bn": "ওষুধের কারণে হওয়া সবচেয়ে মারাত্মক ও প্রাণঘাতী চর্মরোগ হলো স্টিভেনস-জনসন সিনড্রোম (SJS) এবং টক্সিক এপিডার্মাল নেক্রোলাইসিস (TEN)। এতে ত্বকের এপিডার্মিসের ব্যাপক নেক্রোসিস এবং ডিটাচমেন্টের পাশাপাশি মিউকাস মেমব্রেন (মুখ, চোখ, যৌনাঙ্গ) মারাত্মকভাবে আক্রান্ত হয়। ত্বকের আক্রান্ত ক্ষেত্রফলের ওপর ভিত্তি করে SJS (<১০%) এবং TEN (>৩০%) ভাগ করা হয়।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "What is the first and most crucial step in managing a cutaneous drug eruption?",
+    "answer": "Immediate discontinuation of the offending drug",
+    "explanation_bn": "যেকোনো ওষুধের রিঅ্যাকশনের ক্ষেত্রে সবচেয়ে প্রথম এবং জরুরি পদক্ষেপ হলো সন্দেহভাজন ওষুধটি অবিলম্বে বন্ধ করা (Stop the offending drug)। দ্রুত ওষুধ প্রত্যাহার করলে রোগের বিস্তার রোধ করা যায় এবং রোগীর জটিলতা বা মৃত্যুঝুঁকি অনেকাংশে হ্রাস পায়।"
+  },
+  {
+    "topic": "Dermatology",
+    "question": "Where should severe Stevens–Johnson syndrome (SJS) and Toxic Epidermal Necrolysis (TEN) be managed?",
+    "answer": "ICU or specialized Burn Unit",
+    "explanation_bn": "মারাত্মক SJS এবং TEN আক্রান্ত রোগীদের অবশ্যই আইসিইউ (ICU) বা বিশেষায়িত বার্ন ইউনিটে ভর্তি করে চিকিৎসা দেওয়া উচিত। কারণ এপিডার্মিস সম্পূর্ণ উঠে যাওয়ার ফলে শরীরের তরল ও ইলেক্ট্রোলাইট ভারসাম্য নষ্ট হয় এবং মারাত্মক সেপসিসের ঝুঁকি থাকে, যার জন্য বার্ন রোগীদের মতো স্টেরাইল পরিবেশ ও ইনটেনসিভ নার্সিং কেয়ার প্রয়োজন হয়।"
+  }
+]

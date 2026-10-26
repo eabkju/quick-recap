@@ -1,0 +1,116 @@
+[
+  {
+    "topic": "Psychiatry",
+    "question": "What are obsessions in Obsessive-Compulsive Disorder (OCD)?",
+    "answer": "Recurrent, intrusive, unwanted thoughts, images, or impulses that provoke anxiety, are ego-dystonic, and recognized as one's own",
+    "explanation_bn": "অবসেশন (Obsessions) হলো মনের ভেতর বারবার আসা অনিচ্ছাকৃত, কষ্টদায়ক ও অযাচিত চিন্তা, কল্পনা বা আবেগ যা তীব্র উদ্বেগ সৃষ্টি করে। এগুলো 'ইগো-ডিস্টোনিক' (ego-dystonic), অর্থাৎ রোগী নিজেই বুঝতে পারেন এই চিন্তাগুলো অযৌক্তিক এবং এগুলো তার নিজস্ব মন থেকেই আসছে, কিন্তু চেষ্টা করেও মন থেকে সরাতে পারেন না।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What are compulsions in Obsessive-Compulsive Disorder (OCD)?",
+    "answer": "Repetitive behaviours or mental rituals performed to reduce anxiety or prevent a feared event",
+    "explanation_bn": "কম্পালশন (Compulsions) হলো পুনরাবৃত্তিমূলক আচরণ বা মানসিক আচার যা রোগী অবসেশনের উদ্বেগ বা কাল্পনিক বিপদ দূর করার জন্য বাধ্য হয়ে বারবার করেন। উদাহরণস্বরূপ, জীবাণুর ভয়ে বারবার হাত ধোয়া বা তালার নিরাপত্তা বারবার পরীক্ষা করা। তবে এই কাজ সাময়িক স্বস্তি দিলেও স্থায়ীভাবে অবসেশন দূর করে না।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the gender distribution/epidemiology of Obsessive-Compulsive Disorder (OCD) in adults?",
+    "answer": "Equal prevalence in men and women (1:1 ratio)",
+    "explanation_bn": "প্রাপ্তবয়স্কদের মধ্যে অবসেশিভ-কমপালসিভ ডিসঅর্ডার (OCD) পুরুষ ও মহিলাদের মধ্যে সমান অনুপাতে (১:১) দেখা যায়। তবে শৈশব বা কৈশোরে এটি মেয়েদের তুলনায় ছেলেদের মধ্যে বেশি এবং কম বয়সে শুরু হতে দেখা যায়। সামগ্রিকভাবে জনসংখ্যার প্রায় ২-৩% মানুষ তাদের জীবনে ওসিডি-তে আক্রান্ত হন।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "In OCD, what compulsive behavior commonly results from contamination obsessions?",
+    "answer": "Repeated hand washing or excessive cleaning",
+    "explanation_bn": "ওসিডি-তে ময়লা বা জীবাণু দ্বারা সংক্রমিত হওয়ার ভীতি (contamination obsession) সবচেয়ে সাধারণ একটি অবসেশন। এই অতিরিক্ত উদ্বেগের প্রতিক্রিয়া হিসেবে রোগী বারবার হাত ধোয়া (repeated hand washing), অতিরিক্ত সময় ধরে গোসল করা বা জিনিসপত্র বারবার জীবাণুমুক্ত করার কম্পালশন পালন করেন।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "In OCD, what compulsive behavior typically arises from pathological doubt or fear of forgetting?",
+    "answer": "Repeated checking (e.g., locks, gas stoves, doors, switches)",
+    "explanation_bn": "ওসিডি রোগীদের মধ্যে কাজ সঠিকভাবে সম্পন্ন হয়েছে কিনা তা নিয়ে অতিরিক্ত সন্দেহ বা ভুলে যাওয়ার ভয় তৈরি হয়। এই অনিশ্চয়তা কমাতে তারা বারবার দরজার লক, গ্যাসের চুলা, পানির কল বা লাইটের সুইচ বন্ধ আছে কিনা তা বারবার চেক (repeated checking) করতে বাধ্য হন।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "In OCD, what compulsion is associated with a need for symmetry or exactness?",
+    "answer": "Ordering and arranging objects in a precise manner",
+    "explanation_bn": "ওসিডি-র একটি সুনির্দিষ্ট ধরণ হলো প্রতিসাম্য বা নিখুঁত বিন্যাসের তাড়না (symmetry obsession)। রোগী বইপত্র, খাবার বা ঘরের জিনিসপত্র একদম নিখুঁত সমান্তরালে বা নির্দিষ্ট ক্রমে সাজাতে (ordering and arranging) দীর্ঘ সময় ব্যয় করেন এবং সামান্য এলোমেলো হলে চরম অস্বস্তি অনুভব করেন।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "How is a medical presentation classified if symptoms are fully explained by demonstrable organic pathology?",
+    "answer": "Organic disease",
+    "explanation_bn": "যদি কোনো রোগীর শারীরিক লক্ষণ ও উপসর্গ ক্লিনিক্যাল পরীক্ষা, ল্যাব টেস্ট বা ইমেজিংয়ের মাধ্যমে সুস্পষ্ট কোনো শারীরিক বা জৈবিক রোগ (Organic disease) দ্বারা প্রমাণিত হয়, তবে তাকে জৈবিক রোগ হিসেবে গণ্য করা হয়। এখানে কোনো সাইকোজেনিক বা মানসিক কারণ মুখ্য নয়।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the clinical classification when medically unexplained symptoms occur without conscious feigning, and the patient is primarily preoccupied with having a specific serious diagnosis (e.g., cancer)?",
+    "answer": "Hypochondriasis (Illness Anxiety Disorder)",
+    "explanation_bn": "হাইপোকন্ড্রিয়াক্যাল ডিজঅর্ডার বা ইলনেস অ্যাংজাইটি ডিসঅর্ডারে রোগী বিশ্বাস করেন যে তিনি কোনো মারাত্মক মরণব্যাধি যেমন ক্যান্সারে আক্রান্ত। এখানে রোগী সচেতনভাবে কোনো ভান (feigning) করেন না; বরং শারীরিক সামান্য অনুভূতিকেও মারাত্মক রোগের প্রমাণ মনে করে চিকিৎসকের আশ্বস্ত করা সত্ত্বেও ভয় ও উদ্বেগে ভোগেন।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What disorder is characterized by multiple medically unexplained physical symptoms causing distress without conscious feigning, where preoccupation is with the symptoms themselves?",
+    "answer": "Somatisation disorder",
+    "explanation_bn": "সোমাটাইজেশন ডিসঅর্ডারে (Somatisation disorder) রোগী সচেতনভাবে কোনো মিথ্যা উপসর্গ তৈরি করেন না, কিন্তু বছরের পর বছর বিভিন্ন শারীরিক উপসর্গ যেমন ব্যথা, গ্যাস্ট্রিকের সমস্যা, ক্লান্তি ইত্যাদি নিয়ে একাধিক চিকিৎসকের কাছে যান। এদের মূল মনোযোগ কোনো নির্দিষ্ট ডায়াগনোসিস নয়, বরং লক্ষণগুলোর কষ্টের ওপর নিবদ্ধ থাকে।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the term for intentional symptom fabrication or conscious feigning driven by external/secondary gain (e.g., financial compensation, evading military/court, obtaining drugs)?",
+    "answer": "Malingering",
+    "explanation_bn": "ম্যালিঙ্গারিং (Malingering) কোনো মানসিক রোগ নয়, বরং স্পষ্ট কোনো বাহ্যিক স্বার্থ বা আর্থিক/আইনি সুবিধা অর্জনের জন্য ইচ্ছাকৃতভাবে রোগের ভান করা। যেমন—চাকরি বা মামলার সাজা এড়ানো, ক্ষতিপূরণের অর্থ দাবি করা বা প্রেসক্রিপশনের মাদক পাওয়ার উদ্দেশ্যে মিথ্যা লক্ষণ প্রকাশ করা।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What disorder is defined by intentional conscious symptom fabrication without any external secondary gain, motivated purely by adopting the sick role?",
+    "answer": "Factitious disorder (Munchausen syndrome)",
+    "explanation_bn": "ফ্যাকটিশাস ডিসঅর্ডারে রোগী সচেতনভাবে রোগের লক্ষণ তৈরি বা বাড়িয়ে উপস্থাপন করেন, কিন্তু এর পেছনে কোনো আর্থিক বা আইনি বাহ্যিক স্বার্থ থাকে না। তাদের একমাত্র অবচেতন উদ্দেশ্য হলো রোগীর ভূমিকা (sick role) গ্রহণ করে চিকিৎসক ও নার্সদের মনোযোগ, সহানুভূতি ও যত্ন পাওয়া।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the core feature of Hypochondriasis (Illness Anxiety Disorder)?",
+    "answer": "Persistent fear or belief of having a serious, life-threatening illness despite medical reassurance",
+    "explanation_bn": "হাইপোকন্ড্রিয়াসিসের মূল বৈশিষ্ট্য হলো সমস্ত টেস্ট স্বাভাবিক আসা এবং অভিজ্ঞ চিকিৎসকের আশ্বাস সত্ত্বেও রোগীর মনের গভীর ভীতি দূর না হওয়া যে তিনি মারাত্মক রোগে আক্রান্ত। সামান্য কাশিকে ফুসফুসের ক্যান্সার বা সামান্য মাথাব্যথাকে ব্রেন টিউমার মনে করে বারবার বিভিন্ন ডাক্তারের কাছে যাওয়া এর প্রধান লক্ষণ।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the primary characteristic of Somatisation disorder?",
+    "answer": "Multiple, recurrent, and medically unexplained physical symptoms involving multiple organ systems that cause distress",
+    "explanation_bn": "সোমাটাইজেশন ডিসঅর্ডারের মূল রূপ হলো শরীরের বিভিন্ন অঙ্গের (যেমন গ্যাস্ট্রোইন্টেস্টাইনাল, কার্ডিওভাসকুলার, ইউরিনারি) একাধিক শারীরিক লক্ষণ যা কোনো শারীরিক রোগ দিয়ে প্রমাণ করা যায় না। এর ফলে রোগীর পারিবারিক, সামাজিক ও কর্মক্ষেত্রে মারাত্মক ব্যাঘাত ঘটে।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "Why do individuals with Malingering intentionally feign or exaggerate physical or psychological symptoms?",
+    "answer": "To achieve tangible external incentives/rewards (e.g., financial gain, avoiding work/military service, legal evasion)",
+    "explanation_bn": "ম্যালিঙ্গারিং করার মূল উদ্দেশ্য হলো বাস্তব ও সুনির্দিষ্ট বাহ্যিক সুবিধা আদায় করা। স্বার্থ উদ্ধার হয়ে গেলে বা ধরা পড়ে যাওয়ার ভয় থাকলে এই ব্যক্তিরা সাধারণত কোনো চিকিৎসার আগ্রহ দেখান না এবং ইনভেসিভ টেস্ট পরিহার করতে চান।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the underlying motivation in Factitious disorder for falsifying illness?",
+    "answer": "Assuming the sick role and receiving medical care/attention without obvious external reward",
+    "explanation_bn": "ফ্যাকটিশাস ডিসঅর্ডারে রোগীর একমাত্র মানসিক তৃপ্তি হলো হাসপাতালের রোগী হিসেবে পরিচিত হওয়া এবং নার্স-ডাক্তারদের যত্ন পাওয়া। এর জন্য তারা মূত্রে রক্ত মেশানো, ইনসুলিন নিয়ে হাইপোগ্লাইসেমিয়া তৈরি করা বা ক্ষত সৃষ্টি করার মতো বিপজ্জনক কাজও করতে পারেন।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "Which psychiatric conditions frequently contribute to or coexist with Somatoform Disorders?",
+    "answer": "Depression and Anxiety disorders",
+    "explanation_bn": "সোমাটোফর্ম ডিসঅর্ডারগুলোর সাথে উদ্বেগ (Anxiety) এবং বিষণ্ণতা (Depression) অত্যন্ত ঘনিষ্ঠভাবে সম্পর্কিত। মানসিক কষ্ট ও চাপা পড়া মানসিক আবেগ অনেক সময় শারীরিক উপসর্গ হিসেবে রূপ নেয় (somatization), তাই এন্টিডিপ্রেসেন্ট ও সাইকোথেরাপির সমন্বয়ে চিকিৎসা করলে ভালো ফল পাওয়া যায়।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "What is the clinical difference between normal health-checking and obsessive checking in OCD?",
+    "answer": "Normal checking is brief, non-excessive, and not distressing, whereas obsessive checking is repetitive, excessive, time-consuming, and causes distress",
+    "explanation_bn": "স্বাভাবিক মানুষও মাঝে মাঝে দরজা বা তালা চেক করতে পারেন, কিন্তু তা ক্ষণস্থায়ী এবং তাদের দৈনন্দিন জীবনে কোনো বাধা সৃষ্টি করে না। অন্যদিকে ওসিডির চেকিং পুনরাবৃত্তিমূলক, ঘণ্টার পর ঘণ্টা সময় অপচয় করে এবং ব্যক্তি নিজে প্রচণ্ড মানসিক যন্ত্রণায় ভোগেন।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "How does a delusion differ from an obsession in terms of patient insight?",
+    "answer": "A delusion is a fixed false belief held with complete lack of insight, whereas obsessions are recognized by the patient as irrational and originating from their own mind",
+    "explanation_bn": "ডিলুশন (Delusion) বা ভ্রান্ত বিশ্বাসে রোগীর কোনো ইনসাইট বা বোধশক্তি থাকে না, রোগী বিশ্বাস করেন যে এটি ১০০% বাস্তব সত্য। পক্ষান্তরে ওসিডির অবসেশনে রোগীর ইনসাইট সাধারণত সংরক্ষিত থাকে; তারা জানেন চিন্তাটি অযৌক্তিক কিন্তু অবাধ্য মনের কারণে তা ঠেকাতে পারেন না।"
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "How is Obsessive-Compulsive Personality Disorder (OCPD) distinguished from OCD?",
+    "answer": "OCPD is ego-syntonic (perfectionism and rigidity seen as desirable by the patient), whereas OCD is ego-dystonic (obsessions/compulsions cause distress and are recognized as irrational)",
+    "explanation_bn": "ওসিপিডি (OCPD) হলো একটি ব্যক্তিত্বের বৈশিষ্ট্য যা 'ইগো-সিনটোনিক' (ego-syntonic), যেখানে ব্যক্তি তার অতিরিক্ত নিখুঁতভাব ও নিয়মনিষ্ঠাকে সঠিক ও উপযুক্ত মনে করেন। কিন্তু ওসিডি (OCD) হলো 'ইগো-ডিস্টোনিক', যেখানে অনাকাঙ্ক্ষিত চিন্তা ও আচরণগুলো রোগীর নিজের কাছেই চরম যন্ত্রণাদায়ক মনে হয়।"
+  }
+]

@@ -9,6 +9,15 @@
     ]
   },
   {
+    "id": "dermatology",
+    "filename": "dermatology.json",
+    "title": "Dermatology",
+    "count": 15,
+    "topics": [
+      "Dermatology"
+    ]
+  },
+  {
     "id": "endocrinology",
     "filename": "endocrinology.json",
     "title": "Endocrinology",
@@ -54,20 +63,29 @@
     ]
   },
   {
+    "id": "psychiatry",
+    "filename": "psychiatry.json",
+    "title": "Psychiatry",
+    "count": 19,
+    "topics": [
+      "Psychiatry"
+    ]
+  },
+  {
     "id": "respiratory_rapid_recall_all_70_explained",
     "filename": "respiratory_rapid_recall_all_70_explained.json",
     "title": "Respiratory Quick Recap All 70 Explained",
     "count": 70,
     "topics": [
+      "Pleural Diseases",
+      "Tuberculosis (TB)",
+      "Approach to Dyspnea",
       "Pneumonia",
       "Respiratory Failure",
-      "Asthma and COPD",
       "Lung Cancer",
-      "Pleural Diseases",
-      "Approach to Dyspnea",
       "Bronchiectasis",
-      "Upper Respiratory Tract Infection (URTI)",
-      "Tuberculosis (TB)"
+      "Asthma and COPD",
+      "Upper Respiratory Tract Infection (URTI)"
     ]
   },
   {
