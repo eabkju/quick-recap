@@ -175,6 +175,7 @@ class QuickRecapApp {
     if (text.includes('derma') || text.includes('skin')) return '🧴';
     if (text.includes('psych') || text.includes('mental')) return '🧘';
     if (text.includes('infect') || text.includes('micro') || text.includes('virus')) return '🦠';
+    if (text.includes('nutri') || text.includes('metabol') || text.includes('vitamin')) return '🥗';
     return '📘';
   }
 
