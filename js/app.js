@@ -9,6 +9,11 @@ class QuickRecapApp {
     this.currentQuestions = [];
     this.currentIndex = 0;
     this.view = 'home'; // 'home' | 'study' | 'exam' | 'review' | 'hard' | 'flagged'
+
+    // Curriculum Hierarchy State (Clinical & Para Clinical Parts)
+    this.currentPart = 'clinical'; // 'clinical' or 'para_clinical'
+    this.currentMotherTopic = 'medicine'; // 'medicine', 'surgery', 'gyne_obs', etc.
+    this.curriculum = null;
     
     // Exam state
     this.activeExam = null;
@@ -30,6 +35,112 @@ class QuickRecapApp {
     this.themeToggleBtn = document.getElementById('theme-toggle-btn');
 
     this.swipeCleanup = null;
+  }
+
+  getDefaultCurriculum() {
+    return {
+      parts: [
+        {
+          id: 'clinical',
+          title: 'Clinical Part',
+          icon: '🩺',
+          mother_topics: [
+            {
+              id: 'medicine',
+              title: 'Medicine',
+              icon: '💊',
+              description: 'Internal Medicine & Super-specialties (Cardiology, Neurology, Nephrology, etc.)'
+            },
+            {
+              id: 'surgery',
+              title: 'Surgery',
+              icon: '✂️',
+              description: 'General Surgery, Orthopedics, Urology, ENT, Surgical Principles'
+            },
+            {
+              id: 'gyne_obs',
+              title: 'Gyne & Obs',
+              icon: '👶',
+              description: 'Obstetrics & Gynaecology, Maternal-Fetal Health'
+            }
+          ]
+        },
+        {
+          id: 'para_clinical',
+          title: 'Para Clinical Part',
+          icon: '🔬',
+          mother_topics: [
+            {
+              id: 'anatomy',
+              title: 'Anatomy',
+              icon: '🦴',
+              description: 'Gross Anatomy, Embryology, Histology & Neuroanatomy'
+            },
+            {
+              id: 'physiology',
+              title: 'Physiology',
+              icon: '⚡',
+              description: 'Systemic Human Physiology, Organ Function & Homeostasis'
+            },
+            {
+              id: 'biochemistry',
+              title: 'Biochemistry',
+              icon: '🧬',
+              description: 'Metabolism, Enzymes, Molecular Biology & Genetics'
+            },
+            {
+              id: 'pharmacology',
+              title: 'Pharmacology',
+              icon: '💊',
+              description: 'General Principles, Autonomic, CNS, Antimicrobials & Chemotherapy'
+            },
+            {
+              id: 'forensic_toxicology',
+              title: 'Forensic & Toxicology',
+              icon: '⚖️',
+              description: 'Forensic Medicine, Medical Jurisprudence & Clinical Toxicology'
+            },
+            {
+              id: 'community_medicine',
+              title: 'Community Medicine',
+              icon: '🏥',
+              description: 'Public Health, Epidemiology, Biostatistics & Preventive Medicine'
+            },
+            {
+              id: 'pathology',
+              title: 'Pathology',
+              icon: '🔬',
+              description: 'General Pathology, Hematology, Systemic Pathology & Lab Medicine'
+            },
+            {
+              id: 'microbiology',
+              title: 'Microbiology',
+              icon: '🦠',
+              description: 'Bacteriology, Virology, Mycology, Parasitology & Immunology'
+            }
+          ]
+        }
+      ]
+    };
+  }
+
+  getMotherTopicInfo(motherTopicId) {
+    if (!this.curriculum) this.curriculum = this.getDefaultCurriculum();
+    for (const part of this.curriculum.parts) {
+      for (const mt of part.mother_topics) {
+        if (mt.id === motherTopicId) {
+          return { ...mt, partId: part.id, partTitle: part.title };
+        }
+      }
+    }
+    return {
+      id: motherTopicId,
+      title: motherTopicId.charAt(0).toUpperCase() + motherTopicId.slice(1),
+      icon: '📚',
+      description: '',
+      partId: 'clinical',
+      partTitle: 'Clinical Part'
+    };
   }
 
   async init() {
@@ -104,27 +215,39 @@ class QuickRecapApp {
     return next;
   }
 
-  // Load Database Manifest and Chapters
+  // Load Database Manifest, Curriculum and Chapters
   async loadManifest() {
     try {
-      const res = await fetch('./database/manifest.json');
-      if (res.ok) {
-        this.chapters = await res.json();
+      const [resManifest, resCurriculum] = await Promise.allSettled([
+        fetch('./database/manifest.json'),
+        fetch('./database/curriculum.json')
+      ]);
+
+      if (resManifest.status === 'fulfilled' && resManifest.value.ok) {
+        this.chapters = await resManifest.value.json();
       } else {
         // Fallback default chapters if manifest fetch fails
         this.chapters = [
-          { id: 'cardiology_rapid_recall_all_99_explained', filename: 'cardiology_rapid_recall_all_99_explained.json', title: 'Cardiology Quick Recap All 99 Explained', count: 99 },
-          { id: 'endocrinology', filename: 'endocrinology.json', title: 'Endocrinology', count: 52 },
-          { id: 'gastroenterology', filename: 'gastroenterology.json', title: 'Gastroenterology', count: 46 },
-          { id: 'haematology', filename: 'haematology.json', title: 'Haematology', count: 32 },
-          { id: 'nephrology', filename: 'nephrology.json', title: 'Nephrology', count: 31 },
-          { id: 'neurology_rapid_recall_all_46_explained', filename: 'neurology_rapid_recall_all_46_explained.json', title: 'Neurology Quick Recap All 46 Explained', count: 46 },
-          { id: 'respiratory_rapid_recall_all_70_explained', filename: 'respiratory_rapid_recall_all_70_explained.json', title: 'Respiratory Quick Recap All 70 Explained', count: 70 },
-          { id: 'rheumatology', filename: 'rheumatology.json', title: 'Rheumatology', count: 104 }
+          { id: 'cardiology_rapid_recall_all_99_explained', filename: 'cardiology_rapid_recall_all_99_explained.json', title: 'Cardiology Quick Recap All 99 Explained', count: 99, part: 'clinical', mother_topic: 'medicine' },
+          { id: 'endocrinology', filename: 'endocrinology.json', title: 'Endocrinology', count: 52, part: 'clinical', mother_topic: 'medicine' },
+          { id: 'gastroenterology', filename: 'gastroenterology.json', title: 'Gastroenterology', count: 46, part: 'clinical', mother_topic: 'medicine' },
+          { id: 'haematology', filename: 'haematology.json', title: 'Haematology', count: 32, part: 'clinical', mother_topic: 'medicine' },
+          { id: 'nephrology', filename: 'nephrology.json', title: 'Nephrology', count: 68, part: 'clinical', mother_topic: 'medicine' },
+          { id: 'neurology_rapid_recall_all_46_explained', filename: 'neurology_rapid_recall_all_46_explained.json', title: 'Neurology Quick Recap All 46 Explained', count: 46, part: 'clinical', mother_topic: 'medicine' },
+          { id: 'respiratory_rapid_recall_all_70_explained', filename: 'respiratory_rapid_recall_all_70_explained.json', title: 'Respiratory Quick Recap All 70 Explained', count: 70, part: 'clinical', mother_topic: 'medicine' },
+          { id: 'rheumatology', filename: 'rheumatology.json', title: 'Rheumatology', count: 104, part: 'clinical', mother_topic: 'medicine' }
         ];
+      }
+
+      if (resCurriculum.status === 'fulfilled' && resCurriculum.value.ok) {
+        this.curriculum = await resCurriculum.value.json();
       }
     } catch (e) {
       console.warn('Manifest load error, using fallbacks:', e);
+    }
+
+    if (!this.curriculum) {
+      this.curriculum = this.getDefaultCurriculum();
     }
   }
 
@@ -137,7 +260,11 @@ class QuickRecapApp {
         id: `${chapter.id}_${idx}`,
         originalIndex: idx,
         chapterId: chapter.id,
-        chapterTitle: chapter.title
+        chapterTitle: chapter.title,
+        part: chapter.part || 'clinical',
+        partTitle: chapter.part_title || 'Clinical Part',
+        motherTopic: chapter.mother_topic || 'medicine',
+        motherTitle: chapter.mother_title || 'Medicine'
       }));
     } catch (e) {
       console.error(`Error loading chapter ${chapter.filename}:`, e);
@@ -332,42 +459,148 @@ class QuickRecapApp {
     const flaggedQuestions = Storage.getFlaggedQuestions();
     const allProgress = Storage.getAllProgress();
 
-    let chaptersHtml = this.chapters.map(ch => {
-      const prog = allProgress[ch.id] || { completed: [] };
-      const completedCount = (prog.completed || []).length;
-      const percent = ch.count ? Math.round((completedCount / ch.count) * 100) : 0;
-      const lastIndex = prog.lastIndex || 0;
-      const icon = this.getChapterIcon(ch.id, ch.title);
-      const cleanTitle = this.cleanChapterTitle(ch.title);
+    if (!this.curriculum) this.curriculum = this.getDefaultCurriculum();
 
+    // 1. Calculate part and mother topic stats
+    const partStats = {
+      clinical: { topics: 0, questions: 0 },
+      para_clinical: { topics: 0, questions: 0 }
+    };
+    const motherStats = {};
+
+    this.chapters.forEach(ch => {
+      const part = ch.part || 'clinical';
+      const mt = ch.mother_topic || 'medicine';
+      if (partStats[part]) {
+        partStats[part].topics++;
+        partStats[part].questions += (ch.count || 0);
+      }
+      if (!motherStats[mt]) {
+        motherStats[mt] = { topics: 0, questions: 0 };
+      }
+      motherStats[mt].topics++;
+      motherStats[mt].questions += (ch.count || 0);
+    });
+
+    // Active Part
+    const activePartObj = this.curriculum.parts.find(p => p.id === this.currentPart) || this.curriculum.parts[0];
+    const motherTopics = activePartObj.mother_topics;
+
+    // Check if currentMotherTopic is valid in activePart
+    if (!motherTopics.some(mt => mt.id === this.currentMotherTopic)) {
+      this.currentMotherTopic = motherTopics[0].id;
+    }
+
+    const currentMotherObj = motherTopics.find(mt => mt.id === this.currentMotherTopic) || motherTopics[0];
+
+    // Filter chapters belonging to the active mother topic
+    const filteredChapters = this.chapters.filter(ch => (ch.mother_topic || 'medicine') === this.currentMotherTopic);
+
+    // Build Mother Topics Bar Chips
+    const motherChipsHtml = motherTopics.map(mt => {
+      const count = motherStats[mt.id]?.topics || 0;
+      const isActive = mt.id === this.currentMotherTopic;
       return `
-        <div class="chapter-card" data-chapter-id="${ch.id}">
-          <div class="chapter-card-header">
-            <div class="chapter-icon-box">${icon}</div>
-            <div class="chapter-header-text">
-              <div class="chapter-title">${this.escapeHtml(cleanTitle)}</div>
-              <div class="text-muted" style="font-size: 0.8rem; margin-top: 0.2rem;">
-                ${ch.count} High-Yield Items • ${completedCount} Read
+        <button type="button" class="mother-topic-chip ${isActive ? 'active' : ''}" data-mother="${mt.id}">
+          <span>${mt.icon}</span>
+          <span>${this.escapeHtml(mt.title)}</span>
+          <span class="mother-topic-chip-badge">${count > 0 ? count : '0'}</span>
+        </button>
+      `;
+    }).join('');
+
+    // Build Chapter Cards or Empty State
+    let subjectBodyHtml = '';
+    if (filteredChapters.length > 0) {
+      const totalSubjQuestions = filteredChapters.reduce((sum, ch) => sum + (ch.count || 0), 0);
+
+      const chaptersCardsHtml = filteredChapters.map(ch => {
+        const prog = allProgress[ch.id] || { completed: [] };
+        const completedCount = (prog.completed || []).length;
+        const percent = ch.count ? Math.round((completedCount / ch.count) * 100) : 0;
+        const lastIndex = prog.lastIndex || 0;
+        const icon = this.getChapterIcon(ch.id, ch.title);
+        const cleanTitle = this.cleanChapterTitle(ch.title);
+
+        return `
+          <div class="chapter-card" data-chapter-id="${ch.id}">
+            <div class="chapter-card-header">
+              <div class="chapter-icon-box">${icon}</div>
+              <div class="chapter-header-text">
+                <div class="chapter-title">${this.escapeHtml(cleanTitle)}</div>
+                <div class="text-muted" style="font-size: 0.8rem; margin-top: 0.2rem;">
+                  ${ch.count} High-Yield Items • ${completedCount} Read
+                </div>
+              </div>
+              <span class="chapter-badge">${percent}%</span>
+            </div>
+
+            <div style="height: 6px; background: var(--border-color); border-radius: 999px; overflow: hidden;">
+              <div style="height: 100%; width: ${percent}%; background: linear-gradient(90deg, #3b82f6, #10b981); transition: width 0.3s;"></div>
+            </div>
+
+            <div class="chapter-actions">
+              <button class="btn btn-primary btn-sm btn-study" data-chapter-id="${ch.id}" style="flex: 1;">
+                📖 ${lastIndex > 0 ? `Resume (#${lastIndex + 1})` : 'Start Study'}
+              </button>
+              <button class="btn btn-secondary btn-sm btn-exam" data-chapter-id="${ch.id}">
+                📝 Exam
+              </button>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      subjectBodyHtml = `
+        <div class="mother-topic-banner">
+          <div class="mother-topic-banner-top">
+            <div class="mother-topic-banner-title">
+              <span style="font-size: 1.4rem;">${currentMotherObj.icon}</span>
+              <div>
+                <div>${this.escapeHtml(currentMotherObj.title)}</div>
+                <div class="text-muted" style="font-size: 0.8rem; font-weight: 500;">
+                  ${filteredChapters.length} Subtopics • ${totalSubjQuestions} High-Yield Questions
+                </div>
               </div>
             </div>
-            <span class="chapter-badge">${percent}%</span>
+            <div class="mother-topic-banner-actions">
+              <button class="btn btn-primary btn-sm" id="btn-mother-exam" data-mother="${currentMotherObj.id}">
+                🏆 ${this.escapeHtml(currentMotherObj.title)} Grand Exam
+              </button>
+              <button class="btn btn-secondary btn-sm" id="btn-mother-study" data-mother="${currentMotherObj.id}">
+                📖 Study All
+              </button>
+            </div>
           </div>
-
-          <div style="height: 6px; background: var(--border-color); border-radius: 999px; overflow: hidden;">
-            <div style="height: 100%; width: ${percent}%; background: linear-gradient(90deg, #3b82f6, #10b981); transition: width 0.3s;"></div>
+          <div class="mother-topic-banner-desc">
+            ${this.escapeHtml(currentMotherObj.description)}
           </div>
+        </div>
 
-          <div class="chapter-actions">
-            <button class="btn btn-primary btn-sm btn-study" data-chapter-id="${ch.id}" style="flex: 1;">
-              📖 ${lastIndex > 0 ? `Resume (#${lastIndex + 1})` : 'Start Study'}
-            </button>
-            <button class="btn btn-secondary btn-sm btn-exam" data-chapter-id="${ch.id}">
-              📝 Exam
-            </button>
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem;">
+          <h2 style="font-size: 1.05rem; font-weight: 800;">
+            ${this.escapeHtml(currentMotherObj.title)} Subtopics (${filteredChapters.length})
+          </h2>
+          <span class="text-muted" style="font-size: 0.8rem;">Tap to study or take exam</span>
+        </div>
+
+        <div class="chapters-container">
+          ${chaptersCardsHtml}
+        </div>
+      `;
+    } else {
+      subjectBodyHtml = `
+        <div class="mother-empty-card">
+          <div class="mother-empty-icon">${currentMotherObj.icon}</div>
+          <div class="mother-empty-title">${this.escapeHtml(currentMotherObj.title)}</div>
+          <div class="mother-empty-desc">${this.escapeHtml(currentMotherObj.description)}</div>
+          <div class="mother-empty-guide">
+            <strong>💡 Ready for ${this.escapeHtml(currentMotherObj.title)} Topics!</strong><br>
+            To populate this mother topic, simply drop a JSON file into the <code>database/</code> folder (e.g. <code>${currentMotherObj.id}_topics.json</code>), then run <code>python3 update_db.py --push</code>.
           </div>
         </div>
       `;
-    }).join('');
+    }
 
     container.innerHTML = `
       <div class="quick-action-grid">
@@ -404,17 +637,69 @@ class QuickRecapApp {
         </div>
       </div>
 
-      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem;">
-        <h2 style="font-size: 1.1rem; font-weight: 800;">Chapters (${this.chapters.length})</h2>
-        <span class="text-muted" style="font-size: 0.8rem;">Tap a chapter to study</span>
+      <!-- Curriculum Part Switcher -->
+      <div class="curriculum-part-tabs">
+        <button type="button" class="part-tab-btn ${this.currentPart === 'clinical' ? 'active' : ''}" data-part="clinical">
+          🩺 Clinical Part
+          <span class="part-tab-badge">${partStats.clinical.topics} Topics</span>
+        </button>
+        <button type="button" class="part-tab-btn ${this.currentPart === 'para_clinical' ? 'active' : ''}" data-part="para_clinical">
+          🔬 Para Clinical Part
+          <span class="part-tab-badge">8 Subjects</span>
+        </button>
       </div>
 
-      <div class="chapters-container">
-        ${chaptersHtml}
+      <!-- Mother Topics Horizontal Bar -->
+      <div class="mother-topics-bar-wrap">
+        <div class="mother-topics-scroll">
+          ${motherChipsHtml}
+        </div>
+      </div>
+
+      <!-- Subject Content Area -->
+      <div id="subject-content-area">
+        ${subjectBodyHtml}
       </div>
     `;
 
-    // Bind Home events
+    // Bind Curriculum Part switching
+    container.querySelectorAll('.part-tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const part = btn.getAttribute('data-part');
+        if (part && part !== this.currentPart) {
+          this.currentPart = part;
+          const targetPartObj = this.curriculum.parts.find(p => p.id === part);
+          if (targetPartObj && targetPartObj.mother_topics.length > 0) {
+            this.currentMotherTopic = targetPartObj.mother_topics[0].id;
+          }
+          this.renderHomeOverview(container);
+        }
+      });
+    });
+
+    // Bind Mother Topic switching
+    container.querySelectorAll('.mother-topic-chip').forEach(chip => {
+      chip.addEventListener('click', () => {
+        const mtId = chip.getAttribute('data-mother');
+        if (mtId && mtId !== this.currentMotherTopic) {
+          this.currentMotherTopic = mtId;
+          this.renderHomeOverview(container);
+        }
+      });
+    });
+
+    // Bind Mother Topic Grand Exam & Study All
+    container.querySelector('#btn-mother-exam')?.addEventListener('click', (e) => {
+      const mtId = e.currentTarget.getAttribute('data-mother');
+      this.startGrandExam(mtId);
+    });
+
+    container.querySelector('#btn-mother-study')?.addEventListener('click', (e) => {
+      const mtId = e.currentTarget.getAttribute('data-mother');
+      this.startMotherTopicStudy(mtId);
+    });
+
+    // Bind Chapter study / exam
     container.querySelectorAll('.btn-study').forEach(btn => {
       btn.addEventListener('click', (e) => {
         e.stopPropagation();
@@ -431,6 +716,7 @@ class QuickRecapApp {
       });
     });
 
+    // Bind Quick Actions
     container.querySelector('#btn-grand-exam')?.addEventListener('click', () => {
       this.startGrandExam();
     });
@@ -523,7 +809,7 @@ class QuickRecapApp {
       return `
         <div class="search-result-card selectable" data-chapter-id="${q.chapterId}" data-original-index="${q.originalIndex}">
           <div class="search-result-header">
-            <span class="chapter-badge" style="font-size: 0.72rem;">${this.escapeHtml(q.chapterTitle || q.topic || 'General')}</span>
+            <span class="search-breadcrumb">${this.escapeHtml(q.partTitle || 'Clinical Part')} › ${this.escapeHtml(q.motherTitle || 'Medicine')} › ${this.escapeHtml(q.chapterTitle || q.topic || 'General')}</span>
             <button class="icon-btn search-flag-btn ${isBookmarked ? 'active' : ''}" data-key="${this.escapeHtml(questionKey)}" data-qid="${q.id}" title="Flag Question" style="width: 32px; height: 32px; font-size: 0.9rem;">
               ${isBookmarked ? '★' : '☆'}
             </button>
@@ -666,7 +952,7 @@ class QuickRecapApp {
           <div class="study-card-top">
             <div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
               <span class="study-counter">Q ${currentNum}/${total}</span>
-              <span class="chapter-badge" style="font-size: 0.72rem;">${q.topic || 'General'}</span>
+              <span class="chapter-badge" style="font-size: 0.72rem;">${q.motherTitle ? `${this.escapeHtml(q.motherTitle)} › ` : ''}${this.escapeHtml(q.topic || 'General')}</span>
             </div>
 
             <div class="reader-tools-cluster">
@@ -790,13 +1076,57 @@ class QuickRecapApp {
     this.promptExamConfig(questions, ch.title, ch.id);
   }
 
-  async startGrandExam() {
-    const allQuestions = await this.fetchAllQuestions();
-    if (allQuestions.length === 0) {
-      alert('No questions loaded for Grand Exam.');
+  async startMotherTopicStudy(motherTopicId) {
+    const chapters = this.chapters.filter(c => (c.mother_topic || 'medicine') === motherTopicId);
+    if (chapters.length === 0) {
+      alert('No topics found in this subject.');
       return;
     }
-    this.promptExamConfig(allQuestions, 'Grand Exam (All Topics)', 'grand_exam');
+    let allQs = [];
+    for (const ch of chapters) {
+      const qs = await this.fetchChapterQuestions(ch);
+      allQs.push(...qs);
+    }
+    if (allQs.length === 0) {
+      alert('No questions available.');
+      return;
+    }
+    const mtInfo = this.getMotherTopicInfo(motherTopicId);
+    this.currentChapter = {
+      id: `${motherTopicId}_all`,
+      title: `${mtInfo.title} (All Subtopics)`,
+      count: allQs.length
+    };
+    this.currentQuestions = allQs;
+    this.currentIndex = 0;
+    this.view = 'study';
+    if (this.backBtn) this.backBtn.style.display = 'inline-flex';
+    this.renderStudyCard();
+  }
+
+  async startGrandExam(motherTopicId = null) {
+    let questionPool = [];
+    let examTitle = 'Grand Exam (All Topics)';
+    let examId = 'grand_exam';
+
+    if (motherTopicId) {
+      const chapters = this.chapters.filter(c => (c.mother_topic || 'medicine') === motherTopicId);
+      for (const ch of chapters) {
+        const qs = await this.fetchChapterQuestions(ch);
+        questionPool.push(...qs);
+      }
+      const mtInfo = this.getMotherTopicInfo(motherTopicId);
+      examTitle = `${mtInfo.title} Grand Exam`;
+      examId = `${motherTopicId}_grand_exam`;
+    } else {
+      questionPool = await this.fetchAllQuestions();
+    }
+
+    if (questionPool.length === 0) {
+      alert('No questions loaded for this exam.');
+      return;
+    }
+    this.promptExamConfig(questionPool, examTitle, examId);
   }
 
   promptExamConfig(questionPool, examTitle, examId) {

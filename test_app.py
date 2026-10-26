@@ -30,6 +30,39 @@ class TestQuickRecapApp(unittest.TestCase):
                 self.assertTrue(len(item['answer']) > 0)
                 self.assertTrue(len(item['explanation_bn']) > 0)
 
+    def test_curriculum_hierarchy(self):
+        curriculum_path = os.path.join(self.db_dir, 'curriculum.json')
+        manifest_path = os.path.join(self.db_dir, 'manifest.json')
+        self.assertTrue(os.path.exists(curriculum_path), "curriculum.json must exist")
+        self.assertTrue(os.path.exists(manifest_path), "manifest.json must exist")
+
+        with open(curriculum_path, 'r', encoding='utf-8') as f:
+            curriculum = json.load(f)
+        with open(manifest_path, 'r', encoding='utf-8') as f:
+            manifest = json.load(f)
+
+        # Check Parts
+        parts = {p['id']: p for p in curriculum.get('parts', [])}
+        self.assertIn('clinical', parts)
+        self.assertIn('para_clinical', parts)
+
+        # Clinical Mother Topics
+        clinical_mts = [mt['id'] for mt in parts['clinical'].get('mother_topics', [])]
+        self.assertIn('medicine', clinical_mts)
+        self.assertIn('surgery', clinical_mts)
+        self.assertIn('gyne_obs', clinical_mts)
+
+        # Para Clinical Mother Topics
+        para_mts = [mt['id'] for mt in parts['para_clinical'].get('mother_topics', [])]
+        for expected in ['anatomy', 'physiology', 'biochemistry', 'pharmacology', 'forensic_toxicology', 'community_medicine', 'pathology', 'microbiology']:
+            self.assertIn(expected, para_mts, f"Para clinical must contain {expected}")
+
+        # Check that all current 17 manifest topics belong to Medicine in Clinical Part
+        self.assertEqual(len(manifest), 17)
+        for ch in manifest:
+            self.assertEqual(ch.get('part'), 'clinical', f"{ch['id']} must belong to clinical part")
+            self.assertEqual(ch.get('mother_topic'), 'medicine', f"{ch['id']} must belong to medicine mother topic")
+
     def test_frontend_assets_exist(self):
         index_path = os.path.join(self.app_dir, 'index.html')
         css_path = os.path.join(self.app_dir, 'css', 'app.css')

@@ -1006,3 +1006,218 @@ body {
   margin-top: 0.5rem;
 }
 
+
+/* ==========================================================================
+   Curriculum Hierarchy & Mother Topics (Clinical & Para Clinical)
+   ========================================================================== */
+
+.curriculum-part-tabs {
+  display: flex;
+  gap: 0.5rem;
+  background-color: var(--bg-card);
+  padding: 0.35rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-color);
+  margin-bottom: 0.85rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.part-tab-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.65rem 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 700;
+  border: none;
+  border-radius: var(--radius-md);
+  background: transparent;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.part-tab-btn:hover {
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
+}
+
+.part-tab-btn.active {
+  background-color: var(--accent);
+  color: #ffffff;
+  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
+}
+
+.part-tab-badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.15rem 0.45rem;
+  border-radius: 999px;
+  background: var(--bg-primary);
+  color: var(--text-muted);
+}
+
+.part-tab-btn.active .part-tab-badge {
+  background: rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+}
+
+/* Mother Topics Horizontal Chips Bar */
+.mother-topics-bar-wrap {
+  position: relative;
+  margin-bottom: 0.85rem;
+}
+
+.mother-topics-scroll {
+  display: flex;
+  gap: 0.5rem;
+  overflow-x: auto;
+  padding: 0.2rem 0.2rem 0.5rem 0.2rem;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.mother-topics-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.mother-topic-chip {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.5rem 0.85rem;
+  font-size: 0.825rem;
+  font-weight: 700;
+  border-radius: 999px;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.mother-topic-chip:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.mother-topic-chip.active {
+  background-color: var(--accent-light);
+  border-color: var(--accent);
+  color: var(--accent);
+  box-shadow: 0 2px 6px rgba(37, 99, 235, 0.15);
+}
+
+.mother-topic-chip-badge {
+  font-size: 0.7rem;
+  padding: 0.1rem 0.4rem;
+  border-radius: 999px;
+  background: var(--border-color);
+  color: var(--text-secondary);
+  font-weight: 700;
+}
+
+.mother-topic-chip.active .mother-topic-chip-badge {
+  background: var(--accent);
+  color: #ffffff;
+}
+
+/* Mother Topic Banner */
+.mother-topic-banner {
+  background: linear-gradient(135deg, var(--bg-card) 0%, var(--bg-secondary) 100%);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 1.1rem 1.25rem;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.mother-topic-banner-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.mother-topic-banner-title {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--text-primary);
+}
+
+.mother-topic-banner-desc {
+  font-size: 0.825rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
+.mother-topic-banner-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+/* Empty Mother Topic State */
+.mother-empty-card {
+  text-align: center;
+  padding: 3rem 1.5rem;
+  background-color: var(--bg-card);
+  border: 2px dashed var(--border-color);
+  border-radius: var(--radius-xl);
+  margin-top: 0.5rem;
+}
+
+.mother-empty-icon {
+  font-size: 3rem;
+  margin-bottom: 0.75rem;
+}
+
+.mother-empty-title {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.mother-empty-desc {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  max-width: 440px;
+  margin: 0 auto 1.25rem auto;
+  line-height: 1.5;
+}
+
+.mother-empty-guide {
+  display: inline-block;
+  background-color: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 0.85rem 1.1rem;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  text-align: left;
+  line-height: 1.5;
+}
+
+.search-breadcrumb {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--accent);
+  background-color: var(--accent-light);
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
