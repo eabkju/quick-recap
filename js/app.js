@@ -172,6 +172,9 @@ class QuickRecapApp {
     if (text.includes('neuro')) return '🧠';
     if (text.includes('resp') || text.includes('pulmo') || text.includes('chest')) return '🫁';
     if (text.includes('rheuma') || text.includes('joint') || text.includes('bone')) return '🦴';
+    if (text.includes('derma') || text.includes('skin')) return '🧴';
+    if (text.includes('psych') || text.includes('mental')) return '🧘';
+    if (text.includes('infect') || text.includes('micro') || text.includes('virus')) return '🦠';
     return '📘';
   }
 
