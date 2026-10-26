@@ -57,7 +57,7 @@
     "id": "nephrology",
     "filename": "nephrology.json",
     "title": "Nephrology",
-    "count": 31,
+    "count": 55,
     "topics": [
       "Nephrology"
     ]
@@ -69,6 +69,15 @@
     "count": 46,
     "topics": [
       "Neurology"
+    ]
+  },
+  {
+    "id": "nutrition_and_metabolism",
+    "filename": "nutrition_and_metabolism.json",
+    "title": "Nutrition And Metabolism",
+    "count": 26,
+    "topics": [
+      "Nutrition and Metabolism"
     ]
   },
   {
@@ -86,15 +95,15 @@
     "title": "Respiratory Quick Recap All 70 Explained",
     "count": 70,
     "topics": [
-      "Asthma and COPD",
-      "Pleural Diseases",
-      "Approach to Dyspnea",
-      "Pneumonia",
       "Respiratory Failure",
-      "Lung Cancer",
       "Upper Respiratory Tract Infection (URTI)",
       "Tuberculosis (TB)",
-      "Bronchiectasis"
+      "Pneumonia",
+      "Bronchiectasis",
+      "Lung Cancer",
+      "Asthma and COPD",
+      "Pleural Diseases",
+      "Approach to Dyspnea"
     ]
   },
   {

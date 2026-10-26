@@ -184,5 +184,149 @@
     "question": "Most common glomerular cause of microscopic haematuria worldwide",
     "answer": "IgA nephropathy (Berger disease)",
     "explanation_bn": "বিশ্বব্যাপী গ্লোমেরুলার উৎসের মাইক্রোস্কোপিক হেমাটুরিয়ার সবচেয়ে সাধারণ কারণ হলো আইজিএ নেফ্রোপ্যাথি।\nসাধারণত উচ্চ শ্বাসতন্ত্রের ভাইরাল ইনফেকশনের ১-২ দিনের মধ্যে তরুণদের প্রস্রাবের রঙ চা বা কোকের মতো হয়ে যায় (সিনফ্যারেনজাইটিক হেমাটুরিয়া)।\nকিডনি বায়োপসিতে মেসাঞ্জিয়ামে অনাক্রম্য আইজিএ (IgA) অ্যান্টিবডি জমা হতে দেখা যায়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What are the physiological functions and site of action of SGLT2 inhibitors and Acetazolamide in the Proximal Convoluted Tubule (PCT)?",
+    "answer": "PCT reabsorbs ~65% of filtered Na+ and water; Acetazolamide inhibits carbonic anhydrase (NHE3 coupling) and SGLT2 inhibitors block sodium-glucose cotransport here",
+    "explanation_bn": "প্রক্সিমাল কনভোলুটেড টিউবিউল (PCT) ফিল্টার হওয়া প্রায় ৬৫% সোডিয়াম ও পানি পুনঃশোষণ করে। অ্যাসিটাজোলামাইড কার্বনিক অ্যানহাইড্রেজ এনজাইম বাধা দিয়ে এবং এসজিএলটি২ ইনহিবিটর (ড্যাপাগ্লিফ্লোজিন) গ্লুকোজ ও সোডিয়াম পুনঃশোষণ ব্লক করে এই স্থানে কাজ করে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Which transport system and diuretic class act in the Thick Ascending Limb (TAL) of loop of Henle?",
+    "answer": "NKCC2 cotransporter; reabsorbs 25% of filtered Na+ and is impermeable to water; blocked by Loop diuretics (furosemide)",
+    "explanation_bn": "হেনলির লুপের পুরু ঊর্ধ্বমুখী বাহু (TAL) পানির জন্য সম্পূর্ণ অপ্রবেশ্য হলেও প্রায় ২৫% সোডিয়াম ও ক্লোরাইড পুনঃশোষণ করে NKCC2 চ্যানেলের মাধ্যমে। লুপ ডাইইউরেটিক্স (ফুরোসেমাইড) এই চ্যানেলকে ব্লক করে শক্তিশালী মূত্রবর্ধক হিসেবে কাজ করে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Which cotransporter in the Early Distal Convoluted Tubule (DCT) is targeted by Thiazide diuretics?",
+    "answer": "Na+-Cl- cotransporter (NCC); reabsorbs 5–7% of filtered sodium and is impermeable to water",
+    "explanation_bn": "আর্লি ডিসটাল টিউবিউল (DCT) পানির জন্য অপ্রবেশ্য এবং এটি ৫-৭% সোডিয়াম পুনঃশোষণ করে NCC কো-ট্রান্সপোর্টারের মাধ্যমে। থায়াজাইড ডাইইউরেটিক্স (হাইড্রোক্লোরোথায়াজাইড) এই NCC চ্যানেল ব্লক করে সোডিয়াম ও পানি নিঃসরণ বাড়ায়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What transport mechanisms operate in the Late DCT and Cortical Collecting Duct, and which diuretics target them?",
+    "answer": "Epithelial Sodium Channel (ENaC) reabsorbs 2–3% Na+ and secretes K+/H+ (aldosterone-mediated); targeted by Amiloride (ENaC blocker) and Spironolactone (Aldosterone antagonist)",
+    "explanation_bn": "লেট ডিসটাল ও কালেক্টিং ডাক্টে অ্যালডোস্টেরন হরমোন ENaC চ্যানেলের মাধ্যমে সোডিয়াম ধরে রেখে পটাসিয়াম ও হাইড্রোজেন ত্যাগ করে। স্পাইরোনোল্যাকটোন এবং অ্যামিলোরাইড এই প্রক্রিয়ায় বাধা দিয়ে পটাসিয়াম ধরে রাখে (potassium-sparing diuretics)।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What are the principal etiologies of Hypovolaemic Hyponatraemia?",
+    "answer": "Gastrointestinal fluid losses (severe vomiting, diarrhoea) and renal losses, classically driven by Thiazide diuretics",
+    "explanation_bn": "হাইপোভোলেমিক হাইপোনাট্রেমিয়ায় শরীরের সামগ্রিক পানি ও সোডিয়াম দুটোই কমে যায়, তবে সোডিয়ামের অপচয় বেশি হয়। প্রধান কারণ হলো অতিরিক্ত বমি, ডায়রিয়া এবং থায়াজাইড জাতীয় ডাইইউরেটিক্সের ব্যবহার।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What is the classic clinical cause of Euvolaemic Hyponatraemia?",
+    "answer": "Syndrome of Inappropriate Antidiuretic Hormone secretion (SIADH)",
+    "explanation_bn": "ইউভোলেমিক হাইপোনাট্রেমিয়ায় কোনো দৃশ্যমান ইডিমা বা ডিহাইড্রেশন থাকে না, তবে শরীরে অতিরিক্ত এডিএইচ (ADH) হরমোনের কারণে অতিরিক্ত পানি জমে রক্তে সোডিয়াম পাতলা হয়ে যায়। এর প্রধান উদাহরণ হলো SIADH।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What are the hallmark conditions causing Hypervolaemic Hyponatraemia (dilutional hyponatraemia)?",
+    "answer": "Congestive Heart Failure, Cirrhosis of the liver with ascites, Nephrotic syndrome, and Advanced Chronic Kidney Disease (CKD)",
+    "explanation_bn": "হাইপারভোলেমিক হাইপোনাট্রেমিয়ায় রোগীর শরীরে অতিরিক্ত পানি ও ফোলা ভাব (oedema) থাকে, কিন্তু কার্যকর সঞ্চালনকারী রক্তের পরিমাণ কমে যাওয়ায় কিডনি পানি ধরে রাখে। কনজেস্টিভ হার্ট ফেইলিউর, লিভার সিরোসিস এবং নেফ্রোটিক সিন্ড্রোমে এটি ক্লাসিক্যাল।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What are the life-threatening neurological manifestations of Severe Acute Hyponatraemia (Na+ < 120 mmol/L)?",
+    "answer": "Cerebral oedema presenting with confusion, lethargy, generalized tonic-clonic seizures, coma, and tentorial herniation/death",
+    "explanation_bn": "সোডিয়ামের মাত্রা খুব দ্রুত ১২০-এর নিচে নেমে গেলে অসমোটিক গ্রেডিয়েন্টের কারণে মস্তিষ্কের কোষে পানি প্রবেশ করে সেরিব্রাল ইডিমা তৈরি হয়। এর ফলে তীব্র বিভ্রান্তি, খিঁচুনি, কোমা এবং শ্বাস বন্ধ হয়ে মৃত্যু হতে পারে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What is the definitive first-line treatment for Hypovolaemic Hyponatraemia?",
+    "answer": "Intravenous isotonic 0.9% normal saline to restore effective intravascular volume",
+    "explanation_bn": "হাইপোভোলেমিক হাইপোনাট্রেমিয়ায় রক্তের ভলিউম কমে যাওয়ার কারণে এডিএইচ সক্রিয় থাকে। স্বাভাবিক ০.৯% নরমাল স্যালাইন দিলে রক্তের ভলিউম ফিরে আসে এবং এডিএইচ বন্ধ হয়ে কিডনি অতিরিক্ত পানি বের করে সোডিয়াম স্বাভাবিক করে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What is the primary first-line therapeutic intervention for SIADH?",
+    "answer": "Fluid restriction (typically 500–1000 mL/day)",
+    "explanation_bn": "SIADH-এর প্রথম সারির সবচেয়ে কার্যকর চিকিৎসা হলো পানি বা তরল গ্রহণ নিয়ন্ত্রণ করা (Fluid restriction)। অতিরিক্ত পানি পান বন্ধ করলে কিডনির ওপর পানির চাপ কমে এবং সিরাম সোডিয়াম ধীরে ধীরে বৃদ্ধি পায়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "How is acute, severely symptomatic hyponatraemia (e.g., with seizures or coma) treated emergency-wise?",
+    "answer": "Intravenous 3% hypertonic saline (100–150 mL bolus) with frequent serum sodium monitoring",
+    "explanation_bn": "তীব্র উপসর্গযুক্ত বা খিঁচুনিসহ হাইপোনাট্রেমিয়ায় অবিলম্বে ৩% হাইপারটনিক স্যালাইন দিতে হয়। লক্ষ্য হলো দ্রুত সোডিয়াম ৪-৬ mmol/L বাড়িয়ে মস্তিষ্কের প্রাণঘাতী ফোলা ও খিঁচুনি বন্ধ করা, এরপর সংশোধন গতি কমিয়ে আনা।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What is the maximum safe rate of serum sodium correction in chronic hyponatraemia, and what catastrophe does it prevent?",
+    "answer": "Do not exceed 8–10 mmol/L in the first 24 hours (and ≤ 8 mmol/L per 24 hours thereafter) to prevent Osmotic Demyelination Syndrome (Central Pontine Myelinolysis)",
+    "explanation_bn": "ক্রনিক হাইপোনাট্রেমিয়ায় সোডিয়াম খুব দ্রুত বাড়ালে মস্তিষ্কের পনস অংশের মাইলিন নষ্ট হয়ে সেন্ট্রাল পনটাইন মাইলিনোলাইসিস (অসমোটিক ডিমায়েলিনেশন) হতে পারে, যা স্থায়ী প্যারালাইসিস ও মৃত্যু ঘটায়। তাই প্রথম ২৪ ঘণ্টায় ৮-১০ mmol/L-এর বেশি সোডিয়াম বাড়ানো নিষিদ্ধ।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What are the common causes of Hypokalaemia (K+ < 3.5 mmol/L)?",
+    "answer": "Gastrointestinal losses (vomiting, diarrhoea), Loop and Thiazide diuretics, Primary Hyperaldosteronism (Conn syndrome), intracellular shifts (insulin, beta2-agonists, alkalosis)",
+    "explanation_bn": "হাইপোক্যালেমিয়ার প্রধান কারণ হলো ডায়রিয়া/বমিতে পটাসিয়াম অপচয়, লুপ ও থায়াজাইড ডাইইউরেটিক্স এবং অতিরিক্ত অ্যালডোস্টেরন। এছাড়াও রক্তে অ্যালকালোসিস, ইনসুলিন বা সালবিউটামলের প্রভাবে পটাসিয়াম কোষের ভেতর ঢুকে গিয়ে সিরাম পটাসিয়াম কমে যায়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What characteristic ECG abnormalities are observed in Hypokalaemia?",
+    "answer": "Flattened or inverted T waves, ST-segment depression, prominent U waves, and prolonged PR/QT intervals",
+    "explanation_bn": "হাইপোক্যালেমিয়ায় ইসিজিতে টি ওয়েভ ফ্ল্যাট বা চ্যাপ্টা হয়ে যায়, এসটি ডিপ্রেশন দেখা দেয় এবং টি ওয়েভের পরপরই একটি স্বতন্ত্র অতিরিক্ত ঢেউ বা প্রোমিনেন্ট ইউ ওয়েভ (prominent U wave) দেখা যায়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What electrolyte deficiency must ALWAYS be checked and corrected in refractory hypokalaemia?",
+    "answer": "Hypomagnesaemia",
+    "explanation_bn": "যদি পটাসিয়াম দেওয়ার পরও তা না বাড়ে (refractory hypokalaemia), তবে অবশ্যই ম্যাগনেসিয়ামের ঘাটতি সন্দেহ করতে হবে। ম্যাগনেসিয়াম কিডনির ROMK চ্যানেল বন্ধ রাখে; ম্যাগনেসিয়াম কমে গেলে প্রস্রাবের সাথে লাগাতার পটাসিয়াম অপচয় হতে থাকে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What are the principal causes of Hyperkalaemia (K+ > 5.0 mmol/L)?",
+    "answer": "Acute Kidney Injury (AKI), Advanced CKD, ACE inhibitors / ARBs, Potassium-sparing diuretics, Addison disease (adrenal insufficiency), acidosis, and massive tissue breakdown (rhabdomyolysis)",
+    "explanation_bn": "হাইপারক্যালেমিয়ার প্রধান কারণ হলো কিডনি বিকল (AKI/CKD), রেনিন-অ্যাঞ্জিওটেনসিন ব্লকার ওষুধ (ACEi/ARB), স্পাইরোনোল্যাকটোন, অ্যাডিসন ডিজিজ (অ্যালডোস্টেরনের অভাব), অ্যাসিডিউসিস এবং পেশী ধ্বংস বা ক্রাশ ইনজুরি।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What is the earliest ECG finding in Hyperkalaemia, and how does it progress?",
+    "answer": "Earliest: Tall, peaked, tented T waves with narrow base; progresses to PR prolongation, P wave loss, QRS widening, \"sine wave\" pattern, and ventricular fibrillation/asystole",
+    "explanation_bn": "হাইপারক্যালেমিয়ার সবচেয়ে প্রথম ইসিজি পরিবর্তন হলো উঁচু ও সুচালো টি-ওয়েভ (tall peaked T waves)। মাত্রা আরও বাড়লে পি-ওয়েভ হারিয়ে যায়, কিউআরএস চওড়া হয়ে সাইন-ওয়েভ (sine wave) রূপ নেয় এবং দ্রুত ভেন্ট্রিকুলার ফিব্রিলেশন বা কার্ডিয়াক অ্যারেস্ট ঘটে।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What is the immediate first step in managing hyperkalaemia with ECG changes, and what is its mechanism?",
+    "answer": "Intravenous 10% Calcium gluconate (10 mL over 5–10 mins); antagonizes membrane depolarization and stabilizes myocardial excitability without altering serum potassium",
+    "explanation_bn": "হাইপারক্যালেমিয়ায় ইসিজিতে পরিবর্তন এলে সর্বপ্রথম আইভি ক্যালসিয়াম গ্লুকোনেট দিতে হয়। এটি কার্ডিয়াক মায়োসাইট মেমব্রেন স্থিতিশীল করে প্রাণঘাতী অ্যারিদমিয়া থেকে হার্টকে বাঁচায়, তবে এটি সিরাম পটাসিয়াম কমায় না।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "Which medications temporarily shift potassium from the extracellular space into cells during hyperkalaemia emergency?",
+    "answer": "Regular insulin (10 units) with 50 mL 50% dextrose (D50), nebulized beta2-agonist (salbutamol 10–20 mg), and IV sodium bicarbonate (if metabolic acidosis is present)",
+    "explanation_bn": "পটাসিয়ামকে দ্রুত রক্ত থেকে কোষের ভেতর ঢুকিয়ে দেওয়ার জন্য ইনসুলিনের সাথে গ্লুকোজ (ইনসুলিন Na-K এটিপেজ পাম্প সক্রিয় করে), উচ্চমাত্রার নেবুলাইজড সালবিউটামল এবং অ্যাসিডোসিস থাকলে সোডিয়াম বাইকার্বোনেট দেওয়া হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "How is potassium definitively eliminated from the body in hyperkalaemia?",
+    "answer": "Loop diuretics (furosemide), potassium binders (patiromer, sodium zirconium cyclosilicate), or urgent Haemodialysis",
+    "explanation_bn": "শরীর থেকে স্থায়ীভাবে অতিরিক্ত পটাসিয়াম বের করার উপায় হলো লুপ ডাইইউরেটিক্স দিয়ে প্রস্রাবের মাধ্যমে বের করা, অন্ত্রে পটাসিয়াম বাইন্ডার ওষুধ প্রয়োগ করা এবং মারাত্মক বা ওষুধে অনিয়ন্ত্রিত ক্ষেত্রে জরুরি হেমোডায়ালাইসিস করা।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What are the most common etiologies of Hypocalcaemia?",
+    "answer": "Post-thyroidectomy surgical hypoparathyroidism, Vitamin D deficiency, Chronic Kidney Disease (CKD), and Hypomagnesaemia",
+    "explanation_bn": "হাইপোক্যালসেমিয়ার সবচেয়ে সাধারণ কারণ হলো থাইরয়েড অপারেশনের সময় প্যারাথাইরয়েড গ্রন্থি ক্ষতিগ্রস্ত হওয়া, ভিটামিন ডি-র তীব্র ঘাটতি, ক্রনিক কিডনি ডিজিজ (অ্যাক্টিভ ভিটামিন ডি তৈরি না হওয়া) এবং ম্যাগনেসিয়ামের ঘাটতি।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What clinical neuromuscular signs and ECG abnormalities indicate Hypocalcaemia?",
+    "answer": "Perioral/digital paresthesias, tetany, Chvostek sign (facial twitch on tapping facial nerve), Trousseau sign (carpal spasm with BP cuff), seizures, and prolonged QT interval",
+    "explanation_bn": "ক্যালসিয়াম কমলে স্নায়ুর উত্তেজনা বাড়ে, ফলে ঠোঁটে ও আঙুলে ঝিঁঝিঁ পোকা ধরা, টিট্যানি বা মাংসপেশির খিঁচুনি, শভোস্টেক সাইন (গালে টোকা দিলে মুখের পেশী কেঁপে ওঠা) এবং ট্রসো সাইন (বিপি কাফ ফোলালে কবজির খিঁচুনি) দেখা যায়। ইসিজিতে কিউটি ইন্টারভ্যাল দীর্ঘ হয়।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "How is severe, symptomatic hypocalcaemia urgently treated?",
+    "answer": "Intravenous 10% Calcium gluconate (10–20 mL in 50–100 mL D5W over 10–20 mins) with continuous cardiac monitoring",
+    "explanation_bn": "তীব্র টিট্যানি বা খিঁচুনিযুক্ত হাইপোক্যালসেমিয়ায় কার্ডিয়াক মনিটরিং নিশ্চিত করে শিরায় ১০% ক্যালসিয়াম গ্লুকোনেট ধীরে ধীরে ইনফিউশন দিতে হয়। সাথে ম্যাগনেসিয়াম ঘাটতি থাকলে তা-ও সংশোধন করা অপরিহার্য।"
+  },
+  {
+    "topic": "Nephrology",
+    "question": "What is the single most common cause of hypercalcaemia in outpatients vs hospitalized inpatients?",
+    "answer": "Outpatients: Primary Hyperparathyroidism (> 90%); Hospitalized Inpatients: Malignancy (bony metastases or PTHrP secretion)",
+    "explanation_bn": "বহির্বিভাগে আসা সুস্থ রোগীদের হাইপারক্যালসেমিয়ার প্রধান কারণ হলো প্রাইমারি হাইপারপ্যারাথাইরয়েডিজম (প্যারাথাইরয়েড অ্যাডিনোমা)। অন্যদিকে হাসপাতালে ভর্তি গুরুতর রোগীদের ক্ষেত্রে প্রধান কারণ হলো ক্যান্সার বা ম্যালিগন্যান্সি (হাড়ে মেটাস্ট্যাসিস বা PTHrP তৈরি)।"
   }
 ]

@@ -1,0 +1,158 @@
+[
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What is the earliest clinical manifestation of Vitamin A deficiency?",
+    "answer": "Night blindness (nyctalopia) due to impaired rhodopsin regeneration",
+    "explanation_bn": "ভিটামিন এ ঘাটতির সবচেয়ে প্রথম ক্লিনিক্যাল লক্ষণ হলো রাতকানা রোগ বা নাইট ব্লাইন্ডনেস (Night blindness)। রড কোষে স্বল্প আলোতে দেখার জন্য প্রয়োজনীয় রডপসিন (rhodopsin) পিগমেন্ট তৈরিতে রেটিনল অপরিহার্য, যার অভাবে মৃদু আলো বা অন্ধকারে দৃষ্টিশক্তি লোপ পায়।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What are Bitot spots, and where are they characteristically located in Vitamin A deficiency?",
+    "answer": "Foamy, triangular, silvery-white keratinized plaques on the bulbar conjunctiva",
+    "explanation_bn": "বিটট স্পটস (Bitot spots) হলো ভিটামিন এ ঘাটতির একটি ক্লাসিক্যাল চক্ষুলক্ষণ। এটি চোখের বালবার কনজাংটিভার লিম্বাসের পাশে ত্রিকোণাকৃতির, ফেনার মতো বা রূপালী-সাদা কেরাটিনাইসড প্লেক হিসেবে দেখা যায়। এটি কনজাংটিভার এপিথেলিয়ামের স্কোয়ামাস মেটাপ্লাসিয়ার ফল।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What is the full progression sequence of ocular manifestations in Vitamin A deficiency (Xerophthalmia)?",
+    "answer": "Night blindness → Conjunctival xerosis → Bitot spots → Corneal xerosis → Corneal ulceration → Keratomalacia (causing irreversible blindness)",
+    "explanation_bn": "জেরোপথ্যালমিয়া বা ভিটামিন এ ঘাটতিজনিত চোখের লক্ষণের ধারাবাহিক ক্রম হলো: প্রথমে রাতকানা রোগ, তারপর কনজাংটিভার শুষ্কতা, বিটট স্পটস, কর্নিয়ার শুষ্কতা, কর্নিয়াল আলসার এবং পরিশেষে কেরাটোমেলেসিয়া। কেরাটোমেলেসিয়ায় সম্পূর্ণ কর্নিয়া গলে গিয়ে স্থায়ী অন্ধত্ব ঘটে।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What are the characteristic non-ocular skin findings in Vitamin A deficiency?",
+    "answer": "Follicular hyperkeratosis (Phrynoderma or \"toad skin\") with rough, dry skin",
+    "explanation_bn": "ভিটামিন এ-র অভাবে ত্বকে কেরাটিন তৈরির প্রক্রিয়া ব্যাহত হয়ে ফলিকুলার হাইপারকেরাটোসিস বা ফ্রাইনোডার্মা (Phrynoderma) দেখা দেয়। চুল বা লোমকূপের গোড়ায় শক্ত ও খসখসে দানা তৈরি হয় যা দেখতে ব্যাঙের পিঠের চামড়ার মতো (toad skin) লাগে।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "How does Vitamin A deficiency affect childhood infectious morbidity and mortality?",
+    "answer": "Impairs mucosal barrier and cell-mediated immunity, markedly increasing the severity and fatality of measles and diarrhoeal diseases",
+    "explanation_bn": "ভিটামিন এ অন্ত্র ও শ্বাসনালীর মিউকোসাল ব্যারিয়ার এবং ইমিউন সিস্টেমের অখণ্ডতা রক্ষা করে। এর ঘাটতি থাকলে হাম (measles) ও ডায়রিয়া অত্যন্ত মারাত্মক ও প্রাণঘাতী রূপ নেয়, এজন্য তীব্র হামে আক্রান্ত সব শিশুকে ভিটামিন এ ক্যাপসুল দেওয়া জরুরি।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What are the hallmark toxicities of chronic hypervitaminosis A?",
+    "answer": "Pseudotumour cerebri (idiopathic intracranial hypertension with headache/papilloedema), hepatotoxicity, alopecia, dry skin, bone pain, and teratogenicity",
+    "explanation_bn": "অতিরিক্ত ভিটামিন এ গ্রহণের ফলে মস্তিষ্কে চাপ বৃদ্ধি পেয়ে সিউডোটউমার সেরিব্রি (ইন্ট্রাক্রেনিয়াল হাইপারটেনশন) হতে পারে, যার ফলে তীব্র মাথাব্যথা ও বমি হয়। এছাড়া যকৃতের ক্ষতি, চুল পড়া, চামড়া শুকিয়ে যাওয়া এবং গর্ভাবস্থায় ভ্রূণের মারাত্মক জন্মগত ত্রুটি (teratogenicity) ঘটে।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What are the clinical manifestations of Vitamin D deficiency in children vs adults?",
+    "answer": "Rickets in children (defective bone matrix mineralization at growth plates); Osteomalacia in adults",
+    "explanation_bn": "ভিটামিন ডি-র অভাবে শিশুদের ক্ষেত্রে রিকেটস (Rickets) হয়, যাতে গ্রোথ প্লেটে হাড়ের খনিজায়ন ব্যাহত হয়ে বাঁকা পা (bowed legs) ও রিক্যাটিক রোজারি দেখা যায়। প্রাপ্তবয়স্কদের ক্ষেত্রে এপিফাইসিস বন্ধ হয়ে যাওয়ার পর অস্টিওম্যালাসিয়া (Osteomalacia) হয়, যাতে হাড় নরম ও ভঙ্গুর হয়ে তীব্র হাড়ে ব্যথা করে।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What clinical syndrome characterizes Vitamin D toxicity?",
+    "answer": "Hypercalcaemia, hypercalciuria, nephrolithiasis/nephrocalcinosis, polyuria, constipation, and soft-tissue metastatic calcification",
+    "explanation_bn": "ভিটামিন ডি বিষক্রিয়ার মূল কারণ হলো অতিরিক্ত ক্যালসিয়াম শোষণজনিত হাইপারক্যালসেমিয়া (Hypercalcaemia)। এর ফলে ঘন ঘন প্রস্রাব (polyuria), অতিরিক্ত তৃষ্ণা, কোষ্ঠকাঠিন্য, কিডনিতে পাথর (nephrolithiasis) এবং কিডনি ও রক্তনালীতে ক্যালসিয়াম জমে কিডনি বিকল হতে পারে।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What neurological and haematological deficits are caused by Vitamin E deficiency?",
+    "answer": "Peripheral sensory neuropathy, cerebellar ataxia, loss of deep tendon reflexes (areflexia), loss of proprioception/vibration, and haemolytic anaemia",
+    "explanation_bn": "ভিটামিন ই একটি প্রধান লিপিড অ্যান্টিঅক্সিডেন্ট। এর ঘাটতি হলে স্নায়ুতন্তুর মায়েলিন ও মেমব্রেন ক্ষতিগ্রস্ত হয়ে অ্যাটাক্সিয়া (ভারসাম্যহীনতা), পেরিফেরাল নিউরোপ্যাথি এবং প্রতিবর্ত ক্রিয়া হ্রাস (areflexia) পায়। পাশাপাশি লোহিত রক্তকণিকার মেমব্রেন ভেঙে হিমোলাইটিক অ্যানিমিয়া হতে পারে।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What are the manifestations of Vitamin E toxicity?",
+    "answer": "Bleeding diathesis and increased risk of haemorrhagic stroke due to antagonism of vitamin K-dependent coagulation",
+    "explanation_bn": "ভিটামিন ই অতিরিক্ত গ্রহণ করলে তা ভিটামিন কে-র বিপাকে বাধা দেয়, যার ফলে রক্ত জমাট বাঁধার ক্ষমতা ব্যাহত হয়ে অতিরিক্ত রক্তক্ষরণের প্রবণতা (bleeding tendency) এবং মস্তিষ্কে রক্তক্ষরণজনিত স্ট্রোকের ঝুঁকি বেড়ে যায়।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "Which clotting factors and regulatory proteins are dependent on Vitamin K for activation?",
+    "answer": "Coagulation factors II (prothrombin), VII, IX, X, and natural anticoagulant proteins C and S",
+    "explanation_bn": "ভিটামিন কে যকৃতে ক্লটিং ফ্যাক্টর ২, ৭, ৯, ১০ এবং অ্যান্টিকোয়াগুল্যান্ট প্রোটিন সি ও এস-এর গামা-কার্বক্সিলেশনের (gamma-carboxylation) জন্য অপরিহার্য। এর ঘাটতি হলে প্রোথ্রম্বিন টাইম (PT/INR) বেড়ে যায় এবং রক্তক্ষরণ দেখা দেয়।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What are the classic complications of Thiamine (Vitamin B1) deficiency?",
+    "answer": "Dry beriberi (peripheral neuropathy), Wet beriberi (high-output heart failure), and Wernicke-Korsakoff syndrome",
+    "explanation_bn": "থায়ামিন (ভিটামিন বি১) ঘাটতিতে ড্রাই বেরিবেরি (হাত-পায়ের পেরিফেরাল সেন্সরি ও মোটর নিউরোপ্যাথি) এবং ওয়েট বেরিবেরি (হাই-আউটপুট হার্ট ফেইলিউর ও ইডিমা) হয়। ক্রনিক অ্যালকোহলিকদের ক্ষেত্রে মস্তিষ্কে ওয়্যারনিক-করসাকফ সিন্ড্রোম দেখা দেয়।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What constitutes the classic clinical triad of Wernicke encephalopathy?",
+    "answer": "Acute mental confusion + Ophthalmoplegia/nystagmus + Cerebellar ataxia",
+    "explanation_bn": "ওয়্যারনিক এনসেফালোপ্যাথির ট্রায়াড হলো: হঠাৎ তীব্র মানসিক বিভ্রান্তি (Confusion), চোখের মাংসপেশির দুর্বলতা বা অনিয়ন্ত্রিত নড়াচড়া (Ophthalmoplegia/Nystagmus) এবং হাঁটার ভারসাম্যহীনতা (Ataxia)। এতে অবিলম্বে আইভি থায়ামিন না দিলে করসাকফ সাইকোসিস বা স্মৃতিবিলোপ হতে পারে।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What clinical findings characterize Riboflavin (Vitamin B2) deficiency?",
+    "answer": "Angular stomatitis (cracks at mouth corners), cheilosis, magenta glossitis, and seborrhoeic dermatitis",
+    "explanation_bn": "রিবোফ্লাভিন (ভিটামিন বি২)-এর অভাবে মুখের কোণায় ঘা বা ফাটল (angular stomatitis), ঠোঁট ফেটে যাওয়া (cheilosis) এবং জিহ্বা লালচে-বেগুনি হয়ে ফুলে ওঠা (magenta tongue/glossitis) দেখা যায়।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "Which medication classically precipitates Pyridoxine (Vitamin B6) deficiency, and what are its features?",
+    "answer": "Isoniazid (INH); causes peripheral sensory neuropathy, sideroblastic anaemia, and seizures/dermatitis",
+    "explanation_bn": "টিবির ওষুধ আইসোনিয়াজিড (INH) ভিটামিন বি৬ বা পাইরিডক্সিনের কার্যকারিতা নষ্ট করে। এর ফলে পেরিফেরাল নিউরোপ্যাথি (হাতে-পায়ে ঝিমঝিম ও জ্বালাপোড়া) এবং সিডারোব্লাস্টিক অ্যানিমিয়া হতে পারে, যা প্রতিরোধ করতে INH-এর সাথে পাইরিডক্সিন সাপ্লিমেন্ট দেওয়া হয়।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What dietary habit classically causes Biotin (Vitamin B7) deficiency, and what are its signs?",
+    "answer": "Excessive consumption of raw egg whites (avidin binds biotin); presents with alopecia and periorificial dermatitis",
+    "explanation_bn": "কাঁচা ডিমের সাদা অংশে অ্যাভিডিন (avidin) নামক প্রোটিন থাকে যা বায়োটিনের সাথে শক্ত বন্ধন তৈরি করে বায়োটিন শোষণ আটকে দেয়। এর ঘাটতিতে চুল পড়া (alopecia) এবং মুখ, নাক ও চোখের চারপাশে লালচে আঁশযুক্ত প্রদাহ (periorificial dermatitis) হয়।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "How does Folate (Vitamin B9) deficiency differ clinically from Vitamin B12 deficiency in megaloblastic anaemia?",
+    "answer": "Both cause megaloblastic anaemia, but Folate deficiency lacks subacute combined degeneration / neurological deficits and causes fetal neural tube defects",
+    "explanation_bn": "ফোলেট এবং ভিটামিন বি১২ উভয় ঘাটতিতেই মেগালোব্লাস্টিক অ্যানিমিয়া হয়। তবে ফোলেটের অভাবে স্নায়বিক অবক্ষয় (subacute combined degeneration) হয় না, যা বি১২ ঘাটতিতে প্রধান বৈশিষ্ট্য। গর্ভাবস্থায় ফোলেট ঘাটতি থাকলে নবজাতকের নিউরাল টিউব ডিফেক্ট (স্পাইনা বাইফিডা) হয়।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What clinical findings are diagnostic of Vitamin C deficiency (Scurvy)?",
+    "answer": "Swollen bleeding gums, perifollicular hyperkeratosis with haemorrhages, corkscrew hairs, petechiae, subperiosteal haematomas, and poor wound healing",
+    "explanation_bn": "ভিটামিন সি কোলাজেন সংশ্লেষণের জন্য অপরিহার্য। স্কার্ভি রোগে কৈশিকনালীর ভঙ্গুরতার কারণে মাড়ি দিয়ে রক্ত পড়া, লোমকূপের চারপাশে বিন্দু রক্তক্ষরণ (perifollicular haemorrhage), পেঁচানো চুল (corkscrew hairs) এবং ক্ষত শুকাতে অস্বাভাবিক বিলম্ব হয়।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What is the classic clinical triad of Zinc deficiency?",
+    "answer": "Periorificial/acral dermatitis + Alopecia + Diarrhoea (also causes hypogeusia and impaired wound healing)",
+    "explanation_bn": "জিঙ্কের ঘাটতির ক্লাসিক্যাল ট্রায়াড হলো মুখ ও মলদ্বারের চারপাশের ত্বকে প্রদাহ (periorificial dermatitis), চুল পড়া (alopecia) এবং দীর্ঘস্থায়ী ডায়রিয়া (diarrhoea)। এছাড়াও স্বাদ ও গন্ধের অনুভূতি কমে যাওয়া এবং ক্ষত না শুকানো এর প্রধান লক্ষণ।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What is Acrodermatitis enteropathica?",
+    "answer": "An autosomal recessive inborn error of intestinal zinc absorption (SLC39A4 mutation) presenting with severe periorificial dermatitis, alopecia, and intractable diarrhoea upon weaning",
+    "explanation_bn": "অ্যাক্রোডার্মাটাইটিস এন্টেরোপ্যাথিকা হলো একটি জন্মগত বংশগত রোগ যাতে অন্ত্র থেকে জিঙ্ক শোষণের চ্যানেল নষ্ট থাকে। সাধারণত শিশুকে বুকের দুধ ছাড়িয়ে শক্ত খাবার দেওয়ার পরই মুখ ও যৌনাঙ্গের চারপাশে মারাত্মক ঘা, ডায়রিয়া ও চুল পড়া শুরু হয়।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What endemic medical conditions are caused by Selenium deficiency?",
+    "answer": "Keshan disease (endemic congestive cardiomyopathy) and Kashin-Beck disease (chronic deforming osteoarthropathy)",
+    "explanation_bn": "সেলেনিয়াম অ্যান্টিঅক্সিডেন্ট এনজাইম গ্লুটাথিয়ন পারঅক্সিডেজের গুরুত্বপূর্ণ উপাদান। এর তীব্র ঘাটতিতে হূৎপিণ্ডের মাংসপেশি নষ্ট হয়ে কেশান রোগ (কার্ডিওমায়োপ্যাথি) এবং জয়েন্ট নষ্ট হয়ে কাশিন-বেক অস্থি-সন্ধি রোগ দেখা যায়।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "How are Marasmus and Kwashiorkor differentiated clinically?",
+    "answer": "Marasmus is total calorie deficiency with severe muscle wasting and absent oedema; Kwashiorkor is predominant protein deficiency with pitting oedema, flaky-paint dermatosis, flag sign hair, and fatty liver",
+    "explanation_bn": "ম্যারাসমাস হলো প্রোটিন ও ক্যালোরি উভয়ের তীব্র ঘাটতি, যাতে শিশুর চামড়া-হাড় শুকিয়ে যায় কিন্তু কোনো ইডিমা থাকে না। পক্ষান্তরে কোয়াশিওরকরে প্রোটিনের ঘাটতি মুখ্য হওয়ায় সারা শরীরে জল জমা (pitting oedema), ত্বকে ফ্ল্যাকি-পেইন্ট ঘা, চুলে পতাকার মতো রঙের পরিবর্তন (flag sign) এবং ফ্যাটি লিভার দেখা যায়।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What endocrine disorders are recognized causes of pathological weight gain?",
+    "answer": "Hypothyroidism, Cushing syndrome, Insulinoma, and Hypothalamic obesity",
+    "explanation_bn": "হরমোনজনিত ওজন বৃদ্ধির প্রধান কারণগুলোর মধ্যে রয়েছে হাইপোথাইরয়েডিজম (বিপাক হার কমে যাওয়া), কুশিং সিন্ড্রোম (কর্টিসোলের আধিক্যজনিত ট্রাঙ্কাল স্থূলতা), ইনসুলিনোমা (বারবার হাইপোগ্লাইসেমিয়ার জন্য অতিরিক্ত খাওয়া) এবং হাইপোথ্যালামিক টিউমার বা প্রদাহ।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "Which classes of medications are commonly associated with drug-induced weight gain?",
+    "answer": "Atypical antipsychotics (olanzapine, clozapine), antidepressants (mirtazapine, amitriptyline), gabapentinoids (pregabalin), insulin, sulfonylureas, thiazolidinediones, glucocorticoids, and sodium valproate",
+    "explanation_bn": "ওজন বৃদ্ধি ঘটায় এমন ওষুধগুলোর মধ্যে ওলানজাপাইন ও ক্লোজাপাইন (অ্যান্টিসাইকোটিক), মিরটাজাপাইন (অ্যান্টিডিপ্রেসেন্ট), ইনসুলিন ও সালফোনাইলইউরিয়া (ডায়াবেটিস ওষুধ), প্রিগাবালিন, কর্টিকোস্টেরয়েড এবং সোডিয়াম ভ্যালপ্রোয়েট অন্যতম।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What is Tirzepatide and its therapeutic mechanism of action for obesity and type 2 diabetes?",
+    "answer": "A dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist that produces greater weight reduction than selective GLP-1 agonists",
+    "explanation_bn": "টিরজেপাটাইড (Tirzepatide) হলো একটি আধুনিক ডুয়াল জিআইপি (GIP) এবং জিএলপি-১ (GLP-1) রিসেপ্টর অ্যাগোনিস্ট। এটি ক্ষুধা দমন করে, ইনসুলিন নিঃসরণ বাড়ায় এবং গ্যাস্ট্রিক এম্পটিয়িং বিলম্বিত করে ২০% পর্যন্ত ওজন হ্রাস করতে সক্ষম।"
+  },
+  {
+    "topic": "Nutrition and Metabolism",
+    "question": "What are the anatomical and nutritional characteristics of Roux-en-Y Gastric Bypass (RYGB)?",
+    "answer": "Combines restrictive gastric pouch with malabsorptive bypass of duodenum and proximal jejunum; achieves substantial long-term weight loss but carries highest risk of iron, calcium, folate, and B12 deficiencies",
+    "explanation_bn": "রউ-এন-ওয়াই গ্যাস্ট্রিক বাইপাস পেটের থলি ছোট করার পাশাপাশি ডুওডেনাম বাইপাস করে খাবার সরাসরি জেজুনামে পাঠায়। ফলে দ্রুত ওজন কমলেও আয়রন, ক্যালসিয়াম, ভিটামিন বি১২ ও ফ্যাটের শোষণ ব্যাহত হয়ে আজীবন ভিটামিন সাপ্লিমেন্ট গ্রহণের প্রয়োজন হয়।"
+  }
+]
