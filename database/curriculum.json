@@ -1,0 +1,84 @@
+{
+  "parts": [
+    {
+      "id": "clinical",
+      "title": "Clinical Part",
+      "icon": "🩺",
+      "mother_topics": [
+        {
+          "id": "medicine",
+          "title": "Medicine",
+          "icon": "💊",
+          "description": "Internal Medicine & Super-specialties (Cardio, Neuro, Nephro, etc.)"
+        },
+        {
+          "id": "surgery",
+          "title": "Surgery",
+          "icon": "✂️",
+          "description": "General Surgery, Orthopedics, Urology, Surgical Principles"
+        },
+        {
+          "id": "gyne_obs",
+          "title": "Gyne & Obs",
+          "icon": "👶",
+          "description": "Obstetrics & Gynaecology, Maternal-Fetal Medicine"
+        }
+      ]
+    },
+    {
+      "id": "para_clinical",
+      "title": "Para Clinical Part",
+      "icon": "🔬",
+      "mother_topics": [
+        {
+          "id": "anatomy",
+          "title": "Anatomy",
+          "icon": "🦴",
+          "description": "Gross Anatomy, Histology, Embryology & Neuroanatomy"
+        },
+        {
+          "id": "physiology",
+          "title": "Physiology",
+          "icon": "⚡",
+          "description": "Systemic Human Physiology & Homeostasis"
+        },
+        {
+          "id": "biochemistry",
+          "title": "Biochemistry",
+          "icon": "🧬",
+          "description": "Metabolism, Enzymes, Molecular Biology & Genetics"
+        },
+        {
+          "id": "pharmacology",
+          "title": "Pharmacology",
+          "icon": "💊",
+          "description": "General Principles, ANS, CNS, Antimicrobials & Chemotherapy"
+        },
+        {
+          "id": "forensic_toxicology",
+          "title": "Forensic & Toxicology",
+          "icon": "⚖️",
+          "description": "Forensic Medicine, Medical Jurisprudence & Toxicology"
+        },
+        {
+          "id": "community_medicine",
+          "title": "Community Medicine",
+          "icon": "🏥",
+          "description": "Public Health, Epidemiology, Biostatistics & Healthcare"
+        },
+        {
+          "id": "pathology",
+          "title": "Pathology",
+          "icon": "🔬",
+          "description": "General Pathology, Hematology, Systemic & Clinical Pathology"
+        },
+        {
+          "id": "microbiology",
+          "title": "Microbiology",
+          "icon": "🦠",
+          "description": "Bacteriology, Virology, Mycology, Parasitology & Immunology"
+        }
+      ]
+    }
+  ]
+}

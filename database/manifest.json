@@ -6,7 +6,11 @@
     "count": 99,
     "topics": [
       "Cardiology"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "dermatology",
@@ -15,7 +19,11 @@
     "count": 15,
     "topics": [
       "Dermatology"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "endocrinology",
@@ -24,7 +32,11 @@
     "count": 52,
     "topics": [
       "Endocrinology"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "envenomation",
@@ -33,7 +45,11 @@
     "count": 13,
     "topics": [
       "Envenomation & Snakebite"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "environmental_medicine",
@@ -42,7 +58,11 @@
     "count": 9,
     "topics": [
       "Environmental Medicine"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "gastroenterology",
@@ -51,7 +71,11 @@
     "count": 46,
     "topics": [
       "Gastroenterology"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "geriatrics",
@@ -60,7 +84,11 @@
     "count": 13,
     "topics": [
       "Geriatrics"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "haematology",
@@ -69,7 +97,11 @@
     "count": 32,
     "topics": [
       "Haematology"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "immunology",
@@ -78,7 +110,11 @@
     "count": 24,
     "topics": [
       "Immunology"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "infectious_diseases",
@@ -87,7 +123,11 @@
     "count": 25,
     "topics": [
       "Infectious Diseases"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "nephrology",
@@ -96,7 +136,11 @@
     "count": 68,
     "topics": [
       "Nephrology"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "neurology_rapid_recall_all_46_explained",
@@ -105,7 +149,11 @@
     "count": 46,
     "topics": [
       "Neurology"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "nutrition_and_metabolism",
@@ -114,7 +162,11 @@
     "count": 26,
     "topics": [
       "Nutrition and Metabolism"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "psychiatry",
@@ -123,7 +175,11 @@
     "count": 31,
     "topics": [
       "Psychiatry"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "respiratory_rapid_recall_all_70_explained",
@@ -131,16 +187,20 @@
     "title": "Respiratory Quick Recap All 70 Explained",
     "count": 70,
     "topics": [
-      "Tuberculosis (TB)",
       "Respiratory Failure",
       "Pleural Diseases",
-      "Bronchiectasis",
-      "Pneumonia",
+      "Lung Cancer",
+      "Tuberculosis (TB)",
       "Upper Respiratory Tract Infection (URTI)",
-      "Approach to Dyspnea",
+      "Bronchiectasis",
       "Asthma and COPD",
-      "Lung Cancer"
-    ]
+      "Pneumonia",
+      "Approach to Dyspnea"
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "rheumatology",
@@ -149,7 +209,11 @@
     "count": 104,
     "topics": [
       "Rheumatology"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   },
   {
     "id": "toxicology",
@@ -158,6 +222,10 @@
     "count": 40,
     "topics": [
       "Toxicology"
-    ]
+    ],
+    "part": "clinical",
+    "part_title": "Clinical Part",
+    "mother_topic": "medicine",
+    "mother_title": "Medicine"
   }
 ]
